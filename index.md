@@ -3,7 +3,7 @@ layout: default
 title: Psych 10
 ---
 
-##Psych 10: Introduction to Statistical Methods
+## Psych 10: Introduction to Statistical Methods
 
 This is a placeholder for Psych 10 (Introduction to Statistical Methods) at Stanford, starting in Winter 2018.
 
