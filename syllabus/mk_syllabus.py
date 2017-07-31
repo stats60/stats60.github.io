@@ -23,6 +23,7 @@ content=syll[1:]
 outfile='index.md'
 with open(outfile,'w') as f:
     f.write('---\nlayout: default\ntitle: Psych 10: Syllabus\n---\n')
+    f.write('## Syllabus\n\n')
     f.write('| '+'|'.join(syll_columns)+'|\n')
     # create separator
     sep=[]
@@ -39,6 +40,8 @@ with open(outfile,'w') as f:
                     s[c]='**'+s[c]+'**'
                     noclass=True
                 rowcontent.append(s[c])
+        if s[0]=='TBD':
+            noclass=True
         if not noclass:
             # add link
             rowcontent[0]='[%s](../lectures/lecture%02d)'%(rowcontent[0],lecturectr)
