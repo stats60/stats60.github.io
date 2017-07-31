@@ -21,12 +21,14 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 **Course Requirements**:  You will need a laptop computer for use in every class.  If you do not have access to a laptop please contact the instructor ASAP and we will help you obtain access to one.  
 
+**Classrooom response**: We will use [PollEverywhere](http://polleverywhere.com) for responding to questions during class.  You will need a computer or device that enables you to respond during every class session.  Instructions will be provided on how to set up your PollEverywhere account.
+
 **Website**: The primary web site for the class is http://psych10.github.io.  We will use Canvas for in-class online quizzes, to submit assignments, and to post grades.
 
 **Discussion**.  We will be using Piazza to allow you to get help efficiently from both your classmates and the instructors. Please post your questions about the course material and course logistics to Piazza so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Piazza are available on the [Piazza page](https://piazza.com/class/j5sog4z8i73q7).
 
 
-**Materials**: The primary textbook is An Adventure in Statistics: The Reality Enigma by Andy Field.   The book is available for purchase at the Stanford Bookstore and has a companion web site with lots of additional resources at https://edge.sagepub.com/field-an-adventure-in-stats.  A copy of the book is on reserve at Li & Ma Science Library.
+**Materials**: The primary textbook is An Adventure in Statistics: The Reality Enigma by Andy Field.   The book is available for purchase at the Stanford Bookstore and has a companion web site with lots of additional resources [here] (https://edge.sagepub.com/field-an-adventure-in-stats).  A copy of the book is on reserve at Li & Ma Science Library.
 
 We will supplement this textbook with other [free online resources](../resources/):
 
@@ -34,7 +36,7 @@ You will need to install the free software package RStudio on your computer for 
 
 Lecture slides will be available on the Canvas site. The slides are not intended to replace attendance, since much of the class activity will go beyond the slides.
 
-The VPTL office offers tutoring for this class by appointment, which can be scheduled at https://vptl.stanford.edu/students/tutoring-foreign-language-practice.
+The VPTL office offers tutoring for this class by appointment, which can be scheduled [here] (https://vptl.stanford.edu/students/tutoring-foreign-language-practice).
 
 
 ## Assessment and grading
