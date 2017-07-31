@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 16
 ---
-# Lecture 16: 2/14
+# Lecture 16 (Hypothesis testing): 2/14
 
 ### Learning Objectives:
 1. Identify the components of a hypothesis test, including the parameter of interest, the null and alternative hypotheses, and the test statistic. (8a)

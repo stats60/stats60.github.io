@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 22
 ---
-# Lecture 22: 3/2
+# Lecture 22 (Relationships): 3/2
 
 ### Learning Objectives:
 1. Describe the concept of a contingency table for categorical data. (10d)

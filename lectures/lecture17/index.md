@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 17
 ---
-# Lecture 17: 2/16
+# Lecture 17 (Hypothesis testing, cont.): 2/16
 
 ### Learning Objectives:
 1. Describe how resampling can be used to compute a p-value. (8d)

@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 1
 ---
-# Lecture 1: 1/8
+# Lecture 1 (What is statistics? overview of the course): 1/8
 
 ### Learning Objectives:
 1. Describe the difference between experimental and observational research with regard to causal inference (1a)

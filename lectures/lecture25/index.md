@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 25
 ---
-# Lecture 25: 3/9
+# Lecture 25 (Comparing two means): 3/9
 
 ### Learning Objectives:
 1. Determine whether a one-sample t-test or two-sample t-test is appropriate for a given hypothesis. (9a)

@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 9
 ---
-# Lecture 9: 1/29
+# Lecture 9 (Probability): 1/29
 
 ### Learning Objectives:
 1. Describe the sample space for a selected random experiment. (5a)
