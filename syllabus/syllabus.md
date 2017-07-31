@@ -1,3 +1,7 @@
+---
+layout: default
+title: Psych 10: Syllabus
+---
 | Date|Topic|Reading/Assignment|
 | ---|---|---|
 | 1/8|What is statistics? overview of the course|Chapter 1|
