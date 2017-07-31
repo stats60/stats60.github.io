@@ -48,11 +48,11 @@ ul.posts li {
 }
 
 table {
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  border-collapse: collapse;
+    border-collapse: collapse;
 }
 
 table, th, td {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     border: 1px solid black;
 }
 
