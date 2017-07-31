@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 7
 ---
-# Lecture 7 (Presenting data): 1/24
+# Lecture 7 (1/24): Presenting data
 
 ### Learning Objectives:
 1. Describe the principles that distinguish between good and bad graphs, and use them to identify good versus bad graphs. (3d)

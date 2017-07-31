@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 18
 ---
-# Lecture 18 (Modern approaches): 2/21
+# Lecture 18 (2/21): Modern approaches
 
 ### Learning Objectives:
 1. Describe the proper interpretation of a confidence interval, and compute a confidence interval for the mean of a given dataset. (8h)

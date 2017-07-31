@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 5
 ---
-# Lecture 5 (Fitting models (central tendency)): 1/19
+# Lecture 5 (1/19): Fitting models (central tendency)
 
 ### Learning Objectives:
 1. Describe the basic equation for statistical models (outcome=model + error) (4a)

@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 28
 ---
-# Lecture 28 (Doing reproducible research): 3/16
+# Lecture 28 (3/16): Doing reproducible research
 
 ### Learning Objectives:
 1. Identify cases of circular analysis/double-dipping (11a)

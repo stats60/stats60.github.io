@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 12
 ---
-# Lecture 12 (Sampling): 2/5
+# Lecture 12 (2/5): Sampling
 
 ### Learning Objectives:
 1. Distinguish between a population and a sample, and between population parameters and statistics (7a)

@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 10
 ---
-# Lecture 10 (Probability, cont): 1/31
+# Lecture 10 (1/31): Probability, cont
 
 ### Learning Objectives:
 1. Describe the difference between a probability and a conditional probability (5d)

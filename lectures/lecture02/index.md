@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 2
 ---
-# Lecture 2 (Working with data ): 1/10
+# Lecture 2 (1/10): Working with data 
 
 ### Learning Objectives:
 1. Distinguish between different types of variables (quantitative/qualitative, discrete/continuous, scales of measurement) (2a)
