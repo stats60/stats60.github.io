@@ -54,6 +54,7 @@ with open(outfile,'w') as f:
                 lf.write('---\nlayout: default\ntitle: Psych 10: Lecture %d\n---\n'%lecturectr)
                 lf.write('# Lecture %d (%s): %s\n\n### Learning Objectives:\n'%(lecturectr,
                             s[0],s[1]))
+                lf.write('After this lecture, you should be able to:\n')
                 if len(s)>6:
                     learnobj=s[6].split('\n')
                     for li,l in enumerate(learnobj):
