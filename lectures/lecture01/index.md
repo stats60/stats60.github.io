@@ -5,6 +5,7 @@ title: Psych 10: Lecture 1
 # Lecture 1 (1/8): What is statistics? overview of the course
 
 ### Learning Objectives:
+After this lecture, you should be able to:
 1. Describe the difference between experimental and observational research with regard to causal inference (1a)
 2. Explain how randomization provides the ability to make inferences about causation. (1b)
 3. Identify potential sources of bias or confounding. (1c)

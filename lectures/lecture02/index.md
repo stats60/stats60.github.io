@@ -5,6 +5,7 @@ title: Psych 10: Lecture 2
 # Lecture 2 (1/10): Working with data 
 
 ### Learning Objectives:
+After this lecture, you should be able to:
 1. Distinguish between different types of variables (quantitative/qualitative, discrete/continuous, scales of measurement) (2a)
 2. Describe the concept of measurement error (2b)
 3. Distinguish between the concepts of reliability and validity and apply each concept to a particular dataset (2c)
