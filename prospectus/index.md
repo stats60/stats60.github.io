@@ -23,10 +23,10 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 **Website**: The primary web site for the class is http://psych10.github.io.  We will use Canvas for in-class online quizzes, to submit assignments, and to post grades.
 
-**Discussion**.  We will be using Piazza to allow you to get help efficiently from both your classmates and the instructors. Please post your questions about the course material and course logistics to Piazza so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Piazza are available on the Piazza page.
+**Discussion**.  We will be using Piazza to allow you to get help efficiently from both your classmates and the instructors. Please post your questions about the course material and course logistics to Piazza so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Piazza are available on the [Piazza page](https://piazza.com/class/j5sog4z8i73q7).
 
 
-**Materials**: The primary textbook is An Adventure in Statistics: The Reality Enigma by Andy Field.   The book is available for purchase at the Stanford Bookstore and has a companion web site with lots of additional resources at https://edge.sagepub.com/field-an-adventure-in-stats.  A copy of the book is on reserve at Li&Ma Science Library.
+**Materials**: The primary textbook is An Adventure in Statistics: The Reality Enigma by Andy Field.   The book is available for purchase at the Stanford Bookstore and has a companion web site with lots of additional resources at https://edge.sagepub.com/field-an-adventure-in-stats.  A copy of the book is on reserve at Li & Ma Science Library.
 
 We will supplement this textbook with other [free online resources](../resources/):
 
