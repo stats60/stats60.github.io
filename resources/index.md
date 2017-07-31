@@ -2,7 +2,7 @@
 
 ### Companion web site for textbook
 
-https://edge.sagepub.com/field-an-adventure-in-stats
+- https://edge.sagepub.com/field-an-adventure-in-stats
 
 ### Sources for interesting datasets
 
