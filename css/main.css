@@ -38,13 +38,25 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
+}
+
+table {
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
 }
 
 tr:nth-child(even) {background-color: #f2f2f2}
