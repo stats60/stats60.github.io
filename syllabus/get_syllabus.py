@@ -1,3 +1,9 @@
+"""
+grab all data from syllabus in google sheets
+based on example here: https://developers.google.com/sheets/api/quickstart/python
+"""
+
+
 
 from __future__ import print_function
 import httplib2
