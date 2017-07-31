@@ -49,10 +49,7 @@ ul.posts li {
 
 table {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-
-table {
-    border-collapse: collapse;
+  border-collapse: collapse;
 }
 
 table, th, td {
