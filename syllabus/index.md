@@ -2,6 +2,7 @@
 layout: default
 title: Psych 10: Syllabus
 ---
+## Syllabus
 | Date|Topic|Reading/Assignment|
 | ---|---|---|
 | [1/8](../lectures/lecture01)|What is statistics? overview of the course|Chapter 1|
@@ -34,4 +35,4 @@ title: Psych 10: Syllabus
 | [3/12](../lectures/lecture26)|Comparing more than two means|Chapter 16|
 | [3/14](../lectures/lecture27)|R lab: statistical inference||
 | [3/16](../lectures/lecture28)|Doing reproducible research||
-| [TBD](../lectures/lecture29)|Final meeting with project presentations?|
+| TBD|Final meeting with project presentations?|
