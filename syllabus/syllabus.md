@@ -3,7 +3,7 @@
 | 1/8|What is statistics? overview of the course|Chapter 1|
 | 1/10|Working with data |Chapter 2|
 | 1/12|R Basics I|Install RStudio, complete DataCamp Intro to R (parts 1 - 2)|
-| 1/15|no class, MLK day|
+| 1/15|**no class, MLK day**|
 | 1/17|Summarizing data|Chapter 3|
 | 1/19|Fitting models (central tendency)|Chapter 4|
 | 1/22|R Basics II||
@@ -18,7 +18,7 @@
 | 2/12|R lab: Data wrangling||
 | 2/14|Hypothesis testing|Chapter 10|
 | 2/16|Hypothesis testing, cont.||
-| 2/19|no class, Presidents day|
+| 2/19|**no class, Presidents day**|
 | 2/21|Modern approaches|Chapter 11|
 | 2/23|Modern approaches,cont.||
 | 2/26|Modern approaches,cont.||
