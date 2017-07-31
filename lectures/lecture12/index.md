@@ -2,9 +2,9 @@
 layout: default
 title: Psych 10: Lecture 12
 ---
-Lecture 12 (2/5)
+# Lecture 12: 2/5
 
-Learning Objectives:
+##Learning Objectives:
 7a. Distinguish between a population and a sample, and between population parameters and statistics
 7b. Describe the concepts of sampling error and sampling distribution
 7c. Describe how the Central Limit Theorem determines the nature of the sampling distribution of the mean
