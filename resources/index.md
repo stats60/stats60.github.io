@@ -3,9 +3,7 @@
 
 Here are just a few curated resources that should be helpful for the course.
 
-### Companion web site for textbook
-
-- https://edge.sagepub.com/field-an-adventure-in-stats
+### [Companion web site for textbook](https://edge.sagepub.com/field-an-adventure-in-stats)
 
 ### Sources for interesting datasets
 
