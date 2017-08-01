@@ -5,9 +5,6 @@ title: Psych 10
 
 ## Psych 10: Introduction to Statistical Methods
 
-This is a placeholder for Psych 10 (Introduction to Statistical Methods) at Stanford, starting in Winter 2018.
+This is the primary web site for Psych 10 (Introduction to Statistical Methods) at Stanford, being taught in Winter 2018.
 
-Textbook: [An Adventure in Statistics: The Reality Enigma](https://edge.sagepub.com/field-an-adventure-in-stats)
-
-We will also use [Datacamp](https://www.datacamp.com/) for R training.
-
+![alt text](https://www.geeksaresexy.net/wp-content/uploads/2010/12/stats.jpg)
