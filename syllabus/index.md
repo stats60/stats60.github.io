@@ -6,8 +6,7 @@ title: Psych 10: Syllabus
 
 | Date|Topic|Reading/Assignment|
 | ---|---|---|
-| [1/8](../lectures/lecture01)|What is statistics? overview of the course|Read Chapter 1
-Complete course survey: https://goo.gl/forms/ddAS5dxwTbN9pcsh1|
+| [1/8](../lectures/lecture01)|What is statistics? overview of the course|Read Chapter 1, Complete course survey: https://goo.gl/forms/ddAS5dxwTbN9pcsh1|
 | [1/10](../lectures/lecture02)|Working with data |Read Chapter 2|
 | [1/12](../lectures/lecture03)|R Basics I|Install RStudio|
 | 1/15|**no class, MLK day**|
@@ -34,7 +33,7 @@ Complete course survey: https://goo.gl/forms/ddAS5dxwTbN9pcsh1|
 | [3/5](../lectures/lecture23)|Relationships, cont.|Chapter 13, cont.|
 | [3/7](../lectures/lecture24)|The general linear model|Read Chapter 14|
 | [3/9](../lectures/lecture25)|Comparing two means|Read Chapter 15|
-| [3/12](../lectures/lecture26)|Comparing more than two means|Chapter 16 (pages 569-592)|
+| [3/12](../lectures/lecture26)|Comparing more than two means|Read Chapter 16 (pages 569-592)|
 | [3/14](../lectures/lecture27)|R lab: statistical inference||
 | [3/16](../lectures/lecture28)|Doing reproducible research||
 | TBD|Final meeting with project presentations?|
