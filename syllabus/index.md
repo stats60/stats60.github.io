@@ -8,7 +8,7 @@ title: Psych 10: Syllabus
 | ---|---|---|
 | [1/8](../lectures/lecture01)|What is statistics? overview of the course|Chapter 1|
 | [1/10](../lectures/lecture02)|Working with data |Chapter 2|
-| [1/12](../lectures/lecture03)|R Basics I|Install RStudio|
+| [1/12](../lectures/lecture03)|R Basics I|Install RStudio<br>Read Chapter X of R for Students|
 | 1/15|**no class, MLK day**|
 | [1/17](../lectures/lecture04)|Summarizing data|Chapter 3|
 | [1/19](../lectures/lecture05)|Fitting models (central tendency)|Chapter 4|
