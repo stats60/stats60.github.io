@@ -7,3 +7,5 @@ title: Psych 10: Lecture 8
 ### Learning Objectives:
 After this lecture, you should be able to:
 1. (3e)
+### Links:
+* 

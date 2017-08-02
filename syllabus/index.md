@@ -8,16 +8,16 @@ title: Psych 10: Syllabus
 | ---|---|---|
 | [1/8](../lectures/lecture01)|What is statistics? overview of the course|Chapter 1|
 | [1/10](../lectures/lecture02)|Working with data |Chapter 2|
-| [1/12](../lectures/lecture03)|R Basics I|Install RStudio<br>Read Chapter X of R for Students|
+| [1/12](../lectures/lecture03)|R Lab: Basics|Install RStudio<br>Chapter 2 of [Student's Guide to R](https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf)|
 | 1/15|**no class, MLK day**|
 | [1/17](../lectures/lecture04)|Summarizing data|Chapter 3|
 | [1/19](../lectures/lecture05)|Fitting models (central tendency)|Chapter 4|
-| [1/22](../lectures/lecture06)|R Basics II||
+| [1/22](../lectures/lecture06)|R Lab: Percentiles and simulation||
 | [1/24](../lectures/lecture07)|Presenting data|Chapter 5|
 | [1/26](../lectures/lecture08)|Z-scores|Chapter 6|
 | [1/29](../lectures/lecture09)|Probability|Chapter 7|
 | [1/31](../lectures/lecture10)|Probability, cont|Chapter 7, contd.|
-| [2/2](../lectures/lecture11)|R lab: probability||
+| [2/2](../lectures/lecture11)|R lab: probability|Chapter 11 of [Student's Guide to R](https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf)|
 | [2/5](../lectures/lecture12)|Sampling|Chapter 8|
 | [2/7](../lectures/lecture13)|Resampling|Chapter 9|
 | [2/9](../lectures/lecture14)|Robust estimation|Chapter 9, cont.|
