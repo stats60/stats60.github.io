@@ -6,5 +6,5 @@ title: Psych 10: Lecture 4
 
 ### Learning Objectives:
 After this lecture, you should be able to:
-1. Compute absolute, relative, and cumulative frequency distributions for a given dataset (3a)
-2. Generate a graphical presentation of frequency distributions (3b)
+* Compute absolute, relative, and cumulative frequency distributions for a given dataset
+* Generate a graphical presentation of frequency distributions
