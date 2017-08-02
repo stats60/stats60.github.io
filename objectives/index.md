@@ -4,6 +4,8 @@ title: Psych 10: Learning Objectives
 ---
 ## Learning objectives
 
+Students should be able to do each of the following by the end of this course
+
 
 ### What is statistics? overview of the course
 * Describe the difference between experimental and observational research with regard to causal inference
