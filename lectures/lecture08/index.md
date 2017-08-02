@@ -6,5 +6,6 @@ title: Psych 10: Lecture 8
 
 ### Learning Objectives:
 After this lecture, you should be able to:
+
 ### Links:
 * 
