@@ -18,7 +18,7 @@ Click on the date for more information about each lecture
 | [1/24](../lectures/lecture07)|Presenting data|Adventure, Chapter 5|
 | [1/26](../lectures/lecture08)|Z-scores|Adventure, Chapter 6|
 | [1/29](../lectures/lecture09)|Probability|Adventure, Chapter 7|
-| [1/31](../lectures/lecture10)|Probability, cont|Adventure, Chapter 7, contd.|
+| [1/31](../lectures/lecture10)|Probability, cont.|Adventure, Chapter 7, contd.|
 | [2/2](../lectures/lecture11)|R lab: probability|[Student's Guide to R](https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf), Chapter 11|
 | [2/5](../lectures/lecture12)|Sampling|Adventure, Chapter 8|
 | [2/7](../lectures/lecture13)|Resampling|Adventure, Chapter 9|
@@ -28,8 +28,8 @@ Click on the date for more information about each lecture
 | [2/16](../lectures/lecture17)|Hypothesis testing, cont.|Adventure, Chapter 10, cont.|
 | 2/19|**no class, Presidents day**|
 | [2/21](../lectures/lecture18)|Modern approaches|Adventure, Chapter 11|
-| [2/23](../lectures/lecture19)|Modern approaches,cont.|Adventure, Chapter 11, cont.|
-| [2/26](../lectures/lecture20)|Modern approaches,cont.|Adventure, Chapter 11, cont.|
+| [2/23](../lectures/lecture19)|Modern approaches, cont.|Adventure, Chapter 11, cont.|
+| [2/26](../lectures/lecture20)|Modern approaches, cont.|Adventure, Chapter 11, cont.|
 | [2/28](../lectures/lecture21)|Assumptions of modeling|Adventure, Chapter 12|
 | [3/2](../lectures/lecture22)|Relationships|Adventure, Chapter 13|
 | [3/5](../lectures/lecture23)|Relationships, cont.|Adventure, Chapter 13, cont.|
