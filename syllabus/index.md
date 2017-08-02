@@ -4,6 +4,8 @@ title: Psych 10: Syllabus
 ---
 ## Syllabus
 
+Click on the date for more information about each lecture
+
 | Date|Topic|Reading|
 | ---|---|---|
 | [1/8](../lectures/lecture01)|What is statistics? overview of the course|Adventure, Chapter 1|
