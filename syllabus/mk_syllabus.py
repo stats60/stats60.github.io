@@ -2,7 +2,8 @@
 generate markdown version of syllabus
 """
 
-import os
+import os,collections
+
 import get_syllabus
 
 lecturebase='../lectures'
@@ -22,6 +23,9 @@ for i,h in enumerate(header):
 
 
 content=syll[1:]
+
+# save objectives to write to a separate file listing all of them
+objectives=collections.OrderedDict()
 
 outfile='index.md'
 with open(outfile,'w') as f:
@@ -63,6 +67,8 @@ with open(outfile,'w') as f:
                 if len(s)>header_index['Learning Objectives']:
                     lf.write('### Learning Objectives:\nAfter this lecture, you should be able to:\n')
                     learnobj=s[header_index['Learning Objectives']].split('\n')
+                    if not s[1] in objectives:
+                        objectives[s[1]]=[]
                     for li,l in enumerate(learnobj):
                         if len(l)==0:
                             continue
@@ -71,13 +77,20 @@ with open(outfile,'w') as f:
                         # l.append('(%s)'%lsp[0].replace('.',''))
                         # l=' '.join(l)
                         lf.write('* %s\n'%l)
+                        objectives[s[1]].append(l)
                 if len(s)>header_index['Links']:
                     lf.write('\n### Links:\n')
                     links=s[header_index['Links']].split('\n')
                     for li,l in enumerate(links):
                         lf.write('* %s\n'%l)
-
-
-
-
             lecturectr+=1
+
+if not os.path.exists("../objectives"):
+    os.mkdir('../objectives')
+with open('../objectives/index.md','w') as f:
+    f.write('---\nlayout: default\ntitle: Psych 10: Learning Objectives\n---\n')
+    f.write('## Learning objectives\n\n')
+    for k in objectives.keys():
+        f.write('### %s\n'%k)
+        for o in objectives[k]:
+            f.write('* %s\n'%o)
