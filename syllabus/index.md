@@ -40,7 +40,7 @@ Click on the date for more information about each lecture
 | 3/16|<details><summary><h4>Doing reproducible research<h4></summary><h5>Learning Objectives:</h5>After this lecture, you should be able to:<p><ul><li>Identify cases of circular analysis/double-dipping</li><li>Describe the problem of multiple comparisons and methods for correcting for it</li></ul></details>||
 | **TBD**|**Final meeting with project presentations?**|
 
-<script src="/js/zepto.min.js"></script>
+<script src="/js/zepto.js"></script>
 <script>jQuery = Zepto;</script>
 <script src="/js/jquery.details.min.js"></script>
 <script>$('details').details();</script>
