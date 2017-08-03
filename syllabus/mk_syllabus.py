@@ -67,8 +67,9 @@ with open(outfile,'w') as f:
                 if len(s)>header_index['Learning Objectives']:
                     lf.write('### Learning Objectives:\nAfter this lecture, you should be able to:\n')
                     learnobj=s[header_index['Learning Objectives']].split('\n')
+                    groupname=s[1].split(',')[0]
                     if not s[1] in objectives:
-                        objectives[s[1]]=[]
+                        objectives[groupname]=[]
                     for li,l in enumerate(learnobj):
                         if len(l)==0:
                             continue
@@ -77,7 +78,7 @@ with open(outfile,'w') as f:
                         # l.append('(%s)'%lsp[0].replace('.',''))
                         # l=' '.join(l)
                         lf.write('* %s\n'%l)
-                        objectives[s[1]].append(l)
+                        objectives[groupname].append(l)
                 if len(s)>header_index['Links']:
                     lf.write('\n### Links:\n')
                     links=s[header_index['Links']].split('\n')
@@ -90,7 +91,11 @@ if not os.path.exists("../objectives"):
 with open('../objectives/index.md','w') as f:
     f.write('---\nlayout: default\ntitle: Psych 10: Learning Objectives\n---\n')
     f.write('## Learning objectives\n\n')
+    f.write('Students should be able to do each of the following by the end of this course:\n\n')
+
     for k in objectives.keys():
-        f.write('### %s\n'%k)
+        if len(objectives[k])==0:
+            continue
+        f.write('\n### %s\n'%k)
         for o in objectives[k]:
             f.write('* %s\n'%o)
