@@ -28,6 +28,9 @@ Students should be able to do each of the following by the end of this course:
 ### Visualizing data
 * Describe the principles that distinguish between good and bad graphs, and use them to identify good versus bad graphs.
 
+### Z-scores
+* Describe the concept of a Z-score
+
 ### Probability
 * Describe the difference between a probability and a conditional probability
 * Use Bayes’ theorem to compute the inverse conditional probability.
@@ -37,6 +40,10 @@ Students should be able to do each of the following by the end of this course:
 * Distinguish between a population and a sample, and between population parameters and statistics
 * Describe the concepts of sampling error and sampling distribution
 * Describe how the Central Limit Theorem determines the nature of the sampling distribution of the mean
+
+### Resampling
+* Describe the concept of the bootstrap and use it to estimate the sampling distribution of a statistic
+* Describe how resampling can be used to create a null distribution for statistical testing
 
 ### Hypothesis testing
 * Describe how resampling can be used to compute a p-value.
@@ -65,5 +72,6 @@ Students should be able to do each of the following by the end of this course:
 * Compute a one-sample and two-sample t-test on relevant datasets, and compute the effect size and confidence intervals associated with each of these tests.
 
 ### Doing reproducible research
+* Describe the concept of P-hacking and its effects on scientific practice
 * Identify cases of circular analysis/double-dipping
 * Describe the problem of multiple comparisons and methods for correcting for it
