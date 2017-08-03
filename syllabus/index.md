@@ -8,7 +8,7 @@ Click on the date for more information about each lecture
 
 | Date|Topic|Reading|
 | ---|---|---|
-| 1/8|<details><summary><h4>What is statistics? overview of the course<h4></summary><h5>Learning Objectives:</h5>After this lecture, you should be able to:<p><ul><li>Describe the difference between experimental and observational research with regard to causal inference</li><li>Explain how randomization provides the ability to make inferences about causation.</li><li>Identify potential sources of bias or confounding.</li></ul></details>|Adventure, Chapter 1|
+| 1/8|{% details What is statistics? overview of the course %}<h5>Learning Objectives:</h5>After this lecture, you should be able to:<p><ul><li>Describe the difference between experimental and observational research with regard to causal inference</li><li>Explain how randomization provides the ability to make inferences about causation.</li><li>Identify potential sources of bias or confounding.</li></ul>{% enddetails %}|Adventure, Chapter 1|
 | 1/10|<details><summary><h4>Working with data <h4></summary><h5>Learning Objectives:</h5>After this lecture, you should be able to:<p><ul><li>Distinguish between different types of variables (quantitative/qualitative, discrete/continuous, scales of measurement)</li><li>Describe the concept of measurement error</li><li>Distinguish between the concepts of reliability and validity and apply each concept to a particular dataset</li></ul></details>|Adventure, Chapter 2|
 | 1/12|<details><summary><h4>R Lab: Basics<h4></summary><h5>Learning Objectives:</h5>After this lecture, you should be able to:<p><ul></ul><h5>Links:</h5><ul><li>For additional practice with R, check out the free courses provided by [Datacamp](http://www.datacamp.com).  In particular, their [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) provides a nice basic overview of working in R.</li></ul></details>|Install RStudio<br>[Student's Guide to R](https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf), Chapter 2|
 | **1/15**|**no class, MLK day**|
@@ -39,3 +39,8 @@ Click on the date for more information about each lecture
 | 3/14|<details><summary><h4>R lab: statistical inference<h4></summary></details>||
 | 3/16|<details><summary><h4>Doing reproducible research<h4></summary><h5>Learning Objectives:</h5>After this lecture, you should be able to:<p><ul><li>Identify cases of circular analysis/double-dipping</li><li>Describe the problem of multiple comparisons and methods for correcting for it</li></ul></details>||
 | **TBD**|**Final meeting with project presentations?**|
+
+<script src="/js/zepto.min.js"></script>
+<script>jQuery = Zepto;</script>
+<script src="/js/jquery.details.min.js"></script>
+<script>$('details').details();</script>
