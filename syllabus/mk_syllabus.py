@@ -2,7 +2,7 @@
 generate markdown version of syllabus
 """
 
-import os,collections
+import os,collections,re
 
 import get_syllabus
 
@@ -40,51 +40,74 @@ with open(outfile,'w') as f:
     lecturectr=1
     for i,s in enumerate(content):
         rowcontent=[]
-        noclass=False
-        for c in syll_colnums:
-            if len(s)>c:
-                if s[c].find('no class')>-1:
-                    s[c]='**'+s[c]+'**'
-                    noclass=True
-                rowcontent.append(s[c].replace('\n','<br>'))
-        if s[0]=='TBD':
+        if s[header_index['Topic']].find('no class')>-1 or s[0]=='TBD':
             noclass=True
-        if not noclass:
-            # add link
-            rowcontent[0]='[%s](../lectures/lecture%02d)'%(rowcontent[0],lecturectr)
-        f.write('| '+'|'.join(rowcontent)+'|\n')
-        if not noclass:
-            # create lecture dir and link
-            lecturenum='lecture%02d'%lecturectr
-            lecturedir=os.path.join(lecturebase,lecturenum)
-            if not os.path.exists(lecturedir):
-                os.mkdir(lecturedir)
-            lecturefile=os.path.join(lecturedir,'index.md')
-            with open(lecturefile,'w') as lf:
-                lf.write('---\nlayout: default\ntitle: Psych 10: Lecture %d\n---\n'%lecturectr)
-                lf.write('# Lecture %d (%s): %s\n\n'%(lecturectr,
-                            s[0],s[1]))
+        else:
+            noclass=False
+
+        for c in syll_colnums:
+            if not len(s)>c:
+                print('skipping',s)
+                continue
+            if syll_columns[c]=='Topic' and not noclass:
+                cellcontent='<details><summary><h4>%s<h4></summary>'%s[c].replace('\n','<br>')
+                # add expandable section with details
                 if len(s)>header_index['Learning Objectives']:
-                    lf.write('### Learning Objectives:\nAfter this lecture, you should be able to:\n')
                     learnobj=s[header_index['Learning Objectives']].split('\n')
-                    groupname=s[1].split(',')[0]
-                    if not s[1] in objectives:
-                        objectives[groupname]=[]
-                    for li,l in enumerate(learnobj):
-                        if len(l)==0:
-                            continue
-                        # lsp=l.split(' ')
-                        # l=lsp[1:]
-                        # l.append('(%s)'%lsp[0].replace('.',''))
-                        # l=' '.join(l)
-                        lf.write('* %s\n'%l)
-                        objectives[groupname].append(l)
+                    if len(learnobj)>0:
+                        cellcontent+='<h5>Learning Objectives:</h5>After this lecture, you should be able to:<p><ul>'
+                        groupname=s[1].split(',')[0]
+                        if not s[1] in objectives:
+                            objectives[groupname]=[]
+                        for li,l in enumerate(learnobj):
+                            if len(l)==0:
+                                continue
+                            # lsp=l.split(' ')
+                            # l=lsp[1:]
+                            # l.append('(%s)'%lsp[0].replace('.',''))
+                            # l=' '.join(l)
+                            #lf.write('* %s\n'%l)
+                            objectives[groupname].append(l)
+                            cellcontent+='<li>%s</li>'%l
+                        cellcontent+='</ul>'
                 if len(s)>header_index['Links']:
-                    lf.write('\n### Links:\n')
+                    cellcontent+='<h5>Links:</h5>'
                     links=s[header_index['Links']].split('\n')
-                    for li,l in enumerate(links):
-                        lf.write('* %s\n'%l)
-            lecturectr+=1
+                    if len(links)>0:
+                        cellcontent+='<ul>'
+                        for li,l in enumerate(links):
+                            cellcontent+='<li>%s</li>'%l
+                        cellcontent+='</ul>'
+                cellcontent+='</display>'
+            else:
+                cellcontent=s[c].replace('\n','<br>')
+            if noclass:
+                cellcontent='**'+cellcontent+'**'
+            rowcontent.append(cellcontent)
+        print(rowcontent)
+        #if not noclass:
+            # add link
+        #    rowcontent[0]='[%s](../lectures/lecture%02d)'%(rowcontent[0],lecturectr)
+        f.write('| '+'|'.join(rowcontent)+'|\n')
+
+# make a fully expanded version of the syllabus
+
+# from https://stackoverflow.com/questions/2392623/replace-multiple-string-in-a-file
+def replacemany(adict, astring):
+  pat = '|'.join(re.escape(s) for s in adict)
+  there = re.compile(pat)
+  def onerepl(mo): return adict[mo.group()]
+  return there.sub(onerepl, astring)
+
+adict={'<details><summary>':'','</summary>':'','</display>':''}
+
+short_syllabus=open('index.md').readlines()
+if not os.path.exists('../full_syllabus'):
+    os.mkdir('../full_syllabus')
+
+with open('../full_syllabus/index.md','w') as f:
+    for l in short_syllabus:
+        f.write(replacemany(adict,l))
 
 if not os.path.exists("../objectives"):
     os.mkdir('../objectives')
