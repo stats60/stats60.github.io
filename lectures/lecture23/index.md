@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 23
 ---
-# Lecture 23 (3/5): Relationships, cont.
+# Lecture 23 (3/5): Modeling continuous relationships
 
 ### Learning Objectives:
 After this lecture, you should be able to:

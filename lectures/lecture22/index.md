@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 22
 ---
-# Lecture 22 (3/2): Relationships
+# Lecture 22 (3/2): Modeling categorical relationships
 
 ### Learning Objectives:
 After this lecture, you should be able to:

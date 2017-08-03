@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Lecture 18
 ---
-# Lecture 18 (2/21): Modern approaches
+# Lecture 18 (2/21): Confidence intervals and effect sizes
 
 ### Learning Objectives:
 After this lecture, you should be able to:

@@ -4,7 +4,7 @@ title: Psych 10: Learning Objectives
 ---
 ## Learning objectives
 
-Students should be able to do each of the following by the end of this course
+Students should be able to do each of the following by the end of this course:
 
 
 ### What is statistics? overview of the course
@@ -19,15 +19,14 @@ Students should be able to do each of the following by the end of this course
 
 ### Summarizing data
 * Compute absolute, relative, and cumulative frequency distributions for a given dataset
-* Generate a graphical presentation of frequency distributions
+* Generate a graphical representation of frequency distributions
 
 ### Fitting models (central tendency)
 * Describe the basic equation for statistical models (outcome=model + error)
 * Describe different measures of central tendency and dispersion, how they are computed, and how to determine which is most appropriate in any given circumstance.
 
-### Presenting data
+### Visualizing data
 * Describe the principles that distinguish between good and bad graphs, and use them to identify good versus bad graphs.
-* Generate a graphical presentation of frequency distributions
 
 ### Probability
 * Describe the difference between a probability and a conditional probability
@@ -38,8 +37,6 @@ Students should be able to do each of the following by the end of this course
 * Distinguish between a population and a sample, and between population parameters and statistics
 * Describe the concepts of sampling error and sampling distribution
 * Describe how the Central Limit Theorem determines the nature of the sampling distribution of the mean
-* Describe the concept of regression to the mean
-* Identify biases introduced by particular sampling schemes.
 
 ### Hypothesis testing
 * Describe how resampling can be used to compute a p-value.
@@ -47,11 +44,15 @@ Students should be able to do each of the following by the end of this course
 * Define the concept of statistical power, and compute statistical power for a given statistical test.
 * Describe the main criticisms of null hypothesis statistical testing
 
-### Modern approaches
+### Confidence intervals and effect sizes
 * Describe the proper interpretation of a confidence interval, and compute a confidence interval for the mean of a given dataset.
 * Define the concept of effect size, and compute the effect size for a given test.
 
-### Relationships
+### Modeling categorical relationships
+* Describe the concept of a contingency table for categorical data.
+* Describe the concept of the chi-squared test for association and compute it for a given contingency table.
+
+### Modeling continuous relationships
 * Describe the concept of the correlation coefficient and its interpretation and compute it for a bivariate dataset
 * Describe the potential causal influences that can give rise to a correlation.
 
