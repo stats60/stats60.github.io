@@ -31,6 +31,8 @@ outfile='index.md'
 with open(outfile,'w') as f:
     f.write('---\nlayout: default\ntitle: Psych 10: Syllabus\n---\n')
     f.write('## Syllabus\n\nClick on the date for more information about each lecture\n\n')
+    f.write('Detailed version of the full syllabus is available [here](../full_syllabus)\n\n')
+
     f.write('| '+'|'.join(syll_columns)+'|\n')
     # create separator
     sep=[]
@@ -50,12 +52,12 @@ with open(outfile,'w') as f:
                 print('skipping',s)
                 continue
             if syll_columns[c]=='Topic' and not noclass:
-                cellcontent='<details><summary><h4>%s<h4></summary>'%s[c].replace('\n','<br>')
+                cellcontent='%s<details>'%s[c].replace('\n','<br>')
                 # add expandable section with details
                 if len(s)>header_index['Learning Objectives']:
                     learnobj=s[header_index['Learning Objectives']].split('\n')
                     if len(learnobj)>0:
-                        cellcontent+='<h5>Learning Objectives:</h5>After this lecture, you should be able to:<p><ul>'
+                        cellcontent+='<br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>'
                         groupname=s[1].split(',')[0]
                         if not s[1] in objectives:
                             objectives[groupname]=[]
@@ -68,17 +70,16 @@ with open(outfile,'w') as f:
                             # l=' '.join(l)
                             #lf.write('* %s\n'%l)
                             objectives[groupname].append(l)
-                            cellcontent+='<li>%s</li>'%l
-                        cellcontent+='</ul>'
+                            cellcontent+='* %s<br>'%l
+                        cellcontent+='<br>'
                 if len(s)>header_index['Links']:
-                    cellcontent+='<h5>Links:</h5>'
                     links=s[header_index['Links']].split('\n')
                     if len(links)>0:
-                        cellcontent+='<ul>'
+                        cellcontent+='Links:<br><br>'
                         for li,l in enumerate(links):
-                            cellcontent+='<li>%s</li>'%l
-                        cellcontent+='</ul>'
-                cellcontent+='</display>'
+                            cellcontent+='* %s<br>'%l
+                        cellcontent+='<br>'
+                cellcontent+='</details>'
             else:
                 cellcontent=s[c].replace('\n','<br>')
             if noclass:
@@ -99,7 +100,7 @@ def replacemany(adict, astring):
   def onerepl(mo): return adict[mo.group()]
   return there.sub(onerepl, astring)
 
-adict={'<details><summary>':'','</summary>':'','</display>':''}
+adict={'<details>':'<br>','</details>':''}
 
 short_syllabus=open('index.md').readlines()
 if not os.path.exists('../full_syllabus'):
