@@ -8,11 +8,7 @@ Click on the date for more information about each lecture
 
 | Date|Topic|Reading|
 | ---|---|---|
-| 1/8|### What is statistics? overview of the course<details>#### Learning Objectives
-After this lecture, you should be able to:
-* Describe the difference between experimental and observational research with regard to causal inference
-* Explain how randomization provides the ability to make inferences about causation.
-* Identify potential sources of bias or confounding.</details>|Adventure, Chapter 1|
+| 1/8|### What is statistics? overview of the course<details>#### Learning Objectives<br>After this lecture, you should be able to:<br> * Describe the difference between experimental and observational research with regard to causal inference<br> * Explain how randomization provides the ability to make inferences about causation.<br> * Identify potential sources of bias or confounding.<br></details>|Adventure, Chapter 1|
 | 1/10|<details><summary><h4>Working with data <h4></summary><h5>Learning Objectives:</h5>After this lecture, you should be able to:<p><ul><li>Distinguish between different types of variables (quantitative/qualitative, discrete/continuous, scales of measurement)</li><li>Describe the concept of measurement error</li><li>Distinguish between the concepts of reliability and validity and apply each concept to a particular dataset</li></ul></details>|Adventure, Chapter 2|
 | 1/12|<details><summary><h4>R Lab: Basics<h4></summary><h5>Learning Objectives:</h5>After this lecture, you should be able to:<p><ul></ul><h5>Links:</h5><ul><li>For additional practice with R, check out the free courses provided by [Datacamp](http://www.datacamp.com).  In particular, their [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) provides a nice basic overview of working in R.</li></ul></details>|Install RStudio<br>[Student's Guide to R](https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf), Chapter 2|
 | **1/15**|**no class, MLK day**|
