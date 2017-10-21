@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Psych 10: Prospectus
+title: Psych 10: Overview
 ---
 
-## Prospectus for the course
+## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
 - *Statistical literacy*: The ability to dissect and understand statistical claims in scientific research and popular media
