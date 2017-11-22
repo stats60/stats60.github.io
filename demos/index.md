@@ -19,7 +19,7 @@ The following demos will be used in class.  They can be run by entering the list
 
 #### Linear Regression
 
-library(shiny); runGitHub("psych10-shinyapps", "psych10", subdir = "inst/resid_slope")
+    library(shiny); runGitHub("psych10-shinyapps", "psych10", subdir = "inst/resid_slope")
 
 
 #### Regression to the mean
