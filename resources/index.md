@@ -7,6 +7,7 @@ Here are just a few curated resources that should be helpful for the course.
 
 ### Sources for interesting datasets
 
+- [data.gov](https://catalog.data.gov/)
 - [data.world](http://data.world)
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
 
