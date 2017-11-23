@@ -66,7 +66,7 @@ Unless otherwise stated, you can use any published resource you wish to complete
 **Final project**: Each student will participate in a group project with 3-4 other students.
 The project must test a set of specific hypotheses using a real world dataset.   The group must decide what hypotheses to test, and discuss the idea with their TA in section to get approval for the idea.  They must then do a literature review to find out what has been done on the question before, perform the analyses, and write a report on the results as well as provide the R code used to perform the entire analysis.  These reports will be peer-reviewed.  All groups will be given the opportunity to make a short presentation of their results at the finals week party.
 
-A large list of public-domain datasets is available at https://github.com/caesar0301/awesome-public-datasets.  Datasets are also available via http://data.world.
+A list of public data resources is provided on the [Resources page](../resources/)
 
 **Grade disputes**:  Students must wait 24 hours after receiving a grade before they can dispute it, after which disputes must be received within 7 days of receipt of the grade. Grade disputes must be submitted to the instructor by email.
 
