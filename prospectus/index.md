@@ -29,14 +29,15 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 **Materials**: The primary textbook is An Adventure in Statistics: The Reality Enigma by Andy Field.   The book is available for purchase at the Stanford Bookstore and has a companion web site with lots of additional resources [here] (https://edge.sagepub.com/field-an-adventure-in-stats).  It is also available as an e-book from the Amazon Kindle Store if you prefer that format.  A copy of the book is on reserve at Li & Ma Science Library.
 
-We will supplement this textbook with other [free online resources](../resources/):
+We will supplement this textbook with other [free online resources](../resources/).
 
 You will need to install the free software package RStudio on your computer for use in class. See [here](../rstudio/) for instructions.
 
 Lecture slides will be available on the Canvas site. The slides are not intended to replace attendance, since much of the class activity will go beyond the slides.
 
-The VPTL office offers tutoring for this class by appointment, which can be scheduled [here] (https://vptl.stanford.edu/students/tutoring-foreign-language-practice).
+The VPTL office offers tutoring for this class by appointment, which can be scheduled [here](https://vptl.stanford.edu/students/tutoring-foreign-language-practice).
 
+Stanford University and its instructors are committed to ensuring that all courses are financially accessible to all students. If you are an undergraduate who needs assistance with the cost of course textbooks, supplies, materials and/or fees, you are welcome to approach me directly. If would prefer not to approach me directly, please note that you can ask the Diversity & First-Gen Office for assistance by completing their questionnaire on course textbooks & supplies: http://tinyurl.com/jpqbarn or by contacting Joseph Brown, the Associate Director of the Diversity and First-Gen Office (jlbrown@stanford.edu; Old Union Room 207). Dr. Brown is available to connect you with resources and support while ensuring your privacy.
 
 ## Assessment and grading
 
@@ -50,7 +51,7 @@ Grades will be determined as follows:
 
 Each of the two lowest pre-class assignment grades, graded in-class assessments, and credit/no-credit assessments will be dropped to compute the final grade.
 
-There is no midterm or final examination for this class: the scheduled final exam time will be used for a party with presentations of group projects by selected groups.  
+There is no midterm or final examination for this class: the scheduled final exam time will be used for a party with presentations of group projects.  
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
@@ -69,4 +70,16 @@ A large list of public-domain datasets is available at https://github.com/caesar
 
 **Grade disputes**:  Students must wait 24 hours after receiving a grade before they can dispute it, after which disputes must be received within 7 days of receipt of the grade. Grade disputes must be submitted to the instructor by email.
 
+## General course policies
 **Feedback**: We welcome student feedback regarding the course at any point.  Please feel free to email us directly, or leave anonymous feedback for the instructional team by placing an anonymous note in Dr. Poldrack’s mailbox at Jordan Hall.  
+
+**Gender expression/identity:**
+This course affirms people of all gender expressions and gender identities. If you prefer to be called a different name than what is indicated on the class roster, please let me know. Feel free to correct me on your preferred gender pronoun. If you have any questions or concerns, please do not hesitate to contact me.
+
+**Code of conduct:**
+You are expected to treat the instructional team and your fellow students with courtesy and respect.  
+This class should be a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. Harassment of any form will not be tolerated.
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. 
+
+**Students with Documented Disabilities:**
+Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE).  Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is being made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations.  The OAE is located at 563 Salvatierra Walk (phone: 723-1066, URL: http://studentaffairs.stanford.edu/oae).
