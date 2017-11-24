@@ -83,7 +83,8 @@ If someone makes you or anyone else feel unsafe or unwelcome, please report it a
 
 **Students with Documented Disabilities:**
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE).  Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is being made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations.  The OAE is located at 563 Salvatierra Walk (phone: 723-1066, URL: http://studentaffairs.stanford.edu/oae).
-## Class Schedule| Date|Topic|Reading|
+## Class Schedule
+| Date|Topic|Reading|
 | ---|---|---|
 | 1/8|What is statistics? overview of the course<details><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the difference between experimental and observational research with regard to causal inference<br>* Explain how randomization provides the ability to make inferences about causation.<br>* Identify potential sources of bias or confounding.<br><br>Links:<br><br>* <br><br></details>|Adventure, Chapter 1|
 | 1/10|Working with data <details><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Distinguish between different types of variables (quantitative/qualitative, discrete/continuous, scales of measurement)<br>* Describe the concept of measurement error<br>* Distinguish between the concepts of reliability and validity and apply each concept to a particular dataset<br><br></details>|Adventure, Chapter 2|
