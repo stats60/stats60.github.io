@@ -3,6 +3,7 @@ generate markdown version of syllabus
 """
 
 import os,collections,re
+import time
 
 import get_syllabus
 
@@ -85,7 +86,7 @@ with open(outfile,'w') as f:
             if noclass:
                 cellcontent='**'+cellcontent+'**'
             rowcontent.append(cellcontent)
-        print(rowcontent)
+        #print(rowcontent)
         #if not noclass:
             # add link
         #    rowcontent[0]='[%s](../lectures/lecture%02d)'%(rowcontent[0],lecturectr)
@@ -106,8 +107,16 @@ short_syllabus=open('index.md').readlines()
 if not os.path.exists('../full_syllabus'):
     os.mkdir('../full_syllabus')
 
+prospectus = open('../prospectus/index.md').readlines()
+ssyl=open('index.md').readlines()
+
 with open('../full_syllabus/index.md','w') as f:
-    for l in short_syllabus:
+    f.write('---\nlayout: default\ntitle: Psych 10: Full Syllabus\n---\n')
+    f.write('Revised %s'%time.strftime("%m/%d/%Y"))
+    for l in prospectus[4:]:
+        f.write(l)
+    f.write('## Class Schedule\n')
+    for l in short_syllabus[9:]:
         f.write(replacemany(adict,l))
 
 if not os.path.exists("../objectives"):
