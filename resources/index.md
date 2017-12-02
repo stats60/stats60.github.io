@@ -15,6 +15,7 @@ Here are just a few curated resources that should be helpful for the course.
 
 There are a ton of people interested in learning R these days, and a lot of resources have popped up to help out:
 
+- [TryR](http://tryr.codeschool.com/): A great resource for learning R.  We will use this for some of the in-class sessions.
 - [Datacamp](https://www.datacamp.com/): Offers free online courses for many aspects of R programming
 - [A Student's Guide to R](https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf)
 - [R for cats](https://rforcats.net/): A humorous introduction to R programming
