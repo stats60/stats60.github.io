@@ -8,14 +8,19 @@ Students should be able to do each of the following by the end of this course:
 
 
 ### What is statistics? overview of the course
-* Describe the difference between experimental and observational research with regard to causal inference
+* Describe the central goals and fundamental concepts of statistics.
+* Describe the difference between experimental and observational research with regard to what can be inferred about causality
 * Explain how randomization provides the ability to make inferences about causation.
-* Identify potential sources of bias or confounding.
 
 ### Working with data 
 * Distinguish between different types of variables (quantitative/qualitative, discrete/continuous, scales of measurement)
 * Describe the concept of measurement error
 * Distinguish between the concepts of reliability and validity and apply each concept to a particular dataset
+
+### R Lab: Basics
+* Describe the difference between a variable and a function
+* Create a vector, matrix, or data frame and access its elements
+* Load a data file into a data frame and plots its contents
 
 ### Summarizing data
 * Compute absolute, relative, and cumulative frequency distributions for a given dataset
@@ -30,6 +35,9 @@ Students should be able to do each of the following by the end of this course:
 
 ### Z-scores
 * Describe the concept of a Z-score
+
+### R lab: Data wrangling and visualization
+* Describe the concept of tidy data
 
 ### Probability
 * Describe the difference between a probability and a conditional probability
