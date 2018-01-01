@@ -18,6 +18,7 @@ Students should be able to do each of the following by the end of this course:
 * Distinguish between the concepts of reliability and validity and apply each concept to a particular dataset
 
 ### R Lab: Basics
+* Interact with an RMarkdown notebook in RStudio
 * Describe the difference between a variable and a function
 * Create a vector, matrix, or data frame and access its elements
 * Load a data file into a data frame and plots its contents
@@ -25,6 +26,7 @@ Students should be able to do each of the following by the end of this course:
 ### Summarizing data
 * Compute absolute, relative, and cumulative frequency distributions for a given dataset
 * Generate a graphical representation of frequency distributions
+* Describe the difference between a normal and a long-tailed distribution, and describe the situations that give rise to each
 
 ### Fitting models (central tendency)
 * Describe the basic equation for statistical models (outcome=model + error)
