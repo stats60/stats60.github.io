@@ -36,7 +36,7 @@ Students should be able to do each of the following by the end of this course:
 * Describe the principles that distinguish between good and bad graphs, and use them to identify good versus bad graphs.
 
 ### Z-scores
-* Describe the concept of a Z-score
+* Describe the concept of a Z-score and compute them from a dataset
 
 ### R lab: Data wrangling and visualization
 * Describe the concept of tidy data
