@@ -40,6 +40,8 @@ Students should be able to do each of the following by the end of this course:
 
 ### R lab: Data wrangling and visualization
 * Describe the concept of tidy data
+* Load a data file and prepare it for analysis
+* Plot summary graphs using ggplot
 
 ### Probability
 * Describe the difference between a probability and a conditional probability
