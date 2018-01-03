@@ -46,7 +46,7 @@ Grades will be determined as follows:
 - Pre-class assignments (20% credit for completion)
 - In-class assessments (40%: half of the assessments will give credit for completion, while half will be graded for content)
 - Written assignments/problem sets (25%)
-- Final project writeup (10%)
+- Final project writeup and peer review (10%)
 - Section attendance and participation (5%)
 
 Each of the two lowest pre-class assignment grades, graded in-class assessments, and credit/no-credit assessments will be dropped to compute the final grade.
@@ -55,9 +55,9 @@ There is no midterm or final examination for this class: the scheduled final exa
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
-**Pre-class assignments**:  On most days with reading assignments you will be responsible for completing a short questionnaire in order to gauge understanding of the content and provide feedback for the instructional team regarding concepts that need extra discussion.  You will be given credit for simply completing the assignment in a comprehensible manner.  
+**Pre-class assignments**:  On most days you will be responsible for completing a short questionnaire in order to gauge understanding of the assigned content and provide feedback for the instructional team regarding concepts that need extra discussion.  You will be given credit for simply completing the assignment in a comprehensible manner.  
 
-**In-class assessments**:  During many class sessions you will complete an online activity to assess your learning of the important concepts or skills for that day.  Half of these will be graded for content, while the others will be credit/no-credit (i.e. you get the credit simply for completing the assessment during class in a comprehensible manner).  
+**In-class assessments**:  Twice a week (in most weeks) you will complete an online activity to assess your learning of the important concepts or skills for that day.  Half of these will be graded for content, while the others will be credit/no-credit (i.e. you get the credit simply for completing the assessment during class in a comprehensible manner).  
 
 **Written assignments**: Most weeks you will be given one written assignment or problem set to complete.  These will be due at 7 PM on Tuesdays, submitted via Canvas.
 
@@ -66,7 +66,11 @@ Unless otherwise stated, you can use any published resource you wish to complete
 **Final project**: Each student will participate in a group project with 3-4 other students.
 The project must test a set of specific hypotheses using a real world dataset.   The group must decide what hypotheses to test, and discuss the idea with their TA in section to get approval for the idea.  They must then do a literature review to find out what has been done on the question before, perform the analyses, and write a report on the results as well as provide the R code used to perform the entire analysis.  These reports will be peer-reviewed.  All groups will be given the opportunity to make a short presentation of their results at the finals week party.
 
-A list of public data resources is provided on the [Resources page](../resources/)
+A list of some public data resources is provided on the [Resources page](../resources/).
+
+**Extra credit**:  Students will be offered extra credit for completing
+relevant online courses via [DataCamp](http://datacamp.com) throughout
+the quarter.  
 
 **Grade disputes**:  Students must wait 24 hours after receiving a grade before they can dispute it, after which disputes must be received within 7 days of receipt of the grade. Grade disputes must be submitted to the instructor by email.
 
@@ -79,7 +83,7 @@ This course affirms people of all gender expressions and gender identities. If y
 **Code of conduct:**
 You are expected to treat the instructional team and your fellow students with courtesy and respect.  
 This class should be a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. Harassment of any form will not be tolerated.
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. 
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. If you are not comfortable approaching the instructional team, you may also contact the [Stanford Office of the Ombuds](https://ombuds.stanford.edu/)
 
 **Students with Documented Disabilities:**
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE).  Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is being made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations.  The OAE is located at 563 Salvatierra Walk (phone: 723-1066, URL: http://studentaffairs.stanford.edu/oae).
