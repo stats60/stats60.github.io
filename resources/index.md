@@ -10,6 +10,7 @@ Here are just a few curated resources that should be helpful for the course.
 - [data.gov](https://catalog.data.gov/)
 - [data.world](http://data.world)
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [American Psychological Association - links to datasets](https://www.apa.org/research/responsible/data-links.aspx)
 
 ### Resources for learning R
 
