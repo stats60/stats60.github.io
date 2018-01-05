@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 01/03/2018
+Revised 01/05/2018
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -25,7 +25,7 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 **Website**: The primary web site for the class is http://psych10.github.io.  We will use Canvas for in-class online quizzes, to submit assignments, and to post grades.
 
-**Discussion**.  We will be using Piazza to allow you to get help efficiently from both your classmates and the instructors. Please post your questions about the course material and course logistics to Piazza so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Piazza are available on the [Piazza page](https://piazza.com/class/j5sog4z8i73q7).
+**Discussion**.  We will be using Piazza to allow you to get help efficiently from both your classmates and the instructors. Please post your questions about the course material and course logistics to Piazza so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Piazza are available on the [Piazza page](http://piazza.com/stanford/winter2018/psych10).
 
 **Materials**: The primary textbook is An Adventure in Statistics: The Reality Enigma by Andy Field.   The book is available for purchase at the Stanford Bookstore and has a companion web site with lots of additional resources [here] (https://edge.sagepub.com/field-an-adventure-in-stats).  It is also available as an e-book from the Amazon Kindle Store if you prefer that format.  A copy of the book is on reserve at Li & Ma Science Library.
 
@@ -46,7 +46,7 @@ Grades will be determined as follows:
 - Pre-class assignments (20% credit for completion)
 - In-class assessments (40%: half of the assessments will give credit for completion, while half will be graded for content)
 - Written assignments/problem sets (25%)
-- Final project writeup (10%)
+- Final project writeup and peer review (10%)
 - Section attendance and participation (5%)
 
 Each of the two lowest pre-class assignment grades, graded in-class assessments, and credit/no-credit assessments will be dropped to compute the final grade.
@@ -55,7 +55,7 @@ There is no midterm or final examination for this class: the scheduled final exa
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
-**Pre-class assignments**:  On most days with reading assignments you will be responsible for completing a short questionnaire in order to gauge understanding of the content and provide feedback for the instructional team regarding concepts that need extra discussion.  You will be given credit for simply completing the assignment in a comprehensible manner.  
+**Pre-class assignments**:  On most days you will be responsible for completing a short questionnaire in order to gauge understanding of the assigned content and provide feedback for the instructional team regarding concepts that need extra discussion.  You will be given credit for simply completing the assignment in a comprehensible manner.  
 
 **In-class assessments**:  Twice a week (in most weeks) you will complete an online activity to assess your learning of the important concepts or skills for that day.  Half of these will be graded for content, while the others will be credit/no-credit (i.e. you get the credit simply for completing the assessment during class in a comprehensible manner).  
 
@@ -66,7 +66,11 @@ Unless otherwise stated, you can use any published resource you wish to complete
 **Final project**: Each student will participate in a group project with 3-4 other students.
 The project must test a set of specific hypotheses using a real world dataset.   The group must decide what hypotheses to test, and discuss the idea with their TA in section to get approval for the idea.  They must then do a literature review to find out what has been done on the question before, perform the analyses, and write a report on the results as well as provide the R code used to perform the entire analysis.  These reports will be peer-reviewed.  All groups will be given the opportunity to make a short presentation of their results at the finals week party.
 
-A list of public data resources is provided on the [Resources page](../resources/)
+A list of some public data resources is provided on the [Resources page](../resources/).
+
+**Extra credit**:  Students will be offered extra credit for completing
+relevant online courses via [DataCamp](http://datacamp.com) throughout
+the quarter.  
 
 **Grade disputes**:  Students must wait 24 hours after receiving a grade before they can dispute it, after which disputes must be received within 7 days of receipt of the grade. Grade disputes must be submitted to the instructor by email.
 
@@ -89,7 +93,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ---|---|---|
 | 1/8|What is statistics? overview of the course<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the central goals and fundamental concepts of statistics.<br>* Describe the difference between experimental and observational research with regard to what can be inferred about causality<br>* Explain how randomization provides the ability to make inferences about causation.<br><br>|Adventure, Chapter 1|
 | 1/10|Working with data <br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Distinguish between different types of variables (quantitative/qualitative, discrete/continuous, scales of measurement)<br>* Describe the concept of measurement error<br>* Distinguish between the concepts of reliability and validity and apply each concept to a particular dataset<br><br>|Adventure, Chapter 2|
-| 1/12|R Lab: Basics<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Interact with an RMarkdown notebook in RStudio<br>* Describe the difference between a variable and a function<br>* Create a vector, matrix, or data frame and access its elements<br>* Load a data file into a data frame and plots its contents<br><br>Links:<br><br>* For additional practice with R, check out the free courses provided by [Datacamp](http://www.datacamp.com).  In particular, their [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) provides a nice basic overview of working in R.<br><br>|Install RStudio<br>Complete chapters 1-4 of the CodeSchool TryR tutorial (http://tryr.codeschool.com/)|
+| 1/12|R Lab: Basics<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Interact with an RMarkdown notebook in RStudio<br>* Describe the difference between a variable and a function<br>* Create a vector, matrix, or data frame and access its elements<br>* Load a data file into a data frame and plots its contents<br><br>Links:<br><br>* For additional practice with R, check out the free courses provided by [Datacamp](http://www.datacamp.com).  In particular, their [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) provides a nice basic overview of working in R.<br><br>|Install RStudio ([instructions](https://psych10.github.io/sessions/03/))<br>Complete chapters 1-4 of the CodeSchool TryR tutorial (http://tryr.codeschool.com/)|
 | **1/15**|**no class, MLK day**|****|
 | 1/17|Summarizing data<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Compute absolute, relative, and cumulative frequency distributions for a given dataset<br>* Generate a graphical representation of frequency distributions<br>* Describe the difference between a normal and a long-tailed distribution, and describe the situations that give rise to each<br><br>Links:<br><br>* [R Notebook for lecture](https://rawgit.com/psych10/psych10/master/notebooks/Session04-SummarizingData/Session04-SummarizingData.html)<br>* [Social network data](https://snap.stanford.edu/data/egonets-Facebook.html)<br><br>|Adventure, Chapter 3|
 | 1/19|Fitting models (central tendency)<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the basic equation for statistical models (outcome=model + error)<br>* Describe different measures of central tendency and dispersion, how they are computed, and how to determine which is most appropriate in any given circumstance.<br><br>|Adventure, Chapter 4|
