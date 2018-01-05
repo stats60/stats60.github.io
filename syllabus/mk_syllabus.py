@@ -75,7 +75,7 @@ with open(outfile,'w') as f:
                         cellcontent+='<br>'
                 if len(s)>header_index['Links']:
                     links=s[header_index['Links']].split('\n')
-                    if len(links)>0:
+                    if len(links[0])>0:
                         cellcontent+='Links:<br><br>'
                         for li,l in enumerate(links):
                             cellcontent+='* %s<br>'%l
