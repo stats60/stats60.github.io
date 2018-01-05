@@ -18,4 +18,6 @@ title: Psych 10
 
 **Teaching team email**: If you have a question that is either personal or specific to you (others in the class would not need the answer), please email us at psych10winter17@gmail.com. This account is monitored by the entire group of instructors, and we’ll aim to respond to your question as soon as possible.
 
+**Source code**: Source code and related files for most class demos are available at https://github.com/psych10/psych10.
+
 Follow the links at the top of the page for more information about the course.
