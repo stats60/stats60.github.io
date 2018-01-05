@@ -24,6 +24,7 @@ There are a ton of people interested in learning R these days, and a lot of reso
 - [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/): Quick references for many different aspects of R programming
 - [R for Data Science](http://r4ds.had.co.nz/index.html): This free online book focuses on working with data in R.
 - [Advanced R](http://adv-r.had.co.nz/): This free online book by Hadley Wickham will help you get to the next level once your R skills start to develop.
+- [R intro for Python users](http://ramnathv.github.io/pycon2014-r/): Used Python before? Check this out for a guide on how to transition to R.
 
 ### Solving problems
 
