@@ -16,7 +16,7 @@ title: Psych 10
 
 **Teaching Assistants**: Anna Khazenzon (head TA), Tyler Bonnen, Yuan Chang Leong, Jaclyn Schwartz, Maia Ten Brink
 
-## Sections and TA Office Hours
+#### Sections and TA Office Hours
 
 | TA|email|Sections|OH - Jordan Hall|
 | ---|---|---|
