@@ -49,7 +49,7 @@ Grades will be determined as follows:
 - Final project writeup and peer review (10%)
 - Section attendance and participation (5%)
 
-Each of the two lowest pre-class assignment grades, graded in-class assessments, and credit/no-credit assessments will be dropped to compute the final grade.
+Each of the three lowest pre-class assignment grades, graded in-class assessments, and credit/no-credit assessments will be dropped to compute the final grade.
 
 There is no midterm or final examination for this class: the scheduled final exam time will be used for a party including a Project Showcase for group projects.  
 
@@ -67,6 +67,8 @@ Unless otherwise stated, you can use any published resource you wish to complete
 The project must test a set of specific hypotheses using a real world dataset.   The group must decide what hypotheses to test, and discuss the idea with their TA in section to get approval for the idea.  They must then do a literature review to find out what has been done on the question before, perform the analyses, and write a report on the results as well as provide the R code used to perform the entire analysis.  These reports will be peer-reviewed.  All groups will be given the opportunity to make a short presentation of their results at the finals week party.
 
 A list of some public data resources is provided on the [Resources page](../resources/).
+
+**Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please alert the TAs *prior to your absence* to schedule a make-up activity.
 
 **Extra credit**:  Students will be offered extra credit for completing
 relevant online courses via [DataCamp](http://datacamp.com) throughout
