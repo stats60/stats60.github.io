@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 01/05/2018
+Revised 01/13/2018
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -49,9 +49,9 @@ Grades will be determined as follows:
 - Final project writeup and peer review (10%)
 - Section attendance and participation (5%)
 
-Each of the two lowest pre-class assignment grades, graded in-class assessments, and credit/no-credit assessments will be dropped to compute the final grade.
+Each of the three lowest pre-class assignment grades, graded in-class assessments, and credit/no-credit assessments will be dropped to compute the final grade.
 
-There is no midterm or final examination for this class: the scheduled final exam time will be used for a party with presentations of group projects.  
+There is no midterm or final examination for this class: the scheduled final exam time will be used for a party including a Project Showcase for group projects.  
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
@@ -67,6 +67,8 @@ Unless otherwise stated, you can use any published resource you wish to complete
 The project must test a set of specific hypotheses using a real world dataset.   The group must decide what hypotheses to test, and discuss the idea with their TA in section to get approval for the idea.  They must then do a literature review to find out what has been done on the question before, perform the analyses, and write a report on the results as well as provide the R code used to perform the entire analysis.  These reports will be peer-reviewed.  All groups will be given the opportunity to make a short presentation of their results at the finals week party.
 
 A list of some public data resources is provided on the [Resources page](../resources/).
+
+**Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please alert the TAs *prior to your absence* to schedule a make-up activity.
 
 **Extra credit**:  Students will be offered extra credit for completing
 relevant online courses via [DataCamp](http://datacamp.com) throughout
@@ -96,7 +98,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 1/12|R Lab: Basics<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Interact with an RMarkdown notebook in RStudio<br>* Describe the difference between a variable and a function<br>* Create a vector, matrix, or data frame and access its elements<br>* Load a data file into a data frame and plots its contents<br><br>Links:<br><br>* For additional practice with R, check out the free courses provided by [Datacamp](http://www.datacamp.com).  In particular, their [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) provides a nice basic overview of working in R.<br><br>|Install RStudio ([instructions](https://psych10.github.io/sessions/03/))<br>Complete chapters 1-4 of the CodeSchool TryR tutorial (http://tryr.codeschool.com/)|
 | **1/15**|**no class, MLK day**|****|
 | 1/17|Summarizing data<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Compute absolute, relative, and cumulative frequency distributions for a given dataset<br>* Generate a graphical representation of frequency distributions<br>* Describe the difference between a normal and a long-tailed distribution, and describe the situations that give rise to each<br><br>Links:<br><br>* [R Notebook for lecture](https://rawgit.com/psych10/psych10/master/notebooks/Session04-SummarizingData/Session04-SummarizingData.html)<br>* [Social network data](https://snap.stanford.edu/data/egonets-Facebook.html)<br><br>|Adventure, Chapter 3|
-| 1/19|Fitting models (central tendency)<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the basic equation for statistical models (outcome=model + error)<br>* Describe different measures of central tendency and dispersion, how they are computed, and how to determine which is most appropriate in any given circumstance.<br><br>|Adventure, Chapter 4|
+| 1/19|Fitting models (central tendency)<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the basic equation for statistical models (outcome=model + error)<br>* Describe different measures of central tendency and dispersion, how they are computed, and how to determine which is most appropriate in any given circumstance.<br><br>Links:<br><br>* [R Notebook for lecture](https://rawgit.com/psych10/psych10/master/notebooks/Session05-FittingModels/Session05-FittingModels.html)<br><br>|Adventure, Chapter 4|
 | 1/22|Visualizing data<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the principles that distinguish between good and bad graphs, and use them to identify good versus bad graphs.<br><br>|Adventure, Chapter 5|
 | 1/24|Z-scores<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of a Z-score and compute them from a dataset<br><br>|Adventure, Chapter 6|
 | 1/26|R lab: Data wrangling and visualization<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of tidy data<br>* Load a data file and prepare it for analysis<br>* Plot summary graphs using ggplot<br><br>||
