@@ -13,6 +13,10 @@ Here are just a few curated resources that should be helpful for the course.
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [American Psychological Association - links to datasets](https://www.apa.org/research/responsible/data-links.aspx)
 
+### R Notebooks
+
+- [Using R Markdown for Class Reports](http://www.stat.cmu.edu/~cshalizi/rmarkdown/) - this is a great guide to formatting documents using R Markdown, which is the language used for RStudio Notebooks.
+
 ### Resources for learning R
 
 There are a ton of people interested in learning R these days, and a lot of resources have popped up to help out:
