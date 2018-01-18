@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 01/13/2018
+Revised 01/17/2018
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -101,7 +101,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 1/19|Fitting models (central tendency)<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the basic equation for statistical models (outcome=model + error)<br>* Describe different measures of central tendency and dispersion, how they are computed, and how to determine which is most appropriate in any given circumstance.<br><br>Links:<br><br>* [R Notebook for lecture](https://rawgit.com/psych10/psych10/master/notebooks/Session05-FittingModels/Session05-FittingModels.html)<br><br>|Adventure, Chapter 4|
 | 1/22|Visualizing data<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the principles that distinguish between good and bad graphs, and use them to identify good versus bad graphs.<br><br>|Adventure, Chapter 5|
 | 1/24|Z-scores<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of a Z-score and compute them from a dataset<br><br>|Adventure, Chapter 6|
-| 1/26|R lab: Data wrangling and visualization<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of tidy data<br>* Load a data file and prepare it for analysis<br>* Plot summary graphs using ggplot<br><br>||
+| 1/26|R lab: Data wrangling and visualization<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of tidy data<br>* Load a data file and prepare it for analysis<br>* Plot summary graphs using ggplot<br><br>|Introduction and Section 2.1 of https://garrettgman.github.io/tidying/<br>Sections 3.1-3.6 of http://r4ds.had.co.nz/data-visualisation.html|
 | 1/29|Probability<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the sample space for a selected random experiment.<br>* Compute relative frequency and empirical probability for a given set of events<br>* Find probabilities of single events, complementary events, and the unions and intersections of collections of events.<br><br>|Adventure, Chapter 7|
 | 1/31|Probability, cont.<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the difference between a probability and a conditional probability<br>* Use Bayes’ theorem to compute the inverse conditional probability.<br>* Describe the law of large numbers.<br><br>|Adventure, Chapter 7, contd.|
 | 2/2|R lab: probability<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>|[Student's Guide to R](https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf), Chapter 11|
