@@ -45,8 +45,13 @@ Students should be able to do each of the following by the end of this course:
 
 ### Probability
 * Describe the difference between a probability and a conditional probability
+* Describe the concept of statistical independence
 * Use Bayes’ theorem to compute the inverse conditional probability.
-* Describe the law of large numbers.
+
+### R lab: probability
+* Compute probabilities of combinations of events
+* Compute an empirical probability distribution
+* Describe the different functions available for the normal distribution, and their usage
 
 ### Sampling
 * Distinguish between a population and a sample, and between population parameters and statistics

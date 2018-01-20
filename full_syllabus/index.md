@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 01/17/2018
+Revised 01/20/2018
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -59,7 +59,7 @@ Unless otherwise stated, you can use any published resource you wish to complete
 
 **In-class assessments**:  Twice a week (in most weeks) you will complete an online activity to assess your learning of the important concepts or skills for that day.  Half of these will be graded for content, while the others will be credit/no-credit (i.e. you get the credit simply for completing the assessment during class in a comprehensible manner).  
 
-**Written assignments**: Most weeks you will be given one written assignment or problem set to complete.  These will be due at 7 PM on Tuesdays, submitted via Canvas.
+**Problem sets**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 7 PM on Tuesdays, submitted via Canvas. We will accept late problem sets for up to three days after the PSet is due; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the PSet is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
 
 **Sections**: Section attendance is mandatory. If you are unable to attend your assigned section on a given week, you may attend a different section with permission from both section leaders. Requests to attend an alternate section should be made at least 24 hours in advance.
 
@@ -102,9 +102,9 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 1/22|Visualizing data<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the principles that distinguish between good and bad graphs, and use them to identify good versus bad graphs.<br><br>|Adventure, Chapter 5|
 | 1/24|Z-scores<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of a Z-score and compute them from a dataset<br><br>|Adventure, Chapter 6|
 | 1/26|R lab: Data wrangling and visualization<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of tidy data<br>* Load a data file and prepare it for analysis<br>* Plot summary graphs using ggplot<br><br>|Introduction and Section 2.1 of https://garrettgman.github.io/tidying/<br>Sections 3.1-3.6 of http://r4ds.had.co.nz/data-visualisation.html|
-| 1/29|Probability<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the sample space for a selected random experiment.<br>* Compute relative frequency and empirical probability for a given set of events<br>* Find probabilities of single events, complementary events, and the unions and intersections of collections of events.<br><br>|Adventure, Chapter 7|
-| 1/31|Probability, cont.<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the difference between a probability and a conditional probability<br>* Use Bayes’ theorem to compute the inverse conditional probability.<br>* Describe the law of large numbers.<br><br>|Adventure, Chapter 7, contd.|
-| 2/2|R lab: probability<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>|[Student's Guide to R](https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf), Chapter 11|
+| 1/29|Probability<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the sample space for a selected random experiment.<br>* Compute relative frequency and empirical probability for a given set of events<br>* Compute probabilities of single events, complementary events, and the unions and intersections of collections of events.<br>* Describe the law of large numbers.<br><br>|Adventure, Chapter 7|
+| 1/31|Probability, cont.<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the difference between a probability and a conditional probability<br>* Describe the concept of statistical independence<br>* Use Bayes’ theorem to compute the inverse conditional probability.<br><br>|Adventure, Chapter 7, contd.|
+| 2/2|R lab: probability<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Compute probabilities of combinations of events<br>* Compute an empirical probability distribution<br>* Describe the different functions available for the normal distribution, and their usage<br><br>||
 | 2/5|Sampling<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Distinguish between a population and a sample, and between population parameters and statistics<br>* Describe the concepts of sampling error and sampling distribution<br>* Describe how the Central Limit Theorem determines the nature of the sampling distribution of the mean<br><br>|Adventure, Chapter 8|
 | 2/7|Resampling<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of the bootstrap and use it to estimate the sampling distribution of a statistic<br>* Describe how resampling can be used to create a null distribution for statistical testing<br><br>|Adventure, Chapter 9 (section 9.3.5: The bootstrap|
 | 2/9|R Lab: Simulation and resampling<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>||
