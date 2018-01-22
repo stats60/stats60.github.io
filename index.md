@@ -3,7 +3,7 @@ layout: default
 title: Psych 10
 ---
 
-## Psych 10: Introduction to Statistical Methods
+## Psych 10/Stats 60: Introduction to Statistical Methods
 
 **Quarter**: Winter 2018  
 **Time**: MWF 10:30-11:50  
