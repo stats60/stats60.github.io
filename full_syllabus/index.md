@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 01/20/2018
+Revised 01/23/2018
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -104,7 +104,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 1/26|R lab: Data wrangling and visualization<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of tidy data<br>* Load a data file and prepare it for analysis<br>* Plot summary graphs using ggplot<br><br>|Introduction and Section 2.1 of https://garrettgman.github.io/tidying/<br>Sections 3.1-3.6 of http://r4ds.had.co.nz/data-visualisation.html|
 | 1/29|Probability<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the sample space for a selected random experiment.<br>* Compute relative frequency and empirical probability for a given set of events<br>* Compute probabilities of single events, complementary events, and the unions and intersections of collections of events.<br>* Describe the law of large numbers.<br><br>|Adventure, Chapter 7|
 | 1/31|Probability, cont.<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the difference between a probability and a conditional probability<br>* Describe the concept of statistical independence<br>* Use Bayes’ theorem to compute the inverse conditional probability.<br><br>|Adventure, Chapter 7, contd.|
-| 2/2|R lab: probability<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Compute probabilities of combinations of events<br>* Compute an empirical probability distribution<br>* Describe the different functions available for the normal distribution, and their usage<br><br>||
+| 2/2|R lab: probability<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Compute probabilities of combinations of events<br>* Compute an empirical probability distribution<br>* Describe the different functions available for the normal distribution, and their usage<br><br>|http://www.cyclismo.org/tutorial/R/probability.html|
 | 2/5|Sampling<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Distinguish between a population and a sample, and between population parameters and statistics<br>* Describe the concepts of sampling error and sampling distribution<br>* Describe how the Central Limit Theorem determines the nature of the sampling distribution of the mean<br><br>|Adventure, Chapter 8|
 | 2/7|Resampling<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of the bootstrap and use it to estimate the sampling distribution of a statistic<br>* Describe how resampling can be used to create a null distribution for statistical testing<br><br>|Adventure, Chapter 9 (section 9.3.5: The bootstrap|
 | 2/9|R Lab: Simulation and resampling<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>||
