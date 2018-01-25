@@ -5,6 +5,10 @@ Here are just a few curated resources that should be helpful for the course.
 
 ### [Companion web site for textbook](https://edge.sagepub.com/field-an-adventure-in-stats)
 
+### Other resources for learning statistics
+
+- [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
+
 ### Sources for interesting datasets
 
 - [data.gov](https://catalog.data.gov/)
