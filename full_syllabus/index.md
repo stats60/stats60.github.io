@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 01/23/2018
+Revised 01/25/2018
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -106,7 +106,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 1/31|Probability, cont.<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the difference between a probability and a conditional probability<br>* Describe the concept of statistical independence<br>* Use Bayes’ theorem to compute the inverse conditional probability.<br><br>|Adventure, Chapter 7, contd.|
 | 2/2|R lab: probability<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Compute probabilities of combinations of events<br>* Compute an empirical probability distribution<br>* Describe the different functions available for the normal distribution, and their usage<br><br>|http://www.cyclismo.org/tutorial/R/probability.html|
 | 2/5|Sampling<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Distinguish between a population and a sample, and between population parameters and statistics<br>* Describe the concepts of sampling error and sampling distribution<br>* Describe how the Central Limit Theorem determines the nature of the sampling distribution of the mean<br><br>|Adventure, Chapter 8|
-| 2/7|Resampling<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of the bootstrap and use it to estimate the sampling distribution of a statistic<br>* Describe how resampling can be used to create a null distribution for statistical testing<br><br>|Adventure, Chapter 9 (section 9.3.5: The bootstrap|
+| 2/7|Resampling<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the statistical concept of a random number<br>* Describe the concept of Monte Carlo simulation<br>* Describe the concept of the bootstrap and use it to estimate the sampling distribution of a statistic<br><br>|Adventure, Chapter 9 (section 9.3.5: The bootstrap)<br>Watch video: https://www.youtube.com/watch?v=tClZGWlRLoE|
 | 2/9|R Lab: Simulation and resampling<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>||
 | 2/12|Robust estimation<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>|Adventure, Chapter 9, cont.|
 | 2/14|Hypothesis testing<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Identify the components of a hypothesis test, including the parameter of interest, the null and alternative hypotheses, and the test statistic.<br>* Describe the proper interpretations of a p-value and a confidence interval as well as common misinterpretations<br>* Distinguish between the two types of error in hypothesis testing, and the factors that determine them.<br><br>|Adventure, Chapter 10|
@@ -123,4 +123,4 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 3/12|Comparing more than two means<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>|Adventure, Chapter 16 (pages 569-592)|
 | 3/14|R lab: statistical inference<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>||
 | 3/16|Doing reproducible research<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of P-hacking and its effects on scientific practice<br>* Identify cases of circular analysis/double-dipping<br>* Describe the problem of multiple comparisons and methods for correcting for it<br><br>Links:<br><br>* [Fivethirtyeight P-hacking demo](https://projects.fivethirtyeight.com/p-hacking/)<br><br>|Simmons et al?|
-| **TBD**|**Final meeting with project presentations?**|
+| 3/22|Final meeting with project presentations, 8:30-11:30am <br>|

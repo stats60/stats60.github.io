@@ -59,8 +59,9 @@ Students should be able to do each of the following by the end of this course:
 * Describe how the Central Limit Theorem determines the nature of the sampling distribution of the mean
 
 ### Resampling
+* Describe the statistical concept of a random number
+* Describe the concept of Monte Carlo simulation
 * Describe the concept of the bootstrap and use it to estimate the sampling distribution of a statistic
-* Describe how resampling can be used to create a null distribution for statistical testing
 
 ### Hypothesis testing
 * Describe how resampling can be used to compute a p-value.
