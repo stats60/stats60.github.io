@@ -26,6 +26,7 @@ title: Psych 10
 | Jaclyn Schwartz|jschwar2@stanford.edu|M 2:30-3:20, 50-51B<br>M 3:30-4:20, 50-51B|T 11:00-12:00, 169|
 | Maia ten Brink|mtb@stanford.edu|T 10:30-11:20, EDUC130<br>Th 10:30-11:20, EDUC130|[youcanbookme](https://maiatenbrink.youcanbook.me/), 425|
 
+If OH times don't work for you, or you need one-on-one help, please email your TA.
 
 **Teaching team email**: If you have a question that is either personal or specific to you (others in the class would not need the answer), please email us at psych10winter18@gmail.com. This account is monitored by the entire group of instructors, and we’ll aim to respond to your question as soon as possible.
 
