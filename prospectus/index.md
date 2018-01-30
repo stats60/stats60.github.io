@@ -51,7 +51,7 @@ Grades will be determined as follows:
 
 Each of the three lowest pre-class assignment grades, graded in-class assessments, and credit/no-credit assessments will be dropped to compute the final grade.
 
-There is no midterm or final examination for this class: the scheduled final exam time will be used for a party including a Project Showcase for group projects.  
+There is no midterm or final examination for this class: the scheduled final exam time will be used for a party including a Project Showcase for group projects.  *Attendance at this session is mandatory and will count toward the final project grade.*
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
