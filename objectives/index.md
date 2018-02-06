@@ -74,7 +74,7 @@ Students should be able to do each of the following by the end of this course:
 * Define the concept of effect size, and compute the effect size for a given test.
 
 ### Assumptions of modeling and model selection
-* Describe how to examine residuals to assess model fit
+* Describe the relation between model complexity and generalization
 * Describe the concept of crossvalidation and how it can be used to determine model complexity
 
 ### Modeling categorical relationships
