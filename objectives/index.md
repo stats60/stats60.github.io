@@ -73,6 +73,10 @@ Students should be able to do each of the following by the end of this course:
 * Describe the proper interpretation of a confidence interval, and compute a confidence interval for the mean of a given dataset.
 * Define the concept of effect size, and compute the effect size for a given test.
 
+### Assumptions of modeling and model selection
+* Describe how to examine residuals to assess model fit
+* Describe the concept of crossvalidation and how it can be used to determine model complexity
+
 ### Modeling categorical relationships
 * Describe the concept of a contingency table for categorical data.
 * Describe the concept of the chi-squared test for association and compute it for a given contingency table.
