@@ -63,6 +63,9 @@ Students should be able to do each of the following by the end of this course:
 * Describe the concept of Monte Carlo simulation
 * Describe the concept of the bootstrap and use it to estimate the sampling distribution of a statistic
 
+### R Lab: Simulation and resampling
+* Demostrate the ability to implement a Monte Carlo simulation in R
+
 ### Robust estimation
 * Describe the concept of an outlier and the mechanisms that can cause them
 * Describe the effects of outiers on the mean and the potential ways to prevent them
