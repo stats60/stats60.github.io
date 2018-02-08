@@ -63,6 +63,11 @@ Students should be able to do each of the following by the end of this course:
 * Describe the concept of Monte Carlo simulation
 * Describe the concept of the bootstrap and use it to estimate the sampling distribution of a statistic
 
+### Robust estimation
+* Describe the concept of an outlier and the mechanisms that can cause them
+* Describe the effects of outiers on the mean and the potential ways to prevent them
+* Describe how transformations of the data can reduce the impact of outliers and the contexts in which such transformations are appropriate
+
 ### Hypothesis testing
 * Describe how resampling can be used to compute a p-value.
 * Describe the concept of positive predictive value and apply it in the context of a specific inference.
