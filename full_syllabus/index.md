@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 02/06/2018
+Revised 02/07/2018
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -115,7 +115,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 2/21|Confidence intervals and effect sizes<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the proper interpretation of a confidence interval, and compute a confidence interval for the mean of a given dataset.<br>* Define the concept of effect size, and compute the effect size for a given test.<br><br>|Adventure, Chapter 11 (sections 11.1-11.3|
 | 2/23|Bayesian analysis<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>|Adventure, Chapter 11 (section 11.4)|
 | 2/26|Bayesian analysis, cont.<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>||
-| 2/28|Assumptions of modeling and model selection<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the relation between model complexity and generalization<br>* Describe the concept of crossvalidation and how it can be used to determine model complexity<br><br>|Adventure, Chapter 12 (section 12.1-12.2.2)<br>Watch Udacity video on cross-validation: https://www.youtube.com/watch?v=sFO2ff-gTh0|
+| 2/28|Assumptions of modeling and model selection<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the relation between model complexity and generalization<br>* Describe the concept of crossvalidation and how it can be used to determine model complexity<br>* Describe the IID assumption and the possible consequences of violating it<br><br>|Adventure, Chapter 12 (section 12.1-12.2.2)<br>Watch Udacity video on cross-validation: https://www.youtube.com/watch?v=sFO2ff-gTh0|
 | 3/2|Modeling categorical relationships<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of a contingency table for categorical data.<br>* Describe the concept of the chi-squared test for association and compute it for a given contingency table.<br><br>|Adventure, Chapter 13|
 | 3/5|Modeling continuous relationships<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of the correlation coefficient and its interpretation and compute it for a bivariate dataset<br>* Describe the potential causal influences that can give rise to a correlation.<br><br>Links:<br><br>* [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)<br><br>|Adventure, Chapter 13, cont.|
 | 3/7|The general linear model<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of linear regression and apply it to a bivariate dataset<br>* Describe the problem of overfitting and identify it in an example dataset.<br><br>|Adventure, Chapter 14|

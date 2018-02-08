@@ -76,6 +76,7 @@ Students should be able to do each of the following by the end of this course:
 ### Assumptions of modeling and model selection
 * Describe the relation between model complexity and generalization
 * Describe the concept of crossvalidation and how it can be used to determine model complexity
+* Describe the IID assumption and the possible consequences of violating it
 
 ### Modeling categorical relationships
 * Describe the concept of a contingency table for categorical data.
