@@ -73,7 +73,6 @@ Students should be able to do each of the following by the end of this course:
 
 ### Hypothesis testing
 * Describe how resampling can be used to compute a p-value.
-* Describe the concept of positive predictive value and apply it in the context of a specific inference.
 * Define the concept of statistical power, and compute statistical power for a given statistical test.
 * Describe the main criticisms of null hypothesis statistical testing
 
