@@ -95,11 +95,15 @@ Students should be able to do each of the following by the end of this course:
 
 ### The general linear model
 * Describe the concept of linear regression and apply it to a bivariate dataset
-* Describe the problem of overfitting and identify it in an example dataset.
+* Describe the concept of the general linear model and provide examples of its application
 
 ### Comparing two means
 * Determine whether a one-sample t-test or two-sample t-test is appropriate for a given hypothesis.
 * Compute a one-sample and two-sample t-test on relevant datasets, and compute the effect size and confidence intervals associated with each of these tests.
+
+### Dimensionallity reduction and clustering
+* Describe the concept of dimensionality reduction and how it can be used to summarize a dataset
+* Describe the concept of clustering and its use in understanding large datasets
 
 ### Doing reproducible research
 * Describe the concept of P-hacking and its effects on scientific practice
