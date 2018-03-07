@@ -104,10 +104,8 @@ Students should be able to do each of the following by the end of this course:
 ### Statistical Inference R lab
 * Demonstrate the ability to apply statistical models to real data in R
 
-### Machine learning and big data
-* Distinguish between supervised and unsupervised learning
-* Describe the concept of classification and its use in prediction
-* Describe the concept of clustering and its use in understanding large datasets
+### TBD
+* TBD
 
 ### Doing reproducible research
 * Describe the concept of P-hacking and its effects on scientific practice
