@@ -104,10 +104,9 @@ Students should be able to do each of the following by the end of this course:
 ### Statistical Inference R lab
 * Demonstrate the ability to apply statistical models to real data in R
 
-### TBD
-* TBD
+### Statistical modeling: Practical examples
+* Describe how to determine what kind of model to apply to a dataset
 
 ### Doing reproducible research
 * Describe the concept of P-hacking and its effects on scientific practice
-* Identify cases of circular analysis/double-dipping
-* Describe the problem of multiple comparisons and methods for correcting for it
+* Describe the concept of positive predictive value and its relation to statstical power

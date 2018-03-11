@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 03/06/2018
+Revised 03/10/2018
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -120,7 +120,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 3/5|Modeling continuous relationships<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of the correlation coefficient and its interpretation and compute it for a bivariate dataset<br>* Describe the potential causal influences that can give rise to a correlation.<br><br>Links:<br><br>* [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)<br><br>|Adventure, Chapter 13 (p. 451-470)|
 | 3/7|The general linear model<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of linear regression and apply it to a bivariate dataset<br>* Describe the concept of the general linear model and provide examples of its application<br><br>|Adventure, Chapter 14|
 | 3/9|Comparing means<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Determine whether a one-sample t-test or two-sample t-test is appropriate for a given hypothesis.<br>* Compute a one-sample and two-sample t-test on relevant datasets, and compute the effect size and confidence intervals associated with each of these tests.<br><br>|Adventure, Chapter 15|
-| 3/12|Statistical Inference R lab<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Demonstrate the ability to apply statistical models to real data in R<br><br>||
-| 3/14|TBD<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* TBD<br><br>|TBD|
-| 3/16|Doing reproducible research<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of P-hacking and its effects on scientific practice<br>* Identify cases of circular analysis/double-dipping<br>* Describe the problem of multiple comparisons and methods for correcting for it<br><br>Links:<br><br>* [Fivethirtyeight P-hacking demo](https://projects.fivethirtyeight.com/p-hacking/)<br><br>|Simmons et al (available on Canvas)<br>https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.gtAVwLX2GM#.fep9L6pw78|
+| 3/12|Statistical Inference R lab<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Demonstrate the ability to apply statistical models to real data in R<br><br>|https://www.youtube.com/watch?v=YhsNiqvu0Vs|
+| 3/14|Statistical modeling: Practical examples<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe how to determine what kind of model to apply to a dataset<br><br>||
+| 3/16|Doing reproducible research<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of P-hacking and its effects on scientific practice<br>* Describe the concept of positive predictive value and its relation to statstical power<br><br>Links:<br><br>* [Fivethirtyeight P-hacking demo](https://projects.fivethirtyeight.com/p-hacking/)<br><br>|Simmons et al (available on Canvas)<br>https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.gtAVwLX2GM#.fep9L6pw78|
 | 3/22|Final meeting with project presentations, 8:30-11:30am <br>|
