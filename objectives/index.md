@@ -76,7 +76,7 @@ Students should be able to do each of the following by the end of this course:
 * Describe the concept of a contingency table for categorical data.
 * Describe the concept of the chi-squared test for association and compute it for a given contingency table.
 
-### Modeling continuous relationships
+### Modeling continuous relationships (RP Gone - need guest lecturer)
 * Describe the concept of the correlation coefficient and its interpretation and compute it for a bivariate dataset
 * Describe the potential causal influences that can give rise to a correlation.
 

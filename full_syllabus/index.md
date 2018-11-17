@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 11/04/2018
+Revised 11/17/2018
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -116,7 +116,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 2/22|Bayesian analysis, cont.<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>||
 | 2/25|Bayesian analysis, cont. 2<br>||
 | 2/27|Modeling categorical relationships<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of a contingency table for categorical data.<br>* Describe the concept of the chi-squared test for association and compute it for a given contingency table.<br><br>|Chapter 12|
-| 3/1|Modeling continuous relationships<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of the correlation coefficient and its interpretation and compute it for a bivariate dataset<br>* Describe the potential causal influences that can give rise to a correlation.<br><br>Links:<br><br>* [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)<br><br>|Chapter 13|
+| 3/1|Modeling continuous relationships (RP Gone - need guest lecturer)<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of the correlation coefficient and its interpretation and compute it for a bivariate dataset<br>* Describe the potential causal influences that can give rise to a correlation.<br><br>Links:<br><br>* [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)<br><br>|Chapter 13|
 | 3/4|The general linear model<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of linear regression and apply it to a bivariate dataset<br>* Describe the concept of the general linear model and provide examples of its application<br><br>|Chapter 14|
 | 3/6|Comparing means<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Determine whether a one-sample t-test or two-sample t-test is appropriate for a given hypothesis.<br>* Compute a one-sample and two-sample t-test on relevant datasets, and compute the effect size and confidence intervals associated with each of these tests.<br><br>|Chapter 15|
 | 3/8|Statistical Inference R lab<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Demonstrate the ability to apply statistical models to real data in R<br><br>||
