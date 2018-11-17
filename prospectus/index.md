@@ -25,9 +25,9 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 **Website**: The primary web site for the class is http://psych10.github.io.  We will use Canvas for in-class online quizzes, to submit assignments, and to post grades.
 
-**Discussion**.  We will be using Piazza to allow you to get help efficiently from both your classmates and the instructors. Please post your questions about the course material and course logistics to Piazza so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Piazza are available on the [Piazza page](http://piazza.com/stanford/winter2018/psych10).
+**Discussion**.  We will be using Campuswire to allow you to get help efficiently from both your classmates and the instructors. Please post your questions about the course material and course logistics to Campuswire so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Campuswire are available on the [Campuswire page](https://campuswire.com).
 
-**Materials**: The primary textbook is An Adventure in Statistics: The Reality Enigma by Andy Field.   The book is available for purchase at the Stanford Bookstore and has a companion web site with lots of additional resources [here] (https://edge.sagepub.com/field-an-adventure-in-stats).  It is also available as an e-book from the Amazon Kindle Store if you prefer that format.  A copy of the book is on reserve at Li & Ma Science Library.
+**Materials**: The primary textbook is "Scientific Thinking for the 21st Century", written by Professor Poldrack.  It is available at [the course web site](http://psych10.github.io/book/) as an online book, and can also be downloaded as a from the site.
 
 We will supplement this textbook with other [free online resources](../resources/).
 
@@ -43,13 +43,13 @@ Stanford University and its instructors are committed to ensuring that all cours
 
 Grades will be determined as follows:
 
-- Pre-class assignments (20% credit for completion)
-- In-class assessments (40%: half of the assessments will give credit for completion, while half will be graded for content)
-- Written assignments/problem sets (25%)
+- Pre-class assignments (20% credit/no credit)
+- In-class assessments (30%)
+- Written assignments/problem sets (30%)
 - Final project writeup and peer review (10%)
-- Section attendance and participation (5%)
+- Section attendance and participation (10%)
 
-Each of the three lowest pre-class assignment grades, graded in-class assessments, and credit/no-credit assessments will be dropped to compute the final grade.
+Two each of the pre-class and in-class assessments will be dropped to compute the final grade.
 
 There is no midterm or final examination for this class: the scheduled final exam time will be used for a party including a Project Showcase for group projects.  *Attendance at this session is mandatory and will count toward the final project grade.*
 
@@ -77,7 +77,7 @@ the quarter.
 **Grade disputes**:  Students must wait 24 hours after receiving a grade before they can dispute it, after which disputes must be received within 7 days of receipt of the grade. Grade disputes must be submitted to the instructor by email.
 
 ## General course policies
-**Feedback**: We welcome student feedback regarding the course at any point.  Please feel free to email us directly, or leave anonymous feedback for the instructional team by placing an anonymous note in Dr. Poldrack’s mailbox at Jordan Hall.  
+**Feedback**: We welcome student feedback regarding the course at any point.  Please feel free to email us directly, or leave anonymous feedback for the instructional team by using our [online form](https://poldracklab.wufoo.com/forms/m5bt5c407agqei/).
 
 **Gender expression/identity:**
 This course affirms people of all gender expressions and gender identities. If you prefer to be called a different name than what is indicated on the class roster, please let me know. Feel free to correct me on your preferred gender pronoun. If you have any questions or concerns, please do not hesitate to contact me.
