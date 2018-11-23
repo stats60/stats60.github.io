@@ -5,7 +5,7 @@ title: Psych 10
 
 ## Psych 10/Stats 60: Introduction to Statistical Methods
 
-**Quarter**: Winter 2018  
+**Quarter**: Winter 2019  
 **Time**: MWF 10:30-11:50  
 **Location**: Jordan Hall 040  
 **Instructor**: [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack)  
