@@ -1,3 +1,5 @@
+setup:
+	pip install --upgrade google-api-python-client
 update:
 	python mk_syllabus.py
 	git add index.md
