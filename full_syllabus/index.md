@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 11/17/2018
+Revised 11/23/2018
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -57,7 +57,7 @@ Unless otherwise stated, you can use any published resource you wish to complete
 
 **Pre-class assignments**:  On most days you will be responsible for completing a short questionnaire in order to gauge understanding of the assigned content and provide feedback for the instructional team regarding concepts that need extra discussion.  You will be given credit for simply completing the assignment in a comprehensible manner.  
 
-**In-class assessments**:  Twice a week (in most weeks) you will complete an online activity to assess your learning of the important concepts or skills for that day.  Half of these will be graded for content, while the others will be credit/no-credit (i.e. you get the credit simply for completing the assessment during class in a comprehensible manner).  
+**In-class assessments**:  Twice a week (in most weeks) you will complete an online activity to assess your learning of the important concepts or skills for that day.  You must be physically present in the classroom to complete these assignments.
 
 **Problem sets**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 7 PM on Tuesdays, submitted via Canvas. We will accept late problem sets for up to three days after the PSet is due; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the PSet is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
 
