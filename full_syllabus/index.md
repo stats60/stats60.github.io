@@ -27,7 +27,7 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 **Discussion**.  We will be using Campuswire to allow you to get help efficiently from both your classmates and the instructors. Please post your questions about the course material and course logistics to Campuswire so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Campuswire are available on the [Campuswire page](https://campuswire.com).
 
-**Materials**: The primary textbook is "Scientific Thinking for the 21st Century", written by Professor Poldrack.  It is available at [the course web site](http://psych10.github.io/book/) as an online book, and can also be downloaded as a from the site.
+**Materials**: The primary textbook is "Scientific Thinking for the 21st Century", written by Professor Poldrack.  It is available at [http://thinkstats.org](http://thinkstats.org) as an online book, and can also be downloaded as a PDF from the site (using the PDF link at the top of the page).
 
 We will supplement this textbook with other [free online resources](../resources/).
 
@@ -70,9 +70,11 @@ A list of some public data resources is provided on the [Resources page](../reso
 
 **Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please alert the TAs *prior to your absence* to schedule a make-up activity.
 
-**Extra credit**:  Students will be offered extra credit for completing
-relevant online courses via [DataCamp](http://datacamp.com) throughout
+**Extra credit**:  There are two possible ways to obtain extra credit:
+
+- Students will be offered extra credit for completing relevant online courses via [DataCamp](http://datacamp.com) throughout
 the quarter.  
+- Students will be offered extra credit for submitting corrections or suggestions to the online textbook.
 
 **Grade disputes**:  Students must wait 24 hours after receiving a grade before they can dispute it, after which disputes must be received within 7 days of receipt of the grade. Grade disputes must be submitted to the instructor by email.
 
