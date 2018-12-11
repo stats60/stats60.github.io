@@ -3,12 +3,9 @@
 
 Here are just a few curated resources that should be helpful for the course.
 
-### [Companion web site for textbook](https://edge.sagepub.com/field-an-adventure-in-stats)
-
-### Other resources for learning statistics
+### Resources for learning statistics
 
 - [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
-- [Discovering Statistics Using R](https://www.amazon.com/Discovering-Statistics-Using-Andy-Field/dp/1446200469): This is another book by the author of your assigned textbook.  It covers much of the same material as your text, though not necessarily in the same level of detail; It also covers many topics that we will not cover.  Unfortunately (or fortunately, as you may see it), it has no talking cats.
 
 ### Sources for interesting datasets
 
