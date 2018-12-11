@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 11/23/2018
+Revised 12/11/2018
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -27,7 +27,7 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 **Discussion**.  We will be using Campuswire to allow you to get help efficiently from both your classmates and the instructors. Please post your questions about the course material and course logistics to Campuswire so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Campuswire are available on the [Campuswire page](https://campuswire.com).
 
-**Materials**: The primary textbook is "Scientific Thinking for the 21st Century", written by Professor Poldrack.  It is available at [http://thinkstats.org](http://thinkstats.org) as an online book, and can also be downloaded as a PDF from the site (using the PDF link at the top of the page).
+**Materials**: The primary textbook is "Statistical Thinking for the 21st Century", written by Professor Poldrack.  It is available at [http://statsthinking21.org](http://statsthinking21.org) as an online book, and can also be downloaded as a PDF or EPUB from the site (using the PDF/EPUB links under the download tab at the top of the page).
 
 We will supplement this textbook with other [free online resources](../resources/).
 
@@ -49,15 +49,15 @@ Grades will be determined as follows:
 - Final project writeup and peer review (10%)
 - Section attendance and participation (10%)
 
-Two each of the pre-class and in-class assessments will be dropped to compute the final grade.
+Three each of the pre-class and in-class assessments will be dropped to compute the final grade.
 
-There is no midterm or final examination for this class: the scheduled final exam time will be used for a party including a Project Showcase for group projects.  *Attendance at this session is mandatory and will count toward the final project grade.*
+There is no midterm or final examination for this class: the scheduled final exam time will be used for a Project Showcase for group projects.  *Attendance at this session is mandatory and will count toward the final project grade.*
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
 **Pre-class assignments**:  On most days you will be responsible for completing a short questionnaire in order to gauge understanding of the assigned content and provide feedback for the instructional team regarding concepts that need extra discussion.  You will be given credit for simply completing the assignment in a comprehensible manner.  
 
-**In-class assessments**:  Twice a week (in most weeks) you will complete an online activity to assess your learning of the important concepts or skills for that day.  You must be physically present in the classroom to complete these assignments.
+**In-class assessments**:  Twice a week (in most weeks) you will complete an online activity to assess your learning of the important concepts or skills for that day.  You must be physically present in the classroom to access these assignments.
 
 **Problem sets**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 7 PM on Tuesdays, submitted via Canvas. We will accept late problem sets for up to three days after the PSet is due; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the PSet is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
 
