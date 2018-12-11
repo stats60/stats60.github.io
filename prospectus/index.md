@@ -49,7 +49,7 @@ Grades will be determined as follows:
 - Final project writeup and peer review (10%)
 - Section attendance and participation (10%)
 
-Two each of the pre-class and in-class assessments will be dropped to compute the final grade.
+Three each of the pre-class and in-class assessments will be dropped to compute the final grade.
 
 There is no midterm or final examination for this class: the scheduled final exam time will be used for a Project Showcase for group projects.  *Attendance at this session is mandatory and will count toward the final project grade.*
 
