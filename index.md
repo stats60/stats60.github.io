@@ -35,3 +35,5 @@ If OH times don't work for you, or you need one-on-one help, please email your T
 **Source code**: Source code and related files for most class demos are available at https://github.com/psych10/psych10.
 
 Follow the links at the top of the page for more information about the course.
+
+Thanks to [Datacamp](https://www.datacamp.com/) for providing full access to their entire course curriculum!
