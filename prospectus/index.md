@@ -51,6 +51,17 @@ Grades will be determined as follows:
 
 Three each of the pre-class and in-class assessments will be dropped to compute the final grade.
 
+**Grading scale**. The grading scale will be as follows:
+
+* 97-100: A+
+* 93-96: A
+* 90-92: A-
+* 87-89: B+
+
+and so on (rounding to the nearest whole number).  We may curve up at the bottom of the scale depending on the distribution, but I will not curve down (i.e. 87 will never be worse than B+).
+
+**Assignments**
+
 There is no midterm or final examination for this class: the scheduled final exam time will be used for a Project Showcase for group projects.  *Attendance at this session is mandatory and will count toward the final project grade.*
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
@@ -61,6 +72,8 @@ Unless otherwise stated, you can use any published resource you wish to complete
 
 **Problem sets**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 9 AM on Mondays, submitted via Canvas. We will accept late problem sets for up to three days after the PSet is due; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the PSet is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
 
+Problem sets will be graded using an automated system, supplemented by manual fixes for any incorrectly deducted points.  The automated grading system also compares code across all students to detect any possible sharing of answers.
+
 **Sections**: Section attendance is mandatory. If you are unable to attend your assigned section on a given week, you may attend a different section with permission from both section leaders. Requests to attend an alternate section should be made at least 24 hours in advance.
 
 **Final project**: Each student will participate in a group project with 3-4 other students.
@@ -68,7 +81,7 @@ The project must test a set of specific hypotheses using a real world dataset.  
 
 A list of some public data resources is provided on the [Resources page](../resources/).
 
-**Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please alert the TAs *prior to your absence* to schedule a make-up activity.
+**Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please alert the TAs *prior to your absence* to schedule a make-up activity.  Athletes must copy their athletic advisor on any requests for excused absences due to athletic events.
 
 **Extra credit**:  There are two possible ways to obtain extra credit:
 
