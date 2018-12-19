@@ -24,9 +24,7 @@ Students should be able to do each of the following by the end of this course:
 * Load a data file into a data frame and plots its contents
 
 ### Probability
-* Describe the difference between a probability and a conditional probability
-* Describe the concept of statistical independence
-* Use Bayes’ theorem to compute the inverse conditional probability.
+* Active probability exercise in class
 
 ### R lab: probability
 * Compute probabilities of combinations of events
