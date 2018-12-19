@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 12/11/2018
+Revised 12/19/2018
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -44,12 +44,23 @@ Stanford University and its instructors are committed to ensuring that all cours
 Grades will be determined as follows:
 
 - Pre-class assignments (20% credit/no credit)
-- In-class assessments (30%)
+- In-class assessments (25%)
 - Written assignments/problem sets (30%)
-- Final project writeup and peer review (10%)
+- Final project writeup, peer review, and presentation (15%)
 - Section attendance and participation (10%)
 
 Three each of the pre-class and in-class assessments will be dropped to compute the final grade.
+
+**Grading scale**. The grading scale will be as follows:
+
+* 97-100: A+
+* 93-96: A
+* 90-92: A-
+* 87-89: B+
+
+and so on (rounding to the nearest whole number).  We may curve up at the bottom of the scale depending on the distribution, but I will not curve down (i.e. 87 will never be worse than B+).
+
+**Assignments**
 
 There is no midterm or final examination for this class: the scheduled final exam time will be used for a Project Showcase for group projects.  *Attendance at this session is mandatory and will count toward the final project grade.*
 
@@ -59,7 +70,9 @@ Unless otherwise stated, you can use any published resource you wish to complete
 
 **In-class assessments**:  Twice a week (in most weeks) you will complete an online activity to assess your learning of the important concepts or skills for that day.  You must be physically present in the classroom to access these assignments.
 
-**Problem sets**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 7 PM on Tuesdays, submitted via Canvas. We will accept late problem sets for up to three days after the PSet is due; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the PSet is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
+**Problem sets**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 9 AM on Mondays, submitted via Canvas. We will accept late problem sets for up to three days after the PSet is due; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the PSet is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
+
+Problem sets will be graded using an automated system, supplemented by manual fixes for any incorrectly deducted points.  The automated grading system also compares code across all students to detect any possible sharing of answers.
 
 **Sections**: Section attendance is mandatory. If you are unable to attend your assigned section on a given week, you may attend a different section with permission from both section leaders. Requests to attend an alternate section should be made at least 24 hours in advance.
 
@@ -68,7 +81,7 @@ The project must test a set of specific hypotheses using a real world dataset.  
 
 A list of some public data resources is provided on the [Resources page](../resources/).
 
-**Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please alert the TAs *prior to your absence* to schedule a make-up activity.
+**Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please alert the TAs *prior to your absence* to schedule a make-up activity.  Athletes must copy their athletic advisor on any requests for excused absences due to athletic events.
 
 **Extra credit**:  There are two possible ways to obtain extra credit:
 
@@ -97,7 +110,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ---|---|---|
 | 1/7|What is statistics? overview of the course<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the central goals and fundamental concepts of statistics.<br>* Describe the difference between experimental and observational research with regard to what can be inferred about causality<br>* Explain how randomization provides the ability to make inferences about causation.<br><br>|Chapter 1|
 | 1/9|Working with data <br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Distinguish between different types of variables (quantitative/qualitative, discrete/continuous, scales of measurement)<br>* Describe the concept of measurement error<br>* Distinguish between the concepts of reliability and validity and apply each concept to a particular dataset<br><br>|Chapter 2|
-| 1/11|R Lab: Basics<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Interact with an RMarkdown notebook in RStudio<br>* Describe the difference between a variable and a function<br>* Create a vector, matrix, or data frame and access its elements<br>* Load a data file into a data frame and plots its contents<br><br>Links:<br><br>* For additional practice with R, check out the free courses provided by [Datacamp](http://www.datacamp.com).  In particular, their [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) provides a nice basic overview of working in R.<br><br>|Install RStudio ([instructions](https://psych10.github.io/sessions/03/))<br>Complete chapters 1-4 of the CodeSchool TryR tutorial (http://tryr.codeschool.com/)|
+| 1/11|R Lab: Basics<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Interact with an RMarkdown notebook in RStudio<br>* Describe the difference between a variable and a function<br>* Create a vector, matrix, or data frame and access its elements<br>* Load a data file into a data frame and plots its contents<br><br>Links:<br><br>* For additional practice with R, check out the free courses provided by [Datacamp](http://www.datacamp.com).  In particular, their [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) provides a nice basic overview of working in R.<br><br>|Install RStudio ([instructions](https://psych10.github.io/sessions/03/))<br>Complete Intro to basics section of DataCamp Introduction to R (https://campus.datacamp.com/courses/free-introduction-to-r)|
 | 1/14|Probability<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the sample space for a selected random experiment.<br>* Compute relative frequency and empirical probability for a given set of events<br>* Compute probabilities of single events, complementary events, and the unions and intersections of collections of events.<br>* Describe the law of large numbers.<br><br>Links:<br><br>* [R notebook for lecture](https://rawgit.com/psych10/psych10/master/notebooks/Session09-Probability1/Session09-Probability1.html)<br><br>|Chapter 3|
 | 1/16|Probability, cont.<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the difference between a probability and a conditional probability<br>* Describe the concept of statistical independence<br>* Use Bayes’ theorem to compute the inverse conditional probability.<br><br>|Chapter 3, continued|
 | 1/18|Probability, cont 2<br>||
