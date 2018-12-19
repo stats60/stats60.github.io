@@ -26,7 +26,7 @@ Tiffany Hsu, Jaclyn Schwartz, Lester Tong
 | Marc Harrison|marcharr@stanford.edu|||
 | Tiffany Hsu|twhsu@stanford.edu|||
 | Jaclyn Schwartz|jschwar2@stanford.edu|||
-| Lester Tong||||
+| Lester Tong|lctong@stanford.edu|||
 
 If OH times don't work for you, or you need one-on-one help, please email your TA.
 
