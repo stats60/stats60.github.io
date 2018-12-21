@@ -16,6 +16,8 @@ install.packages("devtools")
 
 install.packages("mapproj",dependencies=TRUE)
 
+install.packages("assertthat",dependencies=TRUE)
+
 install.packages("dplyr",dependencies=TRUE)
 
 install.packages("tibble",dependencies=TRUE)
