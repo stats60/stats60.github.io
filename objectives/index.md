@@ -27,6 +27,7 @@ Students should be able to do each of the following by the end of this course:
 * Active probability exercise in class
 
 ### R lab: probability
+* Intro to Rmarkdown notebooks
 * Compute probabilities of combinations of events
 * Compute an empirical probability distribution
 * Describe the different functions available for the normal distribution, and their usage
