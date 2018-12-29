@@ -15,17 +15,17 @@ title: Psych 10: Overview
 - *Evidence-based*: Frequent assessments will provide the instructors with ongoing information about student learning, so that we can base the progression of the course on data rather than subjective impressions.
 - *Authentic*: We will engage with real data in all its messiness using real statistical tools, with the goal of learning how to solve real problems and how to avoid common missteps and pitfalls.
 
-Statistics is a broad field, and the goal of this course is not “coverage” of the entire field or simple familiarity with the concepts. Instead, we will work towards a deep understanding and ability to apply a set of core concepts, and we will actively adjust the course based on the results from our daily assessments.  
+Statistics is a broad field, and the goal of this course is not “coverage” of the entire field or simple familiarity with the concepts. Instead, we will work towards a deep understanding and ability to apply a set of core concepts, and we will actively adjust the course based on the results from our daily assessments.
 
 **Prerequisites**: Students should have a solid understanding of high school mathematics (specifically algebra).  The course will also assume facility with using the internet and a personal computer.
 
-**Course Requirements**:  You will need a laptop computer for use in every class.  If you do not have access to a laptop please contact the instructor ASAP and we will help you obtain access to one.  
+**Course Requirements**:  You will need a laptop computer for use in every class.  If you do not have access to a laptop please contact the instructor ASAP and we will help you obtain access to one.
 
 **Classrooom response**: We will use [PollEverywhere](http://polleverywhere.com) for responding to questions during class.  You will need a computer or device that enables you to respond during every class session.  Instructions will be provided on how to set up your PollEverywhere account.
 
 **Website**: The primary web site for the class is http://psych10.github.io.  We will use Canvas for in-class online quizzes, to submit assignments, and to post grades.
 
-**Discussion**.  We will be using Campuswire to allow you to get help efficiently from both your classmates and the instructors. Please post your questions about the course material and course logistics to Campuswire so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Campuswire are available on the [Campuswire page](https://campuswire.com).
+**Discussion**.  We will be using Campuswire to allow you to get help efficiently from both your classmates and the instructors ([class Campuswire page](https://campuswire.com/c/GAE5DDA68)). Please post your questions about the course material and course logistics to Campuswire so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers (NOTE: TAs will respond between 9am and 8pm). As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Campuswire are available on the [Campuswire page](https://campuswire.com). If you did not receive an email invitation to Campuswire, please go to the [class Campuswire page](https://campuswire.com/c/GAE5DDA68) and use the code 8175 to sign up.
 
 **Materials**: The primary textbook is "Statistical Thinking for the 21st Century", written by Professor Poldrack.  It is available at [http://statsthinking21.org](http://statsthinking21.org) as an online book, and can also be downloaded as a PDF or EPUB from the site (using the PDF/EPUB links under the download tab at the top of the page).
 
@@ -66,7 +66,7 @@ There is no midterm or final examination for this class: the scheduled final exa
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
-**Pre-class assignments**:  On most days you will be responsible for completing a short questionnaire in order to gauge understanding of the assigned content and provide feedback for the instructional team regarding concepts that need extra discussion.  You will be given credit for simply completing the assignment in a comprehensible manner.  
+**Pre-class assignments**:  On most days you will be responsible for completing a short questionnaire in order to gauge understanding of the assigned content and provide feedback for the instructional team regarding concepts that need extra discussion.  You will be given credit for simply completing the assignment in a comprehensible manner.
 
 **In-class assessments**:  Twice a week (in most weeks) you will complete an online activity to assess your learning of the important concepts or skills for that day.  You must be physically present in the classroom to access these assignments.
 
@@ -74,19 +74,21 @@ Unless otherwise stated, you can use any published resource you wish to complete
 
 Problem sets will be graded using an automated system, supplemented by manual fixes for any incorrectly deducted points.  The automated grading system also compares code across all students to detect any possible sharing of answers.
 
-**Sections**: Section attendance is mandatory. If you are unable to attend your assigned section on a given week, you may attend a different section with permission from both section leaders. Requests to attend an alternate section should be made at least 24 hours in advance.
+**Sections**: Section attendance is mandatory. If you are unable to attend your assigned section on a given week, you may attend a different section with permission from both section leaders. Requests to attend an alternate section should be made at least 24 hours in advance. Sections will be "labs" in which you can work together on your problem sets and projects with scaffolding from TAs.
 
 **Final project**: Each student will participate in a group project with 3-4 other students.
 The project must test a set of specific hypotheses using a real world dataset.   The group must decide what hypotheses to test, and discuss the idea with their TA in section to get approval for the idea.  They must then do a literature review to find out what has been done on the question before, perform the analyses, and write a report on the results as well as provide the R code used to perform the entire analysis.  These reports will be peer-reviewed.  All groups will be given the opportunity to make a short presentation of their results at the finals week party.
 
 A list of some public data resources is provided on the [Resources page](../resources/).
 
-**Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please alert the TAs *prior to your absence* to schedule a make-up activity.  Athletes must copy their athletic advisor on any requests for excused absences due to athletic events.
+**Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please log your absence *prior to your absence* using this [form](https://docs.google.com/forms/d/e/1FAIpQLSfXUK7p0O12fS-hhQaWjaDNZyXhgTVfZ3c2KHfNvmXfukgzYg/viewform?usp=sf_link). You must complete this form *in advance* to receive the opportunity to make up in-class assessments. Athletes must include the name and email of their athletic advisor when providing a reason for their absence.
+
+If you are too ill to come to class, please complete the excused absence form ASAP and additionally contact the teaching team at psych10winter19@gmail.com. See [this page](https://undergrad.stanford.edu/academic-planning/academic-policies/attendance-and-absences) for additional information on Stanford policy regarding missed classes.
 
 **Extra credit**:  There are two possible ways to obtain extra credit:
 
 - Students will be offered extra credit for completing relevant online courses via [DataCamp](http://datacamp.com) throughout
-the quarter.  
+the quarter.
 - Students will be offered extra credit for submitting corrections or suggestions to the online textbook.
 
 **Grade disputes**:  Students must wait 24 hours after receiving a grade before they can dispute it, after which disputes must be received within 7 days of receipt of the grade. Grade disputes must be submitted to the instructor by email.
@@ -98,7 +100,7 @@ the quarter.
 This course affirms people of all gender expressions and gender identities. If you prefer to be called a different name than what is indicated on the class roster, please let me know. Feel free to correct me on your preferred gender pronoun. If you have any questions or concerns, please do not hesitate to contact me.
 
 **Code of conduct:**
-You are expected to treat the instructional team and your fellow students with courtesy and respect.  
+You are expected to treat the instructional team and your fellow students with courtesy and respect.
 This class should be a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. Harassment of any form will not be tolerated.
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. If you are not comfortable approaching the instructional team, you may also contact the [Stanford Office of the Ombuds](https://ombuds.stanford.edu/)
 
