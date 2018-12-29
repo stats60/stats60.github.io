@@ -6,12 +6,19 @@ title: Psych 10
 ## Psych 10/Stats 60: Introduction to Statistical Methods
 
 **Quarter**: Winter 2019  
+
 **Time**: MWF 10:30-11:50  
+
 **Location**: Jordan Hall 040  
+
 **Instructor**: [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack)  
+
 **Email**: russpold@stanford.edu  
+
 **Office location**: Jordan Hall, Room 314  
+
 **Phone**: 650-497-8488 (office)  
+
 **Office Hours**: M/F 1-2 pm, 314 Jordan Hall
 
 **Teaching Assistants**: Lucy King (head TA), Elizabeth Blevins, Tyler Bonnen, Marc Harrison,
