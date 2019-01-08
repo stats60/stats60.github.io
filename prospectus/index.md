@@ -46,7 +46,8 @@ Grades will be determined as follows:
 - Pre-class assignments (20% credit/no credit)
 - In-class assessments (25%)
 - Written assignments/problem sets (30%)
-- Final project writeup, peer review, and presentation (15%)
+- Final project writeup and peer review (10%)
+- Final project presentation (5%)
 - Section attendance and participation (10%)
 
 Three each of the pre-class and in-class assessments will be dropped to compute the final grade.
