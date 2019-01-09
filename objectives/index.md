@@ -12,11 +12,6 @@ Students should be able to do each of the following by the end of this course:
 * Describe the difference between experimental and observational research with regard to what can be inferred about causality
 * Explain how randomization provides the ability to make inferences about causation.
 
-### Working with data 
-* Distinguish between different types of variables (quantitative/qualitative, discrete/continuous, scales of measurement)
-* Describe the concept of measurement error
-* Distinguish between the concepts of reliability and validity and apply each concept to a particular dataset
-
 ### R Lab: Basics
 * Interact with an RMarkdown notebook in RStudio
 * Describe the difference between a variable and a function
@@ -24,13 +19,20 @@ Students should be able to do each of the following by the end of this course:
 * Load a data file into a data frame and plots its contents
 
 ### Probability
-* Active probability exercise in class
+* Describe the difference between a probability and a conditional probability
+* Describe the concept of statistical independence
+* Use Bayes’ theorem to compute the inverse conditional probability.
 
 ### R lab: probability
 * Intro to Rmarkdown notebooks
 * Compute probabilities of combinations of events
 * Compute an empirical probability distribution
 * Describe the different functions available for the normal distribution, and their usage
+
+### Working with data (make-up for session 2)
+* Distinguish between different types of variables (quantitative/qualitative, discrete/continuous, scales of measurement)
+* Describe the concept of measurement error
+* Distinguish between the concepts of reliability and validity and apply each concept to a particular dataset
 
 ### Summarizing data
 * Compute absolute, relative, and cumulative frequency distributions for a given dataset
