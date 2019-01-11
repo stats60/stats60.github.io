@@ -9,6 +9,7 @@ Here are just a few curated resources that should be helpful for the course.
 
 ### Sources for interesting datasets
 
+- The TAs have identified many interesting and easier to manipulate datasets [here](https://docs.google.com/spreadsheets/d/1Oo45o5RI_9mTRevO_4zv5OdAEWgly6TpUUENQkrIqmQ/edit?usp=sharing)
 - [data.gov](https://catalog.data.gov/)
 - [data.world](http://data.world)
 - [kaggle](http://www.kaggle.com/)
@@ -30,6 +31,7 @@ There are a ton of people interested in learning R these days, and a lot of reso
 - [aRrgh: a newcomer’s (angry) guide to R](http://arrgh.tim-smith.us/)
 - [Quick-R](http://www.statmethods.net/index.html)
 - [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/): Quick references for many different aspects of R programming
+- [tidverse Style Guide](https://style.tidyverse.org/): Make your code beautiful and reader-friendly!
 - [R for Data Science](http://r4ds.had.co.nz/index.html): This free online book focuses on working with data in R.
 - [Advanced R](http://adv-r.had.co.nz/): This free online book by Hadley Wickham will help you get to the next level once your R skills start to develop.
 - [R intro for Python users](http://ramnathv.github.io/pycon2014-r/): Used Python before? Check this out for a guide on how to transition to R.
