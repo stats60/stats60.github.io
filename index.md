@@ -31,7 +31,7 @@ Tiffany Hsu, Jaclyn Schwartz
 | Lucy King|lucyking@stanford.edu|Th 9:30-10:20 STLC105<br>Th 10:30-11:20 STLC105|W 12:00-1:00 420-245|
 | Elizabeth Blevins|eblevins@stanford.edu|Th 4:30-5:20 420-050<br>Th 5:30-6:20 420-050|M 3:00-4:00 420-386|
 | Tyler Bonnen|bonnen@stanford.edu|W 9:30-10:20 420-050<br>W 2:30-3:20 160-314|Th 11:30-12:30 420-406|
-| Marc Harrison|marcharr@stanford.edu|M 9:30-10:20 STLC119<br>M 2:30-3:20 STLC118|T 10:00-11:00|
+| Marc Harrison|marcharr@stanford.edu|M 9:30-10:20 STLC119<br>M 2:30-3:20 STLC118|T 10:00-11:00 420-404|
 | Tiffany Hsu|twhsu@stanford.edu|M 3:30-4:20 160-317<br>M 4:30-5:20 160-317|W 2:30-3:30 420-386|
 | Jaclyn Schwartz|jschwar2@stanford.edu|T 10:30-11:20 School of Ed. 130<br>T 4:30-5:20 420-050|T 12:30-1:30 420-419|
 | Lester Tong|lctong@stanford.edu|F 1:30-2:20<br>F 2:30-3:20 100-101k|Th 1:00-2:00 420-478|
