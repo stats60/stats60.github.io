@@ -39,17 +39,17 @@ Students should be able to do each of the following by the end of this course:
 * Generate a graphical representation of frequency distributions
 * Describe the difference between a normal and a long-tailed distribution, and describe the situations that give rise to each
 
+### R lab: Data wrangling and visualization
+* Describe the concept of tidy data
+* Load a data file and prepare it for analysis
+* Plot summary graphs using ggplot
+
 ### Fitting models (central tendency)
 * Describe the basic equation for statistical models (outcome=model + error)
 * Describe different measures of central tendency and dispersion, how they are computed, and how to determine which is most appropriate in any given circumstance.
 
 ### Visualizing data
 * Describe the principles that distinguish between good and bad graphs, and use them to identify good versus bad graphs.
-
-### R lab: Data wrangling and visualization
-* Describe the concept of tidy data
-* Load a data file and prepare it for analysis
-* Plot summary graphs using ggplot
 
 ### Sampling
 * Distinguish between a population and a sample, and between population parameters and statistics
