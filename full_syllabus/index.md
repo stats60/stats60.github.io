@@ -31,7 +31,7 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 We will supplement this textbook with other [free online resources](../resources/).
 
-You will need to install the free software package RStudio on your computer for use in class. See [here](../rstudio/) for instructions.
+You will need to install the free software package RStudio on your computer for use in class. See [here](../rstudio/) for instructions. There is a slide deck with instructions available on Canvas (Files/R resources/).
 
 Lecture slides will be available on the Canvas site. The slides are not intended to replace attendance, since much of the class activity will go beyond the slides.
 
