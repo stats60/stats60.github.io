@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 01/21/2019
+Revised 02/04/2019
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -71,7 +71,7 @@ Unless otherwise stated, you can use any published resource you wish to complete
 
 **In-class assessments**:  Twice a week (in most weeks) you will complete an online activity to assess your learning of the important concepts or skills for that day.  You must be physically present in the classroom to access these assignments.
 
-**Problem sets**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 9 AM on Mondays, submitted via Canvas. We will accept late problem sets for up to three days after the PSet is due; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the PSet is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
+**Problem sets**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 10:30 AM on Mondays, submitted via Canvas. We will accept late problem sets for up to three days after the PSet is due; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the PSet is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
 
 Problem sets will be graded using an automated system, supplemented by manual fixes for any incorrectly deducted points.  The automated grading system also compares code across all students to detect any possible sharing of answers.
 
@@ -128,11 +128,11 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 2/8|R Lab: Simulation and resampling<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Demostrate the ability to implement a Monte Carlo simulation in R<br><br>|Watch video: https://www.youtube.com/watch?v=tvv4IA8PEzw&t=482s (note that the video talks about several concepts that we have not learned about in class - just go with it and focus on the R-related material)|
 | 2/11|Hypothesis testing<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Identify the components of a hypothesis test, including the parameter of interest, the null and alternative hypotheses, and the test statistic.<br>* Describe the proper interpretations of a p-value and a confidence interval as well as common misinterpretations<br>* Distinguish between the two types of error in hypothesis testing, and the factors that determine them.<br><br>Links:<br><br>* R notebook for lecture: https://rawgit.com/psych10/psych10/master/notebooks/Session16-HypothesisTesting/Session16-HypothesisTesting.html<br><br>|Chapter 9|
 | 2/13|Hypothesis testing, cont.<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe how resampling can be used to compute a p-value.<br>* Define the concept of statistical power, and compute statistical power for a given statistical test.<br>* Describe the main criticisms of null hypothesis statistical testing<br><br>|Chapter 9, cont.|
-| 2/15|Confidence intervals and effect sizes<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the proper interpretation of a confidence interval, and compute a confidence interval for the mean of a given dataset.<br>* Define the concept of effect size, and compute the effect size for a given test.<br><br>|Chapter 10|
+| 2/15|Hypothesis testing R lab<br>|Chapter 10|
 | 2/18|No class, Presidents Day<br>|
-| 2/20|Bayesian analysis<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>|Chapter 11<br>https://www.youtube.com/watch?v=BcvLAw-JRss|
-| 2/22|Bayesian analysis, cont.<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>||
-| 2/25|Bayesian analysis, cont. 2<br>||
+| 2/20|Confidence intervals and effect sizes<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the proper interpretation of a confidence interval, and compute a confidence interval for the mean of a given dataset.<br>* Define the concept of effect size, and compute the effect size for a given test.<br><br>|Chapter 10|
+| 2/22|Bayesian analysis<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>|Chapter 11<br>https://www.youtube.com/watch?v=BcvLAw-JRss|
+| 2/25|Bayesian analysis, cont.<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>||
 | 2/27|Modeling categorical relationships<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of a contingency table for categorical data.<br>* Describe the concept of the chi-squared test for association and compute it for a given contingency table.<br><br>|Chapter 12|
 | 3/1|Modeling continuous relationships (RP Gone - need guest lecturer)<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of the correlation coefficient and its interpretation and compute it for a bivariate dataset<br>* Describe the potential causal influences that can give rise to a correlation.<br><br>Links:<br><br>* [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)<br><br>|Chapter 13|
 | 3/4|The general linear model<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of linear regression and apply it to a bivariate dataset<br>* Describe the concept of the general linear model and provide examples of its application<br><br>|Chapter 14|
