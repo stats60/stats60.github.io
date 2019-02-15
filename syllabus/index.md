@@ -31,7 +31,7 @@ Detailed version of the full syllabus is available [here](../full_syllabus)
 | 2/18|No class, Presidents Day<details></details>|n/a|
 | 2/20|Z-scores<details></details>|Chapter 5, Section 5.9|
 | 2/22|Confidence intervals and effect sizes<details><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the proper interpretation of a confidence interval, and compute a confidence interval for the mean of a given dataset.<br>* Define the concept of effect size, and compute the effect size for a given test.<br><br></details>|Chapter 10|
-| 2/25|<details></details>||
+| 2/25|Hypothesis testing review<details></details>|Chapter 9|
 | 2/27|Bayesian analysis<details><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br></details>|Chapter 11<br>https://www.youtube.com/watch?v=BcvLAw-JRss|
 | 3/1|Modeling categorical relationships<details><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of a contingency table for categorical data.<br>* Describe the concept of the chi-squared test for association and compute it for a given contingency table.<br><br></details>|Chapter 12|
 | 3/4|Modeling continuous relationships<details><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of the correlation coefficient and its interpretation and compute it for a bivariate dataset<br>* Describe the potential causal influences that can give rise to a correlation.<br><br>Links:<br><br>* [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)<br><br></details>|Chapter 13|
