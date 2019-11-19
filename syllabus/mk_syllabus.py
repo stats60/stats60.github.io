@@ -6,6 +6,7 @@ import os
 import collections
 import re
 import time
+import pandas
 
 from get_syllabus2 import get_syllabus
 
@@ -23,19 +24,12 @@ if not os.path.exists(lecturebase):
     os.mkdir(lecturebase)
 
 syll = get_syllabus()
+
+df = pandas.DataFrame(syll[1:],columns=syll[0])
+df = df.loc[df.Week!='', :]  # remove empty rows
+
 # columns to use for syllabus
 syll_columns = ['Date', 'Topic', 'Reading']
-header = [i.strip() for i in syll[0]]
-syll_colnums = []
-header_index = {}
-
-for i, h in enumerate(header):
-    if h in syll_columns:
-        syll_colnums.append(i)
-    header_index[h] = i
-
-
-content = syll[1:]
 
 # save objectives to write to a separate file listing all of them
 objectives = collections.OrderedDict()
@@ -55,36 +49,40 @@ with open(outfile, 'w') as f:
 
     # loop through rows
     lecturectr = 1
-    for i, s in enumerate(content):
-        rowcontent = []
-        if s[header_index['Topic']].find('no class') > -1 or s[0] == 'TBD':
+    for i in df.index:
+        df_row = df.loc[i,:]
+        # this is a kludge
+        added_objectives = False
+
+        if df_row.Topic.lower().find('no class') > -1:
             noclass = True
         else:
             noclass = False
+        rowcontent = []
 
-        for c in syll_colnums:
-            if not len(s) > c:
-                print('skipping', s)
-                continue
-            if syll_columns[c] == 'Topic' and not noclass:
-                cellcontent = '%s<details>' % s[c].replace('\n', '<br>')
-                # add expandable section with details
-                if len(s) > header_index['Learning Objectives']:
-                    learnobj = s[header_index[
-                        'Learning Objectives']].split('\n')
-                    if len(learnobj) > 0:
-                        cellcontent += '<br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>' # noqa
-                        groupname = s[1].split(',')[0]
-                        if not s[1] in objectives:
-                            objectives[groupname] = []
-                        for li, l in enumerate(learnobj):
-                            if len(l) == 0:
-                                continue
-                            objectives[groupname].append(l)
-                            cellcontent += '* %s<br>' % l
-                        cellcontent += '<br>'
-                if len(s) > header_index['Links']:
-                    links = s[header_index['Links']].split('\n')
+        for c in syll_columns:
+            if df_row[c] is None:
+                df_row[c] = ''
+            if not noclass:
+                if not added_objectives:
+                    cellcontent = '%s<details>' % df_row[c].replace('\n', '<br>')
+                    # add expandable section with details
+                    if df_row['Learning Objectives'] is not None:
+                        learnobj = df_row['Learning Objectives'].split('\n')
+                        if len(learnobj) > 0:
+                            cellcontent += '<br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>' # noqa
+                            groupname = df_row.Topic.split(',')[0]
+                            if not groupname in objectives:
+                                objectives[groupname] = []
+                            for li, l in enumerate(learnobj):
+                                if len(l) == 0:
+                                    continue
+                                objectives[groupname].append(l)
+                                cellcontent += '* %s<br>' % l
+                            cellcontent += '<br>'
+                            added_objectives = True
+                if df_row['Links'] is not None:
+                    links = df_row['Links'].split('\n')
                     if len(links[0]) > 0:
                         cellcontent += 'Links:<br><br>'
                         for li, l in enumerate(links):
@@ -92,14 +90,14 @@ with open(outfile, 'w') as f:
                         cellcontent += '<br>'
                 cellcontent += '</details>'
             else:
-                cellcontent = s[c].replace('\n', '<br>')
+                if c == 'Topic':
+                    cellcontent = df_row.Topic.replace('\n', '<br>')
             if noclass:
                 cellcontent = '**' + cellcontent + '**'
             rowcontent.append(cellcontent)
         f.write('| ' + '|'.join(rowcontent) + '|\n')
 
 # make a fully expanded version of the syllabus
-
 
 adict = {'<details>': '<br>', '</details>': ''}
 
