@@ -51,50 +51,54 @@ with open(outfile, 'w') as f:
     lecturectr = 1
     for i in df.index:
         df_row = df.loc[i,:]
-        # this is a kludge
-        added_objectives = False
 
         if df_row.Topic.lower().find('no class') > -1:
             noclass = True
         else:
             noclass = False
-        rowcontent = []
 
-        for c in syll_columns:
-            if df_row[c] is None:
-                df_row[c] = ''
-            if not noclass:
-                if not added_objectives:
-                    cellcontent = '%s<details>' % df_row[c].replace('\n', '<br>')
-                    # add expandable section with details
-                    if df_row['Learning Objectives'] is not None:
-                        learnobj = df_row['Learning Objectives'].split('\n')
-                        if len(learnobj) > 0:
-                            cellcontent += '<br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>' # noqa
-                            groupname = df_row.Topic.split(',')[0]
-                            if not groupname in objectives:
-                                objectives[groupname] = []
-                            for li, l in enumerate(learnobj):
-                                if len(l) == 0:
-                                    continue
-                                objectives[groupname].append(l)
-                                cellcontent += '* %s<br>' % l
-                            cellcontent += '<br>'
-                            added_objectives = True
-                if df_row['Links'] is not None:
-                    links = df_row['Links'].split('\n')
-                    if len(links[0]) > 0:
-                        cellcontent += 'Links:<br><br>'
-                        for li, l in enumerate(links):
-                            cellcontent += '* %s<br>' % l
-                        cellcontent += '<br>'
-                cellcontent += '</details>'
-            else:
-                if c == 'Topic':
-                    cellcontent = df_row.Topic.replace('\n', '<br>')
-            if noclass:
-                cellcontent = '**' + cellcontent + '**'
-            rowcontent.append(cellcontent)
+        date = df_row.Date
+        topic = '**' + df_row.Topic.replace('\n', '<br>') + '**'
+        if df_row.Reading is None:
+            reading = ''
+        else:
+            reading = df_row.Reading.replace('\n', '<br>')
+
+        # create foldout detail
+
+        # add expandable section with learning objectives and links
+        details = ''
+        if df_row['Learning Objectives'] is not None:
+            learnobj = df_row['Learning Objectives'].split('\n')
+            if len(learnobj) > 0:
+                details += '<details><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>' # noqa
+                groupname = df_row.Topic.split(',')[0]
+                if not groupname in objectives:
+                    objectives[groupname] = []
+                for li, l in enumerate(learnobj):
+                    if len(l) == 0:
+                        continue
+                    objectives[groupname].append(l)
+                    details += '* %s<br>' % l
+                print(details)
+
+        if df_row['Links'] is not None:
+            links = df_row['Links'].split('\n')
+            if len(links[0]) > 0:
+                details += '<br>Links:<br>'
+                for li, l in enumerate(links):
+                    details += '* %s<br>' % l
+        if details is not '':
+            details += '</details><br>'
+
+        if noclass:
+            rowcontent =  [df_row.Date, '**' + df_row.Topic + '**', '']
+        else:
+            rowcontent = [
+                df_row.Date,
+                '**' + df_row.Topic + '**' + details,
+                reading]
+
         f.write('| ' + '|'.join(rowcontent) + '|\n')
 
 # make a fully expanded version of the syllabus
