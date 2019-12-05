@@ -49,14 +49,18 @@ Students should be able to do each of the following by the end of this course:
 * Describe the difference between a probability and a conditional probability
 * Describe the concept of statistical independence
 * Use Bayes’ theorem to compute the inverse conditional probability.
-
-### R Lab: Cleaning/tidying data
 * Prepare data for analysis
 
 ### Sampling
 * Distinguish between a population and a sample, and between population parameters and statistics
 * Describe the concepts of sampling error and sampling distribution
 * Describe how the Central Limit Theorem determines the nature of the sampling distribution of the mean
+
+### Resampling
+* Describe the concept of a Monte Carlo simulation.
+* Describe the meaning of randomness in statistics
+* Obtain random numbers from the uniform and normal distributions
+* Describe the concept of the bootstrap
 
 ### Hypothesis testing
 * Identify the components of a hypothesis test, including the parameter of interest, the null and alternative hypotheses, and the test statistic.
@@ -74,10 +78,6 @@ Students should be able to do each of the following by the end of this course:
 * Describe the concept of a contingency table for categorical data.
 * Describe the concept of the chi-squared test for association and compute it for a given contingency table.
 
-### Comparing means
-* Determine whether a one-sample t-test or two-sample t-test is appropriate for a given hypothesis.
-* Compute a one-sample and two-sample t-test on relevant datasets, and compute the effect size and confidence intervals associated with each of these tests.
-
 ### Modeling continuous relationships
 * Describe the concept of the correlation coefficient and its interpretation and compute it for a bivariate dataset
 * Describe the potential causal influences that can give rise to a correlation.
@@ -85,6 +85,10 @@ Students should be able to do each of the following by the end of this course:
 ### The general linear model
 * Describe the concept of linear regression and apply it to a bivariate dataset
 * Describe the concept of the general linear model and provide examples of its application
+
+### Comparing means
+* Determine whether a one-sample t-test or two-sample t-test is appropriate for a given hypothesis.
+* Compute a one-sample and two-sample t-test on relevant datasets, and compute the effect size and confidence intervals associated with each of these tests.
 
 ### Statistical Inference R lab
 * Demonstrate the ability to apply statistical models to real data in R
