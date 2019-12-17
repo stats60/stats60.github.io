@@ -27,7 +27,7 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 **Discussion**.  We will be using Campuswire to allow you to get help efficiently from both your classmates and the instructors ([class Campuswire page](https://campuswire.com/c/GAE5DDA68)). Please post your questions about the course material and course logistics to Campuswire so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers (NOTE: TAs will respond between 9am and 8pm). As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Campuswire are available on the [Campuswire page](https://campuswire.com). If you did not receive an email invitation to Campuswire, please go to the [class Campuswire page](https://campuswire.com/c/GAE5DDA68) and use the code 8175 to sign up.
 
-**Materials**: The primary textbook is "Statistical Thinking for the 21st Century", written by Professor Poldrack.  It is available at [http://statsthinking21.org](http://statsthinking21.org) as an online book, and can also be downloaded as a PDF or EPUB from the site (using the PDF/EPUB links under the download tab at the top of the page).
+**Materials**: The primary textbook is "Statistical Thinking for the 21st Century", written by Professor Poldrack.  It is available for free at [http://statsthinking21.org](http://statsthinking21.org) as an online book, and can also be downloaded as a PDF or EPUB from the site (using the PDF/EPUB links under the download tab at the top of the page).
 
 We will supplement this textbook with other [free online resources](../resources/).
 
@@ -43,14 +43,13 @@ Stanford University and its instructors are committed to ensuring that all cours
 
 Grades will be determined as follows:
 
-- Pre-class assignments (20% credit/no credit)
-- In-class assessments (25%)
+- Quizzes (35%)
 - Written assignments/problem sets (30%)
 - Final project writeup and peer review (10%)
 - Final project presentation (5%)
-- Section attendance and participation (10%)
+- Section attendance and participation (20%)
 
-Three each of the pre-class and in-class assessments will be dropped to compute the final grade.
+The one lowest quiz and problem set grades will each be dropped to compute the final grade.
 
 **Grading scale**. The grading scale will be as follows:
 
@@ -59,7 +58,7 @@ Three each of the pre-class and in-class assessments will be dropped to compute 
 * 90-92: A-
 * 87-89: B+
 
-and so on (rounding to the nearest whole number).  We may curve up at the bottom of the scale depending on the distribution, but I will not curve down (i.e. 87 will never be worse than B+).
+and so on (rounding to the nearest whole number).  We may curve up at the bottom of the scale depending on the distribution, but I will not curve down (i.e. 87 might be better but will never be worse than B+).
 
 **Assignments**
 
@@ -67,13 +66,13 @@ There is no midterm or final examination for this class: the scheduled final exa
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
-**Pre-class assignments**:  On most days you will be responsible for completing a short questionnaire in order to gauge understanding of the assigned content and provide feedback for the instructional team regarding concepts that need extra discussion.  You will be given credit for simply completing the assignment in a comprehensible manner.
+**Weekly quizzes**:  Every week you will complete an online activity (via Canvas) to assess your learning of the important concepts and skills for the previous week.  These will be made available on Friday and will be due at 10:30 AM on Monday; if Monday is a holiday then the deadline will be postponed to Wednesday. 
 
-**In-class assessments**:  Twice a week (in most weeks) you will complete an online activity to assess your learning of the important concepts or skills for that day.  You must be physically present in the classroom to access these assignments.
+**Weekly assignments**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 11:59 PM on Mondays, submitted via Canvas. We will accept late assignments for up to three days after due date; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the assignment is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
 
-**Problem sets**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 10:30 AM on Mondays, submitted via Canvas. We will accept late problem sets for up to three days after the PSet is due; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the PSet is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
+Coding-based problem sets will be graded using an automated system, supplemented by manual fixes for any incorrectly deducted points.  The automated grading system also compares code across all students to detect any possible sharing of answers.  Any plaigarism or sharing detected will be reported to the Office of Community Standards.
 
-Problem sets will be graded using an automated system, supplemented by manual fixes for any incorrectly deducted points.  The automated grading system also compares code across all students to detect any possible sharing of answers.
+Some problem sets will involve completing courses on [Datacamp](http://datacamp.com).  Please note that credit will only be given if courses are completed under the course account using your Stanford.edu email address.
 
 **Sections**: Section attendance is mandatory. If you are unable to attend your assigned section on a given week, you may attend a different section with permission from both section leaders. Requests to attend an alternate section should be made at least 24 hours in advance. Sections will be "labs" in which you can work together on your problem sets and projects with scaffolding from TAs.
 
