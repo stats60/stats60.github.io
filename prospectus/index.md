@@ -43,9 +43,9 @@ Stanford University and its instructors are committed to ensuring that all cours
 
 Grades will be determined as follows:
 
-- Quizzes (35%)
-- Written assignments/problem sets (30%)
-- Final project writeup and peer review (10%)
+- Quizzes (25%)
+- Written assignments/problem sets (35%)
+- Final project writeup and peer review (15%)
 - Final project presentation (5%)
 - Section attendance and participation (20%)
 
