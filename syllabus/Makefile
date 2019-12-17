@@ -7,3 +7,6 @@ update:
 	git add ../objectives/index.md
 	git commit -m"autoupdate"
 	git push origin master
+
+check-style:
+	flake8 --show-source mk_syllabus.py get_syllabus2.py 
