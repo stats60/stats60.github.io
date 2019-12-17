@@ -49,7 +49,6 @@ Students should be able to do each of the following by the end of this course:
 * Describe the difference between a probability and a conditional probability
 * Describe the concept of statistical independence
 * Use Bayes’ theorem to compute the inverse conditional probability.
-* Prepare data for analysis
 
 ### Sampling
 * Distinguish between a population and a sample, and between population parameters and statistics

@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 12/05/2019
+Revised 12/17/2019
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -43,14 +43,13 @@ Stanford University and its instructors are committed to ensuring that all cours
 
 Grades will be determined as follows:
 
-- Pre-class assignments (20% credit/no credit)
-- In-class assessments (25%)
+- Quizzes (35%)
 - Written assignments/problem sets (30%)
 - Final project writeup and peer review (10%)
 - Final project presentation (5%)
-- Section attendance and participation (10%)
+- Section attendance and participation (20%)
 
-Three each of the pre-class and in-class assessments will be dropped to compute the final grade.
+The one lowest quiz and problem set grades will each be dropped to compute the final grade.
 
 **Grading scale**. The grading scale will be as follows:
 
@@ -59,7 +58,7 @@ Three each of the pre-class and in-class assessments will be dropped to compute 
 * 90-92: A-
 * 87-89: B+
 
-and so on (rounding to the nearest whole number).  We may curve up at the bottom of the scale depending on the distribution, but I will not curve down (i.e. 87 will never be worse than B+).
+and so on (rounding to the nearest whole number).  We may curve up at the bottom of the scale depending on the distribution, but I will not curve down (i.e. 87 might be better but will never be worse than B+).
 
 **Assignments**
 
@@ -67,15 +66,13 @@ There is no midterm or final examination for this class: the scheduled final exa
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
-**Pre-class assignments**:  On most days you will be responsible for completing a short questionnaire in order to gauge understanding of the assigned content and provide feedback for the instructional team regarding concepts that need extra discussion.  You will be given credit for simply completing the assignment in a comprehensible manner.
+**Weekly quizzes**:  Every week you will complete an online activity (via Canvas) to assess your learning of the important concepts and skills for the previous week.  These will be made available on Friday and will be due at 10:30 AM on Monday; if Monday is a holiday then the deadline will be postponed to Wednesday. 
 
-**In-class assessments**:  Every Monday in class you will complete an online activity (via Canvas) to assess your learning of the important concepts and skills for the previous week; if Monday is a holiday then this will be postponed to Wednesday.  You must be physically present in the classroom to access these assignments.
+**Weekly assignments**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 11:59 PM on Mondays, submitted via Canvas. We will accept late assignments for up to three days after due date; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the assignment is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
 
-**Weekly assignments**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 10:30 AM on Mondays, submitted via Canvas. We will accept late assignments for up to three days after due date; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the assignment is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
+Coding-based problem sets will be graded using an automated system, supplemented by manual fixes for any incorrectly deducted points.  The automated grading system also compares code across all students to detect any possible sharing of answers.  Any plaigarism or sharing detected will be reported to the Office of Community Standards.
 
-Coding-based problem sets will be graded using an automated system, supplemented by manual fixes for any incorrectly deducted points.  The automated grading system also compares code across all students to detect any possible sharing of answers.
-
-Some problem sets will involve completing courses on [Datacamp](http://datacamp.com).  Please note that credit will only be given if courses are completed under the course account using you Stanford.edu email address.
+Some problem sets will involve completing courses on [Datacamp](http://datacamp.com).  Please note that credit will only be given if courses are completed under the course account using your Stanford.edu email address.
 
 **Sections**: Section attendance is mandatory. If you are unable to attend your assigned section on a given week, you may attend a different section with permission from both section leaders. Requests to attend an alternate section should be made at least 24 hours in advance. Sections will be "labs" in which you can work together on your problem sets and projects with scaffolding from TAs.
 
@@ -124,7 +121,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 1/24|**Fitting models (central tendency) and z-scores**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe different measures of dispersion, how they are computed, and how to determine which is most appropriate in any given circumstance. Describe and compute z-scores.<br><br>|Chapter 8 (Sections 8.8 - 8.9)|
 | 1/27|**Probability**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the sample space for a selected random experiment.<br>* Compute relative frequency and empirical probability for a given set of events<br>* Compute probabilities of single events, complementary events, and the unions and intersections of collections of events.<br>* Describe the law of large numbers.<br><br>Links:<br>* [R notebook for lecture](https://rawgit.com/psych10/psych10/master/notebooks/Session09-Probability1/Session09-Probability1.html)<br><br>|Chapter 10 (Sections 10.1-10.3)|
 | 1/29|**Probability, cont.**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the difference between a probability and a conditional probability<br>* Describe the concept of statistical independence<br>* Use Bayes’ theorem to compute the inverse conditional probability.<br><br>|Chapter 10 (Sections 10.4-10.10)|
-| 1/31|**Probability, cont.**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Prepare data for analysis<br><br>||
+| 1/31|**Probability, cont.**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>||
 | 2/3|**Sampling**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Distinguish between a population and a sample, and between population parameters and statistics<br>* Describe the concepts of sampling error and sampling distribution<br>* Describe how the Central Limit Theorem determines the nature of the sampling distribution of the mean<br><br>Links:<br>* [R notebook for lecture](https://rawgit.com/psych10/psych10/master/notebooks/Session12-Sampling/Session12-Sampling.html)<br><br>|Chapter 12|
 | 2/5|**Resampling**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of a Monte Carlo simulation.<br>* Describe the meaning of randomness in statistics<br>* Obtain random numbers from the uniform and normal distributions<br>* Describe the concept of the bootstrap<br><br>|Chapter 14|
 | 2/7|**Sampling and resampling, cont.**|Chapters 13 and 15|
@@ -140,6 +137,6 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 3/2|**The general linear model**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of linear regression and apply it to a bivariate dataset<br>* Describe the concept of the general linear model and provide examples of its application<br><br>|Chapter 26|
 | 3/4|**Comparing means**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Determine whether a one-sample t-test or two-sample t-test is appropriate for a given hypothesis.<br>* Compute a one-sample and two-sample t-test on relevant datasets, and compute the effect size and confidence intervals associated with each of these tests.<br><br>|Chapter 28|
 | 3/6|**Statistical Inference R lab**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Demonstrate the ability to apply statistical models to real data in R<br><br>||
-| 3/9|**Statistical modeling: Practical examples**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe how to determine what kind of model to apply to a dataset<br><br>|Chapter 16|
+| 3/9|**Statistical modeling: Practical examples**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe how to determine what kind of model to apply to a dataset<br><br>|Chapter 30|
 | 3/11|**Review: different types of modeling**||
-| 3/13|**Doing reproducible research**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of P-hacking and its effects on scientific practice<br>* Describe the concept of positive predictive value and its relation to statstical power<br><br>Links:<br>* [Fivethirtyeight P-hacking demo](https://projects.fivethirtyeight.com/p-hacking/)<br><br>|Chapter 17<br>Simmons et al (available on Canvas)<br>https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.gtAVwLX2GM#.fep9L6pw78|
+| 3/13|**Doing reproducible research**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of P-hacking and its effects on scientific practice<br>* Describe the concept of positive predictive value and its relation to statstical power<br><br>Links:<br>* [Fivethirtyeight P-hacking demo](https://projects.fivethirtyeight.com/p-hacking/)<br><br>|Chapter 32<br>Simmons et al (available on Canvas)<br>https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.gtAVwLX2GM#.fep9L6pw78|
