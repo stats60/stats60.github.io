@@ -21,8 +21,7 @@ title: Psych 10
 
 **Office Hours**: M/F 12:30-2 pm, 314 Jordan Hall
 
-**Teaching Assistants**: Jackie Schwartz (head TA), Sai Auelua-Toomey, Marc Harrison, Nathan Kong
-, Jon Walters, Cayce Hook (computational TA)
+**Teaching Assistants**: Jackie Schwartz (head TA), Sai Auelua-Toomey, Marc Harrison, Nathan Kong, Jon Walters, Cayce Hook (computational TA)
 
 **Sections and TA Office Hours:**
 
@@ -31,7 +30,7 @@ title: Psych 10
 
 If OH times don't work for you, or you need one-on-one help, please email your TA.
 
-**Teaching team email**: If you have a question that is either personal or specific to you (others in the class would not need the answer), please email us at <TBD>. This account is monitored by the entire group of instructors, and we’ll aim to respond to your question as soon as possible.
+**Teaching team email**: If you have a question that is either personal or specific to you (others in the class would not need the answer), please email us at psych10winter20@gmail.com. This account is monitored by the entire group of instructors, and we’ll aim to respond to your question as soon as possible.
 
 **Source code**: Source code and related files for most class demos are available at https://github.com/psych10/psych10.
 
