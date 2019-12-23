@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 12/17/2019
+Revised 12/23/2019
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -43,9 +43,9 @@ Stanford University and its instructors are committed to ensuring that all cours
 
 Grades will be determined as follows:
 
-- Quizzes (35%)
-- Written assignments/problem sets (30%)
-- Final project writeup and peer review (10%)
+- Quizzes (25%)
+- Written assignments/problem sets (35%)
+- Final project writeup and peer review (15%)
 - Final project presentation (5%)
 - Section attendance and participation (20%)
 
@@ -140,3 +140,4 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 3/9|**Statistical modeling: Practical examples**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe how to determine what kind of model to apply to a dataset<br><br>|Chapter 30|
 | 3/11|**Review: different types of modeling**||
 | 3/13|**Doing reproducible research**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of P-hacking and its effects on scientific practice<br>* Describe the concept of positive predictive value and its relation to statstical power<br><br>Links:<br>* [Fivethirtyeight P-hacking demo](https://projects.fivethirtyeight.com/p-hacking/)<br><br>|Chapter 32<br>Simmons et al (available on Canvas)<br>https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.gtAVwLX2GM#.fep9L6pw78|
+| 3/16|**Final meeting with project presentations, 3:30-6:30 pm **|n/a|
