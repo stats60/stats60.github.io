@@ -21,12 +21,17 @@ title: Psych 10
 
 **Office Hours**: M/F 12:30-2 pm, 314 Jordan Hall
 
-**Teaching Assistants**: Jackie Schwartz (head TA), Sai Auelua-Toomey, Marc Harrison, Nathan Kong, Jon Walters, Cayce Hook (computational TA)
+**Teaching Assistants**: , , , , , 
 
 **Sections and TA Office Hours:**
 
-| TA|email|Sections|OH - Jordan Hall|
-| ---|---|---|
+|TA|email|Office Hours|
+|Jackie Schwartz (head TA)|jschwar2@stanford.edu|Thursdays 9:30am-10:30am|
+|Sai Auelua-Toomey|sakaria4@stanford.edu|Mondays 4-5pm|
+|Marc Harrison|marcharr@stanford.edu|Thursdays 1:00-2:00pm|
+|Nathan Kong|nclkong@stanford.edu|Tuesdays 10:30-11:30am|
+|Jon Walters|waltersj@stanford.edu|Tuesdays 3:30-4:30pm|
+|Cayce Hook (R TA)|cjhook@stanford.edu|Mondays 2-3pm|
 
 If OH times don't work for you, or you need one-on-one help, please email your TA.
 
