@@ -21,11 +21,9 @@ title: Psych 10
 
 **Office Hours**: M/F 12:30-2 pm, 314 Jordan Hall
 
-**Teaching Assistants**: , , , , , 
+**Teaching Assistants**: 
 
-**Sections and TA Office Hours:**
-
-|TA|email|Office Hours|
+|**TA**|**email**|**Office Hours**|
 |Jackie Schwartz (head TA)|jschwar2@stanford.edu|Thursdays 9:30am-10:30am|
 |Sai Auelua-Toomey|sakaria4@stanford.edu|Mondays 4-5pm|
 |Marc Harrison|marcharr@stanford.edu|Thursdays 1:00-2:00pm|
