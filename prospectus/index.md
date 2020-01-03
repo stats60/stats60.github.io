@@ -31,7 +31,7 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 We will supplement this textbook with other [free online resources](../resources/).
 
-You will need to install the free software package RStudio on your computer for use in class. See [here](../rstudio/) for instructions. There is a slide deck with instructions available on Canvas (Files/R resources/).
+We will use the free [RStudio Cloud](https://rstudio.cloud) service to access the RStudio software.  You will need to create a free account on the service in order to access it - please use your stanford.edu email address to create the account.  You can also install the free [RStudio](https://rstudio.com/products/rstudio/download/#download) software directly on your personal computer if you prefer.
 
 Lecture slides will be available on the Canvas site. The slides are not intended to replace attendance, since much of the class activity will go beyond the slides.
 
