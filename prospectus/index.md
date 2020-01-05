@@ -49,7 +49,7 @@ Grades will be determined as follows:
 - Final project presentation (5%)
 - Section attendance and participation (20%)
 
-The one lowest quiz and problem set grades will each be dropped to compute the final grade.
+The one lowest quiz and problem set grades will each be dropped to compute the final grade.  Each quiz and written assignment will count equally towards the final grade, based on a percentage of available points.
 
 **Grading scale**. The grading scale will be as follows:
 
@@ -66,7 +66,7 @@ There is no midterm or final examination for this class: the scheduled final exa
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
-**Weekly quizzes**:  Every week you will complete an online activity (via Canvas) to assess your learning of the important concepts and skills for the previous week.  These will be made available on Friday and will be due at 10:30 AM on Monday; if Monday is a holiday then the deadline will be postponed to Wednesday. 
+**Weekly quizzes**:  Every week you will complete an online activity (via Canvas) to assess your learning of the important concepts and skills for the previous week.  These will be made available on Friday and will be due at 10:30 AM on Monday; if Monday is a holiday then the deadline will be postponed to Wednesday.
 
 **Weekly assignments**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 11:59 PM on Mondays, submitted via Canvas. We will accept late assignments for up to three days after due date; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the assignment is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
 
@@ -81,7 +81,7 @@ The project must test a set of specific hypotheses using a real world dataset.  
 
 A list of some public data resources is provided on the [Resources page](../resources/).
 
-**Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please log your absence *prior to your absence* using this [form](https://docs.google.com/forms/d/e/1FAIpQLSfXUK7p0O12fS-hhQaWjaDNZyXhgTVfZ3c2KHfNvmXfukgzYg/viewform?usp=sf_link). You must complete this form *in advance* to receive the opportunity to make up in-class assessments. Athletes must include the name and email of their athletic advisor when providing a reason for their absence.
+**Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please log your absence *prior to your absence* using this [form](https://forms.gle/p4tx9jhzyqM2dmsj8). You must complete this form *in advance* to receive the opportunity to make up in-class assessments. Athletes must include the name and email of their athletic advisor when providing a reason for their absence.
 
 If you are too ill to come to class, please complete the excused absence form ASAP and additionally contact the teaching team at psych10winter19@gmail.com. See [this page](https://undergrad.stanford.edu/academic-planning/academic-policies/attendance-and-absences) for additional information on Stanford policy regarding missed classes.
 
