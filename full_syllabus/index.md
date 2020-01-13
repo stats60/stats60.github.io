@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 01/03/2020
+Revised 01/13/2020
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -25,13 +25,13 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 **Website**: The primary web site for the class is http://psych10.github.io.  We will use Canvas for in-class online quizzes, to submit assignments, and to post grades.
 
-**Discussion**.  We will be using Campuswire to allow you to get help efficiently from both your classmates and the instructors ([class Campuswire page](https://campuswire.com/c/GAE5DDA68)). Please post your questions about the course material and course logistics to Campuswire so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers (NOTE: TAs will respond between 9am and 8pm). As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Campuswire are available on the [Campuswire page](https://campuswire.com). If you did not receive an email invitation to Campuswire, please go to the [class Campuswire page](https://campuswire.com/c/GAE5DDA68) and use the code 8175 to sign up.
+**Discussion**.  We will be using Campuswire to allow you to get help efficiently from both your classmates and the instructors ([class Campuswire page](https://campuswire.com/c/GAE5DDA68)). Please post your questions about the course material and course logistics to Campuswire so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers (NOTE: TAs will respond between 9am and 8pm). As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Campuswire are available on the [Campuswire page](https://campuswire.com). If you did not receive an email invitation to Campuswire, please go to the [class Campuswire page](https://campuswire.com/c/GAE5DDA68) and use the code 4722 to sign up.
 
 **Materials**: The primary textbook is "Statistical Thinking for the 21st Century", written by Professor Poldrack.  It is available for free at [http://statsthinking21.org](http://statsthinking21.org) as an online book, and can also be downloaded as a PDF or EPUB from the site (using the PDF/EPUB links under the download tab at the top of the page).
 
 We will supplement this textbook with other [free online resources](../resources/).
 
-You will need to install the free software package RStudio on your computer for use in class. See [here](../rstudio/) for instructions. There is a slide deck with instructions available on Canvas (Files/R resources/).
+We will use the free [RStudio Cloud](https://rstudio.cloud) service to access the RStudio software.  You will need to create a free account on the service in order to access it - please use your stanford.edu email address to create the account.  You can also install the free [RStudio](https://rstudio.com/products/rstudio/download/#download) software directly on your personal computer if you prefer.
 
 Lecture slides will be available on the Canvas site. The slides are not intended to replace attendance, since much of the class activity will go beyond the slides.
 
@@ -49,7 +49,7 @@ Grades will be determined as follows:
 - Final project presentation (5%)
 - Section attendance and participation (20%)
 
-The one lowest quiz and problem set grades will each be dropped to compute the final grade.
+The one lowest quiz and problem set grades will each be dropped to compute the final grade.  Each quiz and written assignment will count equally towards the final grade, based on a percentage of available points.
 
 **Grading scale**. The grading scale will be as follows:
 
@@ -66,7 +66,7 @@ There is no midterm or final examination for this class: the scheduled final exa
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
-**Weekly quizzes**:  Every week you will complete an online activity (via Canvas) to assess your learning of the important concepts and skills for the previous week.  These will be made available on Friday and will be due at 10:30 AM on Monday; if Monday is a holiday then the deadline will be postponed to Wednesday. 
+**Weekly quizzes**:  Every week you will complete an online activity (via Canvas) to assess your learning of the important concepts and skills for the previous week.  These will be made available on Friday and will be due at 10:30 AM on Monday; if Monday is a holiday then the deadline will be postponed to Wednesday.
 
 **Weekly assignments**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 11:59 PM on Mondays, submitted via Canvas. We will accept late assignments for up to three days after due date; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the assignment is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
 
@@ -81,7 +81,7 @@ The project must test a set of specific hypotheses using a real world dataset.  
 
 A list of some public data resources is provided on the [Resources page](../resources/).
 
-**Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please log your absence *prior to your absence* using this [form](https://docs.google.com/forms/d/e/1FAIpQLSfXUK7p0O12fS-hhQaWjaDNZyXhgTVfZ3c2KHfNvmXfukgzYg/viewform?usp=sf_link). You must complete this form *in advance* to receive the opportunity to make up in-class assessments. Athletes must include the name and email of their athletic advisor when providing a reason for their absence.
+**Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please log your absence *prior to your absence* using this [form](https://docs.google.com/forms/d/e/1FAIpQLScry4WeLeCOWchm9uBDzWkse7kCVbXUZbQOtiMKR4L4RnEBeA/viewform?usp=sf_link). You must complete this form *in advance* to receive the opportunity to make up in-class assessments. Athletes must include the name and email of their athletic advisor when providing a reason for their absence.
 
 If you are too ill to come to class, please complete the excused absence form ASAP and additionally contact the teaching team at psych10winter19@gmail.com. See [this page](https://undergrad.stanford.edu/academic-planning/academic-policies/attendance-and-absences) for additional information on Stanford policy regarding missed classes.
 
@@ -112,7 +112,7 @@ Students who may need an academic accommodation based on the impact of a disabil
 | ---|---|---|
 | 1/6|**What is statistics? overview of the course**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the central goals and fundamental concepts of statistics.<br>* Describe the difference between experimental and observational research with regard to what can be inferred about causality<br>* Explain how randomization provides the ability to make inferences about causation.<br><br>|Chapter 1|
 | 1/8|**Working with data**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Distinguish between different types of variables (quantitative/qualitative, discrete/continuous)<br>* Describe the concept of measurement error<br>* Distinguish between the concepts of reliability and validity and apply each concept to a particular dataset<br><br>|Chapter 2|
-| 1/10|**R Lab: Basics**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Interact with an RMarkdown notebook in RStudio<br>* Describe the difference between a variable and a function<br>* Create a vector, matrix, or data frame and access its elements<br>* Load data from an R package and view the data<br><br>Links:<br>* For additional practice with R, check out the free courses provided by [Datacamp](http://www.datacamp.com).  In particular, their [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) provides a nice basic overview of working in R.<br><br>|Chapter 3<br>Create account on https://rstudio.cloud/<br>Complete Intro to basics section of DataCamp Introduction to R (https://campus.datacamp.com/courses/free-introduction-to-r)|
+| 1/10|**R Lab: Basics**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Interact with an RMarkdown notebook in RStudio<br>* Describe the difference between a variable and a function<br>* Create a vector, matrix, or data frame and access its elements<br>* Load data from an R package and view the data<br><br>Links:<br>* For additional practice with R, check out the free courses provided by [Datacamp](http://www.datacamp.com).  In particular, their [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) provides a nice basic overview of working in R.<br><br>|Chapter 3<br>Create account on https://rstudio.cloud/|
 | 1/13|**Summarizing data**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Compute absolute, relative, and cumulative frequency distributions for a given dataset<br>* Generate a graphical representation of frequency distributions<br>* Describe the difference between a normal and a long-tailed distribution, and describe the situations that give rise to each<br><br>Links:<br>* [R Notebook for lecture](https://rawgit.com/psych10/psych10/master/notebooks/Session04-SummarizingData/Session04-SummarizingData.html)<br>* [Social network data](https://snap.stanford.edu/data/egonets-Facebook.html)<br><br>|Chapter 4|
 | 1/15|**Visualizing data**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the principles that distinguish between good and bad graphs, and use them to identify good versus bad graphs.<br><br>|Chapter 6|
 | 1/17|**R Lab: Data visualization**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Plot summary graphs using ggplot<br><br>|Chapter 7|
