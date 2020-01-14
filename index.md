@@ -25,7 +25,7 @@ title: Psych 10
 
 |**TA**|**email**|**Office Hours**|**Office Hours Location**|
 |Jackie Schwartz (head TA)|jschwar2@stanford.edu|Thursdays 9:30am-10:30am|420-386|
-|Sai Auelua-Toomey|sakaria4@stanford.edu|Mondays 4-5pm|420-248|
+|Sai Auelua-Toomey|sakaria4@stanford.edu|Mondays 5-6pm|420-248|
 |Marc Harrison|marcharr@stanford.edu|Thursdays 1:00-2:00pm|420-404|
 |Nathan Kong|nclkong@stanford.edu|Tuesdays 9:30-10:30am|420 Lounge|
 |Jon Walters|waltersj@stanford.edu|Tuesdays 3:30-4:30pm|160-321|
