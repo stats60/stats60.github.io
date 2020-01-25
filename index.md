@@ -23,13 +23,13 @@ title: Psych 10
 
 **Teaching Assistants**: 
 
-|**TA**|**email**|**Office Hours**|
-|Jackie Schwartz (head TA)|jschwar2@stanford.edu|Thursdays 9:30am-10:30am|
-|Sai Auelua-Toomey|sakaria4@stanford.edu|Mondays 4-5pm|
-|Marc Harrison|marcharr@stanford.edu|Thursdays 1:00-2:00pm|
-|Nathan Kong|nclkong@stanford.edu|Tuesdays 10:30-11:30am|
-|Jon Walters|waltersj@stanford.edu|Tuesdays 3:30-4:30pm|
-|Cayce Hook (R TA)|cjhook@stanford.edu|Mondays 2-3pm|
+|**TA**|**email**|**Office Hours**|**Office Hours Location**|
+|Jackie Schwartz (head TA)|jschwar2@stanford.edu|Thursdays 9:30am-10:30am|420-386|
+|Sai Auelua-Toomey|sakaria4@stanford.edu|Mondays 5-6pm|420-248|
+|Marc Harrison|marcharr@stanford.edu|Thursdays 1:00-2:00pm|420-404|
+|Nathan Kong|nclkong@stanford.edu|Tuesdays 9:30-10:30am|420 Lounge|
+|Jon Walters|waltersj@stanford.edu|Tuesdays 3:30-4:30pm|160-321|
+|Cayce Hook (for help with R)|cjhook@stanford.edu|Mondays 2-3pm|420-358|
 
 If OH times don't work for you, or you need one-on-one help, please email your TA.
 
