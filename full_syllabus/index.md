@@ -2,7 +2,7 @@
 layout: default
 title: Psych 10: Full Syllabus
 ---
-Revised 01/25/2020
+Revised 02/14/2020
 ## Overview of the course
 
 **Rationale**: It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of the essential concepts and “big ideas” of statistics --- describing data and making decisions and predictions based on data -- as well as the skills to employ these concepts on real data to solve authentic problems. At the end of the course, students will possess:
@@ -126,11 +126,11 @@ Students who may need an academic accommodation based on the impact of a disabil
 | 2/5|**Resampling**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of a Monte Carlo simulation.<br>* Describe the meaning of randomness in statistics<br>* Obtain random numbers from the uniform and normal distributions<br>* Describe the concept of the bootstrap<br><br>|Chapter 14|
 | 2/7|**Sampling and resampling, cont.**|Chapters 13 and 15|
 | 2/10|**Hypothesis testing**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Identify the components of a hypothesis test, including the parameter of interest, the null and alternative hypotheses, and the test statistic.<br>* Describe the proper interpretations of a p-value as well as common misinterpretations<br>* Distinguish between the two types of error in hypothesis testing, and the factors that determine them.<br><br>Links:<br>* R notebook for lecture: https://rawgit.com/psych10/psych10/master/notebooks/Session16-HypothesisTesting/Session16-HypothesisTesting.html<br><br>|Chapter 16|
-| 2/12|**Hypothesis testing, cont.**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe how resampling can be used to compute a p-value.<br>* Define the concept of statistical power, and compute statistical power for a given statistical test.<br>* Describe the main criticisms of null hypothesis statistical testing<br><br>|Chapter 16|
+| 2/12|**Hypothesis testing, cont.**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe how resampling can be used to compute a p-value.<br>* Describe the main criticisms of null hypothesis statistical testing<br><br>|Chapter 16|
 | 2/14|**R Lab: Resampling to compute p-value**|Chapter 17|
 | 2/17|**No class, Presidents Day**||
-| 2/19|**Confidence intervals and effect sizes**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the proper interpretation of a confidence interval, and compute a confidence interval for the mean of a given dataset.<br>* Define the concept of effect size, and compute the effect size for a given test.<br><br>|Chapter 18|
-| 2/21|**Review: hypothesis testing, CIs, effect size**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>||
+| 2/19|**Quantifying effects and designing studies**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the proper interpretation of a confidence interval, and compute a confidence interval for the mean of a given dataset.<br>* Define the concept of effect size, and compute the effect size for a given test.<br>* Define the concept of statistical power, and compute statistical power for a given statistical test.<br><br>|Chapter 18|
+| 2/21|**Review: effect size and statistical power**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br><br>|Chapter 19|
 | 2/24|**Bayesian analysis**|Chapter 20<br>https://www.youtube.com/watch?v=BcvLAw-JRss|
 | 2/26|**Modeling categorical relationships**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of a contingency table for categorical data.<br>* Describe the concept of the chi-squared test for association and compute it for a given contingency table.<br><br>|Chapter 22|
 | 2/28|**Modeling continuous relationships**<br><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br>* Describe the concept of the correlation coefficient and its interpretation and compute it for a bivariate dataset<br>* Describe the potential causal influences that can give rise to a correlation.<br><br>Links:<br>* [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)<br><br>|Chapter 24|

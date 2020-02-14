@@ -66,12 +66,12 @@ Students should be able to do each of the following by the end of this course:
 * Describe the proper interpretations of a p-value as well as common misinterpretations
 * Distinguish between the two types of error in hypothesis testing, and the factors that determine them.
 * Describe how resampling can be used to compute a p-value.
-* Define the concept of statistical power, and compute statistical power for a given statistical test.
 * Describe the main criticisms of null hypothesis statistical testing
 
-### Confidence intervals and effect sizes
+### Quantifying effects and designing studies
 * Describe the proper interpretation of a confidence interval, and compute a confidence interval for the mean of a given dataset.
 * Define the concept of effect size, and compute the effect size for a given test.
+* Define the concept of statistical power, and compute statistical power for a given statistical test.
 
 ### Modeling categorical relationships
 * Describe the concept of a contingency table for categorical data.
