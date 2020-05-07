@@ -1,6 +1,10 @@
 ## Resources
+The main two resources for this class are:
+- *Statistical Thinking for the 21st Century*, [online textbook](https://statsthinking21.github.io/statsthinking21-core-site/).
+- *Statistical Thinking for the 21st Century*, [R Companion](https://statsthinking21.github.io/statsthinking21-R-site/).
 
-Here are just a few curated resources that should be helpful for the course.
+These two references should be your go-to material. You will also be offered extra credit for submitting corrections or suggestions to the online textbooks.  
+If you would like to go further, here are just a few curated resources that should be helpful for the course.
 
 ### Resources for learning statistics
 - [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
@@ -16,7 +20,7 @@ There are a ton of people interested in learning R these days, and a lot of reso
 - [Quick-R](http://www.statmethods.net/index.html)
 - [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/): Quick references for many different aspects of R programming
 - [tidverse Style Guide](https://style.tidyverse.org/): Make your code beautiful and reader-friendly!
-- [Datacamp](https://www.datacamp.com/): Offers online courses for many aspects of R programming. Students interested in the paid R course should contact the course staff in order to receive a free access license.
+- [Datacamp](https://www.datacamp.com/): Offers online courses for many aspects of R programming. Students interested in the paid R course can contact the instructional team and receive a free license.
 - [R for Data Science](http://r4ds.had.co.nz/index.html): This free online book focuses on working with data in R.
 - [Advanced R](http://adv-r.had.co.nz/): This free online book by Hadley Wickham will help you get to the next level once your R skills start to develop.
 - [R intro for Python users](http://ramnathv.github.io/pycon2014-r/): Used Python before? Check this out for a guide on how to transition to R.
@@ -27,7 +31,7 @@ If you encounter an error when learning to program in R, it's almost certain tha
 
 ### Sources for interesting datasets
 
-- The TAs have identified many interesting and easier to manipulate datasets [here](https://docs.google.com/spreadsheets/d/1qyTwagdPV6h8_Y3oioxFraDO9h295MhDTz39GVJ5_Xc/edit?usp=sharing)
+The TAs have identified many interesting and easier to manipulate datasets [here](https://docs.google.com/spreadsheets/d/1qyTwagdPV6h8_Y3oioxFraDO9h295MhDTz39GVJ5_Xc/edit?usp=sharing). In addition, we can recommend:
 - [data.gov](https://catalog.data.gov/)
 - [data.world](http://data.world)
 - [kaggle](http://www.kaggle.com/)

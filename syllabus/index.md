@@ -4,9 +4,7 @@ title: Psych 10: Syllabus
 ---
 ## Syllabus
 
-Click on the date for more information about each lecture
-
-Detailed version of the full syllabus is available [here](../full_syllabus)
+Click on the "Details" line for more information about each lecture
 
 | Date|Topic|Reading|
 | ---|---|---|

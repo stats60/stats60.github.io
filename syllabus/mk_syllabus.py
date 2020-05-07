@@ -36,9 +36,9 @@ objectives = collections.OrderedDict()
 
 outfile = 'index.md'
 with open(outfile, 'w') as f:
-    f.write('---\nlayout: default\ntitle: Psych 10: Syllabus\n---\n') # noqa
-    f.write('## Syllabus\n\nClick on the date for more information about each lecture\n\n') # noqa
-    f.write('Detailed version of the full syllabus is available [here](../full_syllabus)\n\n') # noqa
+    f.write('---\nlayout: default\ntitle: Stats 60: Syllabus\n---\n') # noqa
+    f.write('## Syllabus\n\nClick on the "Details" line for more information about each lecture\n\n') # noqa
+    # f.write('Detailed version of the full syllabus is available [here](../full_syllabus)\n\n') # noqa
     f.write('| '+'|'.join(syll_columns) + '|\n')
 
     # create separator

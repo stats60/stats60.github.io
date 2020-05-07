@@ -24,23 +24,25 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 **Course Requirements**:  You will need a laptop computer for use in every class.  If you do not have access to a laptop please contact the instructor ASAP and we will help you obtain access to one.
 
-**Classrooom response**: We will use Zoom to interact during class. 
+**Lectures**: We will be using [Stanford Zoom](https://uit.stanford.edu/service/zoom) to interact during class. The Zoom links are only available from Canvas. *We ask you to not share them publicly!*
 
 **Website**: The primary web site for the class is this one you are [currently browsing](http://stats60.github.io). We will use Canvas for class lecture recordings, and Gradescope to submit assignments and to post grades.
 
 **Discussion**.  We will be using Piazza to allow you to get help efficiently from both your classmates and the instructors ([class Piazza page](https://piazza.com/stanford/summer2020/stats60psych10stats160)). Please post your questions about the course material and course logistics to Piazza so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Piazza are available on the [Piazza page](https://piazza.com/product/overview).
 
-**Materials**: The primary textbook is "Statistical Thinking for the 21st Century", written by Professor Russell Poldrack.  It is available for free at [http://statsthinking21.org](http://statsthinking21.org) as an online book, and can also be downloaded as a PDF or EPUB from the site (using the PDF/EPUB links under the download tab at the top of the page).
+**Materials**: 
+The main two resources for this class are:
+- *Statistical Thinking for the 21st Century*, [online textbook](https://statsthinking21.github.io/statsthinking21-core-site/).
+- *Statistical Thinking for the 21st Century*, [R Companion](https://statsthinking21.github.io/statsthinking21-R-site/).
 
-We will supplement this textbook with other [free online resources](../resources/).
+We will supplement these textbooks with other [free online resources](../resources/).
 
-We will sometimes use the free RStudio software. You will need to download and install the [RStudio](https://rstudio.com/products/rstudio/download/#download) software directly on your personal computer.
+We will sometimes use the RStudio software. You will need to download and install the [RStudio](https://rstudio.com/products/rstudio/download/#download) software directly on your personal computer.
 
 Lecture slides will be available on the Canvas site. The slides are not intended to replace attendance, since much of the class activity will go beyond the slides.
 
 The VPTL office offers tutoring for this class by appointment, which can be scheduled [here](https://learningconnection.stanford.edu/appointments-and-drop-schedule).
 
-Stanford University and its instructors are committed to ensuring that all courses are financially accessible to all students. If you are an undergraduate who needs assistance with the cost of course textbooks, supplies, materials and/or fees, you are welcome to approach me directly. If would prefer not to approach me directly, please note that you can ask the Diversity & First-Gen Office for assistance by completing their [questionnaire on course textbooks & supplies](http://tinyurl.com/jpqbarn) or by contacting Joseph Brown, the Associate Director of the Diversity and First-Gen Office (jlbrown@stanford.edu; Old Union Room 207). Dr. Brown is available to connect you with resources and support while ensuring your privacy.
 
 ## Guiding Principles for Teaching and Learning in a Time of Pandemic
 (by Prof. Brandon Bayne, UNC – Chapel Hill; with light adjustments for STATS60)
@@ -130,6 +132,8 @@ If someone makes you or anyone else feel unsafe or unwelcome, please report it a
 **Students with Documented Disabilities:**
 If you have an OAE letter, please present it to us (by email to the staff llist) at your earliest convenience, so we can ensure that the course materials and staff support comply with your needs. 
 
+**Financial accessibility**
+Stanford University and its instructors are committed to ensuring that all courses are financially accessible to all students. If you are an undergraduate who needs assistance with the cost of course textbooks, supplies, materials and/or fees, you are welcome to approach me directly. If would prefer not to approach me directly, please note that you can ask the Diversity & First-Gen Office for assistance by completing their [questionnaire on course textbooks & supplies](http://tinyurl.com/jpqbarn) or by contacting Joseph Brown, the Associate Director of the Diversity and First-Gen Office (jlbrown@stanford.edu). Dr. Brown is available to connect you with resources and support while ensuring your privacy.
 
 ## Course assistance and personal support
 
