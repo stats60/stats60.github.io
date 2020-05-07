@@ -3,25 +3,21 @@ layout: default
 title: Psych 10
 ---
 
-## Psych 10/Stats 60: Introduction to Statistical Methods
+## Stats 60/Psych 10: Introduction to Statistical Methods
 
-**Quarter**: Winter 2020  
+**Quarter**: Summer 2020  
 
-**Time**: MWF 10:30-11:50  
+**Time**: MWF 3-4:20 PDT  
 
-**Location**: Jordan Hall 040  
+**Instructor**: [Ismael Lemhadri](https://ismael.lemhadri.org)
 
-**Instructor**: [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack)  
+**Email**: lemhadri@stanford.edu 
 
-**Email**: russpold@stanford.edu  
+**Zoom Room**: lemhadri
 
-**Office location**: Jordan Hall, Room 314  
+**Office Hours**: TBD
 
-**Phone**: 650-497-8488 (office)  
-
-**Office Hours**: M/F 12:30-2 pm, 314 Jordan Hall
-
-**Teaching Assistants**: 
+**Teaching Assistants**: TBD
 
 |**TA**|**email**|**Office Hours**|**Office Hours Location**|
 |Jackie Schwartz (head TA)|jschwar2@stanford.edu|Thursdays 9:30am-10:30am|420-386|
@@ -33,7 +29,7 @@ title: Psych 10
 
 If OH times don't work for you, or you need one-on-one help, please email your TA.
 
-**Teaching team email**: If you have a question that is either personal or specific to you (others in the class would not need the answer), please email us at psych10winter20@gmail.com. This account is monitored by the entire group of instructors, and we’ll aim to respond to your question as soon as possible.
+**Teaching team email**: If you have a question that is either personal or specific to you (others in the class would not need the answer), please email us at stats60-sum1920-staff@lists.stanford.edu. This account is monitored by the entire group of instructors, and we’ll aim to respond to your question as soon as possible.
 
 **Source code**: Source code and related files for most class demos are available at https://github.com/psych10/psych10.
 
