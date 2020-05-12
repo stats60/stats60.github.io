@@ -4,6 +4,7 @@ title: Psych 10: Syllabus
 ---
 ## Syllabus
 
+**As of May 2020, this syllabus is still under construction.**  
 Click on the "Details" line for more information about each lecture
 
 | Date|Topic|Reading|
