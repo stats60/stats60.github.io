@@ -39,83 +39,25 @@ We will supplement these textbooks with other [free online resources](../resourc
 
 We will sometimes use the RStudio software. You will need to download and install the [RStudio](https://rstudio.com/products/rstudio/download/#download) software directly on your personal computer.
 
-Lecture slides will be available on the Canvas site. The slides are not intended to replace attendance, since much of the class activity will go beyond the slides.
+Lecture slides and video recordings will be available on the Canvas site. They are not intended to replace attendance, since much of the class activity will go beyond the slides. But they will provide some additional flexibility if you can't make the lecture at the scheduled time.
 
 The VPTL office offers tutoring for this class by appointment, which can be scheduled [here](https://learningconnection.stanford.edu/appointments-and-drop-schedule).
 
-
-## Guiding Principles for Teaching and Learning in a Time of Pandemic
-(by Prof. Brandon Bayne, UNC – Chapel Hill; with light adjustments for STATS60)
-* Nobody signed up for this.
-        +  Not for the sickness, not for the social distancing, not for the sudden end of our collective lives together
-on campus
-        +  Not for an online class, not for teaching remotely, not for learning from home, not for mastering new
-technologies, not for varied access to learning materials
-* The humane option is the best option.
-        +  We are going to prioritize supporting each other as humans
-        +  We are going to prioritize simplicity
-        +  We are going to prioritize sharing resources and communicating clearly
-* We will foster intellectual nourishment, social connection, and personal accommodation.
-        +  Accessible asynchronous content for diverse access, time zones, and contexts
-        +  Optional synchronous tutorial sections to learn together and combat isolation
-        +  Mastery learning approach to take-home exam assessment that is designed around flexibility, second
-chances, and growth as first principles
-* We will remain flexible and adjust to the situation.
-        + Nobody knows where this is going and what we’ll need to adapt
-        + Everybody needs support and understanding in this unprecedented moment
-
 ## Assessment and grading
 
-Grades will be determined as follows:
-
-- Quizzes (25%)
-- Written assignments/problem sets (35%)
-- Final project writeup and peer review (15%)
-- Final project presentation (5%)
-- Section attendance and participation (20%)
-
-The one lowest quiz and problem set grades will each be dropped to compute the final grade.  Each quiz and written assignment will count equally towards the final grade, based on a percentage of available points.
-
-**Grading scale**. The grading scale will be as follows:
-
-* 97-100: A+
-* 93-96: A
-* 90-92: A-
-* 87-89: B+
-
-and so on (rounding to the nearest whole number).  We may curve up at the bottom of the scale depending on the distribution, but I will not curve down (i.e. 87 might be better but will never be worse than B+).
+Grades will be determined from problem sets and quizzes. The will be a total of 4 problem sets, worth 90% of your grade. Each problem set will count equally towards the final grade, based on a percentage of available points. The quizzes will contribute the remaining 10%.
 
 **Assignments**
 
-There is no midterm or final examination for this class: the scheduled final exam time will be used for a Project Showcase for group projects.  *Attendance at this session is mandatory and will count toward the final project grade.*
+There is no midterm or final examination for this class: the scheduled final exam time will be used for a regular lecture.
 
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
-**Weekly quizzes**:  Every week you will complete an online activity (via Canvas) to assess your learning of the important concepts and skills for the previous week.  These will be made available on Friday and will be due at 10:30 AM on Monday; if Monday is a holiday then the deadline will be postponed to Wednesday.
+**Assignments**: You will be given 4 problem sets to complete.  Unless otherwise noted, these will be due at 5PM PDT on Fridays, submitted via Gradescope. We will accept late assignments for up to three days after due date; after that, no late submissions will be accepted.
 
-**Weekly assignments**: Most weeks you will be given one written assignment or problem set to complete.  Unless otherwise noted, these will be due at 11:59 PM on Mondays, submitted via Canvas. We will accept late assignments for up to three days after due date; after that, no late submissions will be accepted.  For unexcused late submissions, one point will be deducted for each day that the assignment is late.  Excused late submissions must be accompanied by documentation of an official university function within one day of the due date, or a documented medical excuse.
+**Quizzes**:  You will complete a series of online activities to assess your learning of the important concepts and skills for the previous week. These will be announced in due time and will be due a week after they are released.
 
-Coding-based problem sets will be graded using an automated system, supplemented by manual fixes for any incorrectly deducted points.  The automated grading system also compares code across all students to detect any possible sharing of answers.  Any plaigarism or sharing detected will be reported to the Office of Community Standards.
-
-<!-- Some problem sets will involve completing courses on [Datacamp](http://datacamp.com).  Please note that credit will only be given if courses are completed under the course account using your Stanford.edu email address. -->
-
-**Sections**: Section attendance is mandatory. If you are unable to attend your assigned section on a given week, you may attend a different section with permission from both section leaders. Requests to attend an alternate section should be made at least 24 hours in advance. Sections will be "labs" in which you can work together on your problem sets and projects with scaffolding from TAs.
-
-**Final project**: Each student will participate in a group project with 3-4 other students.
-The project must test a set of specific hypotheses using a real world dataset.   The group must decide what hypotheses to test, and discuss the idea with their TA in section to get approval for the idea.  They must then do a literature review to find out what has been done on the question before, perform the analyses, and write a report on the results as well as provide the R code used to perform the entire analysis.  These reports will be peer-reviewed.  All groups will be given the opportunity to make a short presentation of their results at the finals week party.
-
-A list of some public data resources is provided on the [Resources page](../resources/).
-
-<!-- **Excused absences**: If you are going to miss an in-class assessment due to an absence for an official University trip, please log your absence *prior to your absence* using this [form](https://docs.google.com/forms/d/e/1FAIpQLScry4WeLeCOWchm9uBDzWkse7kCVbXUZbQOtiMKR4L4RnEBeA/viewform?usp=sf_link). You must complete this form *in advance* to receive the opportunity to make up in-class assessments. Athletes must include the name and email of their athletic advisor when providing a reason for their absence. -->
-
-<!-- If you are too ill to come to class, please complete the excused absence form ASAP and additionally contact the teaching team at psych10winter19@gmail.com. See [this page](https://undergrad.stanford.edu/academic-planning/academic-policies/attendance-and-absences) for additional information on Stanford policy regarding missed classes. -->
-
-**Extra credit**:  There are two possible ways to obtain extra credit:
-
-- Students will be offered extra credit for providing thoughtful and accurate answers to their classmates' questions on Piazza.
-- Students will be offered extra credit for completing relevant online courses via [DataCamp](http://datacamp.com) throughout
-the quarter.
-- Students will be offered extra credit for submitting corrections or suggestions to the online textbook.
+**Problem Sessions**: Section attendance is mandatory. If you are unable to attend your assigned section on a given week, you may attend a different section with permission from both section leaders. Requests to attend an alternate section should be made at least 24 hours in advance. Sections will be "labs" in which you can work together on your problem sets and projects with scaffolding from TAs.
 
 **Grade disputes**:  Students must wait 24 hours after receiving a grade before they can dispute it, after which disputes must be received within 7 days of receipt of the grade. Grade disputes must be submitted to the instructional team on Gradescope.
 
