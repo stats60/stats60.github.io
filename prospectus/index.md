@@ -20,15 +20,19 @@ directly, or leave anonymous feedback for the instructional team by using our [o
 
 Statistics is a broad field, and the goal of this course is not “coverage” of the entire field or simple familiarity with the concepts. Instead, we will work towards a deep understanding and ability to apply a set of core concepts, and we will actively adjust the course based on the results from our daily assessments.
 
-**Prerequisites**: Students should have a solid understanding of high school mathematics (specifically algebra).  The course will also assume facility with using the internet and a personal computer.
+**Prerequisites**: Students should have a solid understanding of high school mathematics (specifically algebra).  The course will also assume facility with using the internet and a personal computer. A portion of the course involves programming in R, but no prior programming experience is required.
 
 **Course Requirements**:  You will need a laptop computer for use in every class.  If you do not have access to a laptop please contact the instructor ASAP and we will help you obtain access to one.
 
-**Lectures**: We will be using [Stanford Zoom](https://uit.stanford.edu/service/zoom) to interact during class. The Zoom links are only available from Canvas. *We ask you to not share them publicly!*
+**Lectures**: We will meet three times per week:
+- Monday and Friday will be regular lectures;
+- Wednesday will be dedicated to problem sessions and programming labs.
 
-**Website**: The primary web site for the class is this one you are [currently browsing](http://stats60.github.io). We will use Canvas for class lecture recordings, and Gradescope to submit assignments and to post grades.
+We will be using [Stanford Zoom](https://uit.stanford.edu/service/zoom) to interact during class. The Zoom links are only available from Canvas. *These must not be shared publicly!*
 
-**Discussion**.  We will be using Piazza to allow you to get help efficiently from both your classmates and the instructors ([class Piazza page](https://piazza.com/stanford/summer2020/stats60psych10stats160)). Please post your questions about the course material and course logistics to Piazza so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Piazza are available on the [Piazza page](https://piazza.com/product/overview).
+**Website**: The primary web site for the class is [stats60.stanford.edu](http://stats60.stanford.edu). We will use Canvas for class lecture recordings, and Gradescope to submit assignments and to post grades.
+
+**Discussion**.  We will Piazza to allow you to get help efficiently from both your classmates and the instructors ([class Piazza page](https://piazza.com/stanford/summer2020/stats60psych10stats160)). Please post your questions about the course material and course logistics to Piazza so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Piazza are available on the [Piazza page](https://piazza.com/product/overview).
 
 **Materials**: 
 The main two resources for this class are:
@@ -37,15 +41,15 @@ The main two resources for this class are:
 
 We will supplement these textbooks with other [free online resources](../resources/).
 
-We will sometimes use the RStudio software. You will need to download and install the [RStudio](https://rstudio.com/products/rstudio/download/#download) software directly on your personal computer.
+We will use the R programming language, and the RStudio software. You will need to download and install [R](https://www.r-project.org/) and the [RStudio](https://rstudio.com/products/rstudio/download/#download) software directly on your personal computer.
 
-Lecture slides and video recordings will be available on the Canvas site. They are not intended to replace attendance, since much of the class activity will go beyond the slides. But they will provide some additional flexibility if you can't make the lecture at the scheduled time.
+Lecture slides and video recordings will be available on Canvas. They are not intended to replace attendance, since much of the class activity will go beyond the slides. But they will provide some additional flexibility if you can't make the lecture at the scheduled time.
 
 The VPTL office offers tutoring for this class by appointment, which can be scheduled [here](https://learningconnection.stanford.edu/appointments-and-drop-schedule).
 
 ## Assessment and grading
 
-Grades will be determined from problem sets and quizzes. The will be a total of 4 problem sets, worth 90% of your grade. Each problem set will count equally towards the final grade, based on a percentage of available points. The quizzes will contribute the remaining 10%.
+Grades will be determined from problem sets, quizzes and a final project. The will be a total of 4 problem sets, worth 50% of your grade. Each problem set will count equally towards the final grade, based on a percentage of available points. The project will count towards 40% of your grade. And the quizzes will constitute the remaining 10%. 
 
 **Assignments**
 
@@ -57,7 +61,7 @@ Unless otherwise stated, you can use any published resource you wish to complete
 
 **Quizzes**:  You will complete a series of online activities to assess your learning of the important concepts and skills for the previous week. These will be announced in due time and will be due a week after they are released.
 
-**Problem Sessions**: Section attendance is mandatory. If you are unable to attend your assigned section on a given week, you may attend a different section with permission from both section leaders. Requests to attend an alternate section should be made at least 24 hours in advance. Sections will be "labs" in which you can work together on your problem sets and projects with scaffolding from TAs.
+**Problem Sessions**: The Wednesday session is dedicated to problem sessions and programming labs. Live attendance is highly recommended as it will give you a chance to interact with the section leader. The tools and techniques taught in labs will be essential for your final project.
 
 **Grade disputes**:  Students must wait 24 hours after receiving a grade before they can dispute it, after which disputes must be received within 7 days of receipt of the grade. Grade disputes must be submitted to the instructional team on Gradescope.
 
@@ -80,3 +84,7 @@ Stanford University and its instructors are committed to ensuring that all cours
 ## Course assistance and personal support
 
 In every quarter we have taught, there have been individual students who have encountered life-altering challenges, so it is not the case that empathy and compassion have only just become relevant. However, the magnitude of the current crisis underscores the need to support each other. If you feel overwhelmed for any reason—by work for this class, or a family issue, or just the weight of the present moment for the globe, please don’t hesitate to reach out. Or, if you just need to talk, or have us send you a kitten video, or if you need extra tutoring support in the class, we are here for you. Please ask us. *Please ask us.* 
+
+## Acknowledgments
+
+This course would not be possible without the help of many dedicated teachers and colleagues. I will borrow heavily from [Russ Poldrack](poldracklab.stanford.edu)'s material for the lectures, and from [Kenneth Tay](kjytay.github.io)'s material for the labs.
