@@ -28,7 +28,7 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 - Monday and Friday will be regular lectures;
 - Wednesday will be dedicated to problem sessions and programming labs.
 
-We will be using [Stanford Zoom](https://uit.stanford.edu/service/zoom) to interact during class. The Zoom links are only available from Canvas. *These must not be shared publicly!*
+We will be using [Stanford Zoom](https://uit.stanford.edu/service/zoom) to interact during class. The Zoom links are available on the [calendar](../calendar/). A working [Stanford SUNet account](https://accounts.stanford.edu/) is required for access. 
 
 **Website**: The primary web site for the class is [stats60.stanford.edu](http://stats60.stanford.edu). We will use Canvas for class lecture recordings, and Gradescope to submit assignments and to post grades.
 
@@ -41,7 +41,7 @@ The main two resources for this class are:
 
 We will supplement these textbooks with other [free online resources](../resources/).
 
-We will use the R programming language, and the RStudio software. You will need to download and install [R](https://www.r-project.org/) and the [RStudio](https://rstudio.com/products/rstudio/download/#download) software directly on your personal computer.
+We will use the R programming language, and the RStudio software. You will need to download and install [R](https://www.r-project.org/) and the [RStudio](https://rstudio.com/products/rstudio/download/#download) software directly on your personal computer. [Here is a tutorial](https://drive.google.com/drive/folders/1EPZQOahz-dYfdzajMtk5HpPNGV9rXg-K?usp=sharing) to download and install R and Rstudio. Thanks and acknowledgments to [Kenneth Tay](https://kjytay.github.io/) for providing the tutorial.
 
 Lecture slides and video recordings will be available on Canvas. They are not intended to replace attendance, since much of the class activity will go beyond the slides. But they will provide some additional flexibility if you can't make the lecture at the scheduled time.
 
