@@ -30,7 +30,7 @@ Statistics is a broad field, and the goal of this course is not “coverage” o
 
 We will be using [Stanford Zoom](https://uit.stanford.edu/service/zoom) to interact during class. The Zoom links are available on the [calendar](../calendar/). A working [Stanford SUNet account](https://accounts.stanford.edu/) is required for access. 
 
-**Website**: The primary web site for the class is [stats60.stanford.edu](http://stats60.stanford.edu). We will use Canvas for class lecture recordings, and Gradescope to submit assignments and to post grades.
+**Website**: The primary web site for the class is [stats60.stanford.edu](http://stats60.stanford.edu). We will also use [Canvas](https://canvas.stanford.edu) for class lecture recordings.
 
 <!-- **Discussion**.  We will Piazza to allow you to get help efficiently from both your classmates and the instructors ([class Piazza page](https://piazza.com/stanford/summer2020/stats60psych10stats160)). Please post your questions about the course material and course logistics to Piazza so that everyone can benefit from the answer. We also highly encourage you to answer your classmates’ questions whenever possible – you will get extra practice with the material and receive feedback from the teaching team about your answers. As an added incentive, students who provide frequent, high-quality answers may receive extra credit on their final course grades. Additional guidelines about posting on Piazza are available on the [Piazza page](https://piazza.com/product/overview). -->
 
@@ -43,7 +43,7 @@ We will supplement these textbooks with other [free online resources](../resourc
 
 We will use the R programming language, and the RStudio software. You will need to download and install [R](https://www.r-project.org/) and the [RStudio](https://rstudio.com/products/rstudio/download/#download) software directly on your personal computer. [Here is a tutorial](https://drive.google.com/drive/folders/1EPZQOahz-dYfdzajMtk5HpPNGV9rXg-K?usp=sharing) to download and install R and Rstudio. Thanks and acknowledgments to [Kenneth Tay](https://kjytay.github.io/) for providing the tutorial.
 
-Lecture slides and video recordings will be available on Canvas. They are not intended to replace attendance, since much of the class activity will go beyond the slides. But they will provide some additional flexibility if you can't make the lecture at the scheduled time.
+Lecture slides and video recordings will be available on [Canvas](https://canvas.stanford.edu). They are not intended to replace attendance, since much of the class activity will go beyond the slides. But they will provide some additional flexibility if you can't make the lecture at the scheduled time.
 
 The VPTL office offers tutoring for this class by appointment, which can be scheduled [here](https://learningconnection.stanford.edu/appointments-and-drop-schedule).
 
@@ -51,13 +51,12 @@ The VPTL office offers tutoring for this class by appointment, which can be sche
 
 Grades will be determined from problem sets, quizzes and a final project. There will be a total of 4 problem sets, worth 50% of your grade. Each problem set will count equally towards the final grade, based on a percentage of available points. The project will count towards 40% of your grade. And the quizzes will constitute the remaining 10%. 
 
-**Assignments**
 
 There is no midterm or final examination for this class: the scheduled final exam time will be used for a regular lecture.
-
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
-**Assignments**: You will be given 4 problem sets to complete.  Unless otherwise noted, these will be due at 5PM PDT on Fridays, submitted via Gradescope. We will accept late assignments for up to three days after due date; after that, no late submissions will be accepted.
+
+**Assignments**: You will be given 4 problem sets to complete.  Unless otherwise noted, these will be due at 5PM PDT on Fridays, submitted via Gradescope.
 
 **Quizzes**:  You will complete a series of online activities to assess your learning of the important concepts and skills for the previous week. These will be announced in due time and will be due a week after they are released.
 

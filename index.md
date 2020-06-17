@@ -5,7 +5,7 @@ title: Stats 60
 
 ## Stats 60/Psych 10: Introduction to Statistical Methods
 
-**Summer 2020 edition:** lectures will be recorded and posted on Canvas, but we suggest you come in person as they will be interactive.
+**Summer 2020 edition:** lectures will be recorded and posted on [Canvas](https://canvas.stanford.edu), but we suggest you come in person as they will be interactive.
 
 **Time**: MWF 3-4:20 PDT
 
