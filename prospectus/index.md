@@ -49,7 +49,7 @@ The VPTL office offers tutoring for this class by appointment, which can be sche
 
 ## Assessment and grading
 
-Grades will be determined from problem sets, quizzes and a final project. The will be a total of 4 problem sets, worth 50% of your grade. Each problem set will count equally towards the final grade, based on a percentage of available points. The project will count towards 40% of your grade. And the quizzes will constitute the remaining 10%. 
+Grades will be determined from problem sets, quizzes and a final project. There will be a total of 4 problem sets, worth 50% of your grade. Each problem set will count equally towards the final grade, based on a percentage of available points. The project will count towards 40% of your grade. And the quizzes will constitute the remaining 10%. 
 
 **Assignments**
 
