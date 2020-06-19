@@ -13,10 +13,10 @@ The Zoom lecture link is in the [calendar](../calendar). The Zoom password is po
 
 **Instructor**: [Ismael Lemhadri](https://ismael.lemhadri.org)
 
-**Email**: lemhadri@stanford.edu or via staff e-mail below
+**Email**: [lemhadri@stanford.edu](mailto:lemhadri@stanford.edu?subject=[stats60] Private question from a student)
 
 **Office Hours**: in the [calendar](../calendar).
-If OH times don't work for you, or you need one-on-one help, please email your TA.
+If OH times don't work for you, or you need one-one help, please use [Piazza](https://piazza.com/stanford/summer2020/stats60psych10stats160) or email your TA.
 
 **Teaching Assistants**: Yu Wang (yw1@stanford.edu) - Yuchen Wu (wuyc14@stanford.edu) - Qian Zhao (qzhao1@stanford.edu)
 
@@ -25,6 +25,6 @@ If OH times don't work for you, or you need one-on-one help, please email your T
 |Yuchen Wu (for help with R)|wuyc14@stanford.edu|in [calendar](../calendar)|
 |Qian Zhao|qzhao1@stanford.edu|in [calendar](../calendar)|
 
-**Teaching team email**: If you have a question that is either personal or specific to you (others in the class would not need the answer), please email us at stats60-sum1920-staff@lists.stanford.edu. This account is monitored by the entire group of instructors, and we’ll aim to respond to your question as soon as possible.
+**Contact**: Questions about the class material or logistics go to **[Piazza](https://piazza.com/stanford/summer2020/stats60psych10stats160)**. Questions that are either personal or specific to you (others in the class would not need the answer) can be directed to the instructor. He will aim to respond to your question as soon as possible.
 
-Follow the links at the top of the page for more information about the course.
+The links at the top of the page give more information about the course.
