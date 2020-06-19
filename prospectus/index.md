@@ -56,7 +56,7 @@ There is no midterm or final examination for this class: the scheduled final exa
 Unless otherwise stated, you can use any published resource you wish to complete the assessments (textbook, Internet, etc).  However, you should not discuss the answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
 
-**Assignments**: You will be given 4 problem sets to complete.  Unless otherwise noted, these will be due at 5PM PDT on Fridays, submitted via Gradescope.
+**Assignments**: You will be given 4 problem sets to complete.  Unless otherwise noted, these will be due at 5PM PDT on Fridays, submitted via [Gradescope](https://www.gradescope.com/). If you do not see "STATS60 / Summer 2020" on your Gradescope account, you can self-enroll using the entry code **9EWEZR**.
 
 **Quizzes**:  You will complete a series of online activities to assess your learning of the important concepts and skills for the previous week. These will be announced in due time and will be due a week after they are released.
 
