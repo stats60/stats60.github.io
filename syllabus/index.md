@@ -9,7 +9,7 @@ We will cover the following topics. The last few lectures of the class will disc
 
 |Date|Topic|Reading|
 | ---|---|---|
-|06/22 |**What is statistics? overview of the course**|Chapter 1|
+|06/22 |**What is statistics? overview of the course** [Slides](../slides/01.pdf)|Chapter 1|
 |06/24 |**R Lab**
 |06/26 |**Working with data**|Chapters 2 and 6|
 
