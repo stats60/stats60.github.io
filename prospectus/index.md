@@ -49,7 +49,7 @@ The VPTL office offers tutoring for this class by appointment, which can be sche
 
 ## Assessment and grading
 
-Grades will be determined from problem sets, quizzes and a final project. There will be a total of 4 problem sets, worth 50% of your grade. Each problem set will count equally towards the final grade, based on a percentage of available points. The project will count towards 40% of your grade. And the quizzes will constitute the remaining 10%. 
+Grades will be determined from **problem sets, quizzes and a final project**. There will be a total of 4 problem sets, worth 50% of your grade. Each problem set will count equally towards the final grade, based on a percentage of available points. The project will count towards 40% of your grade. And the quizzes will constitute the remaining 10%. 
 
 
 There is no midterm or final examination for this class: the scheduled final exam time will be used for a regular lecture.
@@ -58,9 +58,9 @@ Unless otherwise stated, you can use any published resource you wish to complete
 
 **Assignments**: You will be given 4 problem sets to complete.  Unless otherwise noted, these will be due at 5PM PDT on Fridays, submitted via [Gradescope](https://www.gradescope.com/). If you do not see "STATS60 / Summer 2020" on your Gradescope account, you can self-enroll using the entry code **9EWEZR**.
 
-**Quizzes**:  You will complete a series of online activities to assess your learning of the important concepts and skills for the previous week. These will be announced in due time and will be due a week after they are released.
+**[R Labs](../Rlab)**: The Wednesday session is dedicated to problem sessions and programming labs. Live attendance is highly recommended as it will give you a chance to interact with the section leader. The tools and techniques taught in labs will be essential for your final project.
 
-**Problem Sessions**: The Wednesday session is dedicated to problem sessions and programming labs. Live attendance is highly recommended as it will give you a chance to interact with the section leader. The tools and techniques taught in labs will be essential for your final project.
+**Quizzes**:  You will complete a series of online activities to assess your learning of the important concepts and skills for the previous week. These will be announced in due time and will be due a week after they are released.
 
 **Grade disputes**:  Students must wait 24 hours after receiving a grade before they can dispute it, after which disputes must be received within 7 days of receipt of the grade. Grade disputes must be submitted to the instructional team on Gradescope.
 
