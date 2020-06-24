@@ -10,7 +10,7 @@ We will cover the following topics. This page will be updated throughout the qua
 
 |Date|Topic|Reading|
 | ---|---|---|
-|Week 1 |**Introduction to R** [Slides](lab1.html)|[R Companion](https://statsthinking21.github.io/statsthinking21-R-site/), Sections 1.1 to 1.7
+|Week 1 |**Introduction to R** [tutorials](https://drive.google.com/drive/folders/1EPZQOahz-dYfdzajMtk5HpPNGV9rXg-K?usp=sharing) - [Slides](lab1.html)|[R Companion](https://statsthinking21.github.io/statsthinking21-R-site/), Sections 1.1 to 1.7
 
 
 **Acknowledgments:** Thanks and acknowledgments to [Kenneth Tay](https://kjytay.github.io/) for providing much of the material used for the R Labs.
