@@ -1,0 +1,58 @@
+---
+title: 'STATS 60 Summer 2020: HW1'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### Due on Friday July 3rd at 5PM PDT on Gradescope
+## 1) Summarizing Data
+
+Consider the following dataset
+
+$$
+\{6,8,7,9,3,7,7,10,8,2\}
+$$
+
+1) What is the mean?
+
+2) What is the median?
+
+3) What is the mode?
+
+4) What is the standard deviation?
+
+## 2) Introduction to R
+
+1) Assign the character string "10" to `x` and "20" to `y`
+
+2) What happens when you run `x + y`? Why does this happen?
+
+3) How would we treat `x` and `y` as numbers to add them?
+
+4) Suppose I wanted to print the string "STATS60". I run the following code. Why do I get the following error? What should I do instead?
+
+```{r eval = FALSE}
+print(STATS60)
+```
+
+`## Error in print(STATS60) : object 'STATS60' not found`
+
+Suppose now I wanted to print the string "060". I run the following code. Why do I get the incorrect output? What should I do instead?
+
+```{r}
+print(060)
+```
+
+## 3) R for Data
+
+1) Create a vector `v` of the data from Part 1.
+
+2) Create a histogram of `v`
+
+3) Create a boxplot of `v`. What is your interpretation of this?
+
+4) Write code that gives you the mean and standard deviation of `v`.
