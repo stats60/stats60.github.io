@@ -4,16 +4,16 @@ title: Psych 10: Syllabus
 ---
 ## Syllabus
 
-We will cover the following topics. The last few lectures of the class will discuss some active areas such as reproducibility in the scienes, with some topics still pending to change. This page will be updated throughout the quarter to reflect any updates, including reading material.
+We will cover the following topics. The last few lectures of the class will discuss some active areas such as reproducibility in the scienes, with some topics still pending to change. This page will be updated throughout the quarter to reflect any updates, including reading material drawn from the [*Statistical Thinking for the 21st Century textbook*](https://statsthinking21.github.io/statsthinking21-core-site/).
 
 
 |Date|Topic|Reading|
 | ---|---|---|
 |06/22 |**What is statistics? overview of the course** [Slides](../slides/01.pdf)|Chapter 1|
 |06/24 |**R Lab**
-|06/26 |**Working with data**|Chapters 2 and 6|
+|06/26 |**Visualizing Data**[Slides](../slides/02.pdf)|Chapter 4|
 
-|06/29 |**Summarizing data**||
+|06/29 |**Summarizing data**|Chapter 3|
 |07/01 |**R Lab**
 |07/03 |**Independence Day celebrated - no class**| |
 
@@ -21,7 +21,7 @@ We will cover the following topics. The last few lectures of the class will disc
 |07/08 |**Problem Session: Probability**||
 |07/10 |**Probability, cont.**||
 
-|07/13 |**Visualizing data**||
+|07/13 |**Working with data**||
 |07/15 |**R Lab**||
 |07/17 |**Fitting models (central tendency)**||
 
