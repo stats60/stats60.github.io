@@ -11,7 +11,7 @@ We will cover the following topics. The last few lectures of the class will disc
 | ---|---|---|
 |06/22 |**What is statistics? overview of the course** [Slides](../slides/01.pdf)|Chapter 1|
 |06/24 |**R Lab**
-|06/26 |**Visualizing Data**[Slides](../slides/02.pdf)|Chapter 4 - [An Economist’s Guide to Visualizing Data](../slides/economist.pdf) - [Excerpts from Tufte's book](../slides/minitufte.pdf)|
+|06/26 |**Visualizing Data** [Slides](../slides/02.pdf)|Chapter 4 - [An Economist’s Guide to Visualizing Data](../slides/economist.pdf) - [Excerpts from Tufte's book](../slides/minitufte.pdf)|
 
 |06/29 |**Summarizing data**|Chapter 3|
 |07/01 |**R Lab**
