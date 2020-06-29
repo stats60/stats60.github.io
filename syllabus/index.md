@@ -10,16 +10,16 @@ We will cover the following topics. The last few lectures of the class will disc
 |Date|Topic|Reading|
 | ---|---|---|
 |06/22 |**What is statistics? overview of the course** [Slides](../slides/01.pdf)|Chapter 1|
-|06/24 |**R Lab**
+|06/24 |[**R Lab**](../Rlab)
 |06/26 |**Visualizing Data** [Slides](../slides/02.pdf)|Chapter 4 - [An Economist’s Guide to Visualizing Data](../slides/economist.pdf) - [Excerpts from Tufte's book](../slides/minitufte.pdf)|
 
-|06/29 |**Summarizing data**|Chapter 3|
+|06/29 |**Summarizing data** [Slides](../slides/03.pdf)|Chapter 3|
 |07/01 |**R Lab**
 |07/03 |**Independence Day celebrated - no class**| |
 
-|07/06 |**Probability**||
+|07/06 |**Probability**|Chapter 6|
 |07/08 |**Problem Session: Probability**||
-|07/10 |**Probability, cont.**||
+|07/10 |**Probability, cont.**|Chapter 6|
 
 |07/13 |**Working with data**||
 |07/15 |**R Lab**||
