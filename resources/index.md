@@ -33,10 +33,14 @@ If you encounter an error when learning to program in R, it's almost certain tha
 
 The TAs have identified many interesting and easier to manipulate datasets [here](https://docs.google.com/spreadsheets/d/1qyTwagdPV6h8_Y3oioxFraDO9h295MhDTz39GVJ5_Xc/edit?usp=sharing). In addition, we can recommend:
 - [data.gov](https://catalog.data.gov/)
+- Other governmental or NGO open data websites, e.g. [City of Palo Alto](http://data.cityofpaloalto.org/home), [State of California](https://data.ca.gov), [World Bank](https://data.worldbank.org)
 - [data.world](http://data.world)
 - [kaggle](http://www.kaggle.com/)
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [American Psychological Association - links to datasets](https://www.apa.org/research/responsible/data-links.aspx)
+- [Google Dataset Search](https://datasetsearch.research.google.com/): A tool for searching for open datasets
+- [Data Is Plural](https://tinyletter.com/data-is-plural): A weekly newsletter of interesting datasets
+- Data which you have collected yourself.
 
 ### R Notebooks
 
