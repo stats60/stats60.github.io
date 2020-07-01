@@ -9,7 +9,7 @@ title: Stats 60
 
 **Time**: MWF 3-4:20 PDT. Details about how to join the Zoom lecture are on [Canvas](https://canvas.stanford.edu). Lectures will be recorded and posted there, but we suggest you come in person as they will be interactive.
 
-**Instructor**: [Ismael Lemhadri](https://ismael.lemhadri.org)
+**Instructor**: [Ismael Lemhadri](https://ismael.lemhadri.org). Office Hours: by appointment.
 
 We use **[Piazza](https://piazza.com/stanford/summer2020/stats60psych10stats160)** for all questions about the class material or logistics.
 

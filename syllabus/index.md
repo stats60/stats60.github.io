@@ -13,11 +13,11 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 |Date|Topic|Reading|
 | ---|---|---|
 |06/22 |**What is statistics? overview of the course** [Slides](../slides/01.pdf)|Chapter 1|
-|06/24 |**Introduction to R** [tutorials](https://drive.google.com/drive/folders/1EPZQOahz-dYfdzajMtk5HpPNGV9rXg-K?usp=sharing) - [Slides](lab1.html)|R Companion, Sections 1.1 to 1.7
+|06/24 |**Introduction to R** [tutorials](https://drive.google.com/drive/folders/1EPZQOahz-dYfdzajMtk5HpPNGV9rXg-K?usp=sharing) - [Slides](../Rlab/lab1.html)|R Companion, Sections 1.1 to 1.7
 |06/26 |**Visualizing Data** [Slides](../slides/02.pdf)|Chapter 4 - [An Economist’s Guide to Visualizing Data](../slides/economist.pdf) - [Excerpts from Tufte's book](../slides/minitufte.pdf)|
 
 |06/29 |**Summarizing data** [Slides](../slides/03.pdf)|Chapter 3|
-|07/01 |**R Lab: Data visualization** [Slides]| R Companion, Sections 3.1 to 3.5
+|07/01 |**R Lab: Data visualization** [Slides](../Rlab/lab2.html)| R Companion, Sections 3.1 to 3.5
 |07/03 |**Independence Day celebrated - no class**| |
 
 |07/06 |**Probability**|Chapter 6|
