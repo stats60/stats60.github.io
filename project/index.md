@@ -11,9 +11,16 @@ The project counts for 40% of your total grade, and has two components: a projec
 
 ## Project Proposal (20%)
 
-For the project proposal, submit a 1-2 paragraph description of your final project. You should provide details on the problem you wish to explore, any datasets that you will use, and potential visualizations. The proposal is a way for me to make sure that you have enough structure and data to complete the project.
+For the project proposal, submit a 1-2 paragraph description of your final project. You should provide details on the problem you wish to explore, any datasets that you will use, and potential visualizations. The proposal is a way for me to make sure that you have enough structure and data to complete the project. To get full credit, you should ensure that:
+- The question is clearly stated
+- The motivation for the question is clearly explained
+- It is clear where the data came from and how it was obtained
+- The variables in the data are correctly identified
+- The planned cleaning and data wrangling process is clearly explained and it is appropriate
+- There are at least two limitations explained and these limitations are logical.
 
-The project proposal should be submitted as a text file (any format will do).
+
+The project proposal should be submitted as a pdf file on Gradescope.
 
 In implementing your final project, you should try to stick as closely to your proposal as possible. If you are unable to do so, please provide a paragraph in your final project to explain the deviations from the proposal.
 
