@@ -1,0 +1,79 @@
+---
+title: 'STATS 60 Summer 2020: HW2'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Conceptual Questions
+
+1) Compute the standard deviation of the set $\{3,-1,4\}$. Do not assume that this is a sample and show your work.
+
+2) Suppose large company XYZ is a multinational company with over 100,000 employees. This company reported that the average employee makes \$82,000 a year. Do we expect the number of employees at this company that make over \$82,000 to be greater than, about equal, or less than the total number of employees?
+
+3) Consider the following histogram of annual family income in a certain city. Suppose the class intervals include the right endpoint but not the left. What percentage of families had an income over \$25,000 but not greater than \$40,000?
+
+```{r, echo = FALSE , fig.width = 3, fig.height = 3}
+dat <- c(10,10,10,10,21,21,21,31,41,61)
+hist(dat, main = 'Histogram of Income',xlab = 'Income (in thousands)',ylab = '% of families' )
+```
+
+4) The Public Health Service studied the effects of smoking on health, in a large sample of representative households. For men and for women in each age group, those who had never smoked were on average somewhat healthier than the current smokers, but the current smokers were on average much healthier than the former smokers.
+
+a) Why did they study men and women and the different age groups separately?
+
+b) The lesson seems to be that you shouldn’t start smoking, but once you’ve started, don’t stop. Comment briefly.
+
+### For the following questions, refer to the Normal table attached below (do not use R for calculations)
+
+5) Suppose we have a classroom in which heights of students are normally distributed. Suppose the average height is 66 inches and the standard deviation is 3 inches.
+
+a) What percentage of students are taller than 70 inches?
+
+b) What height marks the 30th percentile?
+
+6) A useful measure of spread is the \textbf{Interquartile Range} (IQR), which measures the distance between the 75th percentile and the 25th percentile (which you may have seen in boxplots). If the data is normally distributed, how many standard deviations wide is the IQR? 
+
+\begin{figure}
+\centering
+\includegraphics{normal_table.png}
+\end{figure}
+
+
+\pagebreak
+
+# Data Visualization
+
+### 1)
+
+Call the following to load the `vehicles` data set. If you do not have `fueleconomy` installed, run `install.packages` on it first:
+
+```{r eval = FALSE}
+library(ggplot2)
+library(fueleconomy)
+data(vehicles)
+```
+
+a) What are the dimensions of the `vehicles` dataset? What are the column names? How many of each value are there in the `cyl` column? What is the mean, median and standard deviation of the `cty` column?
+
+b) Using `ggplot`, create a scatterplot of `hwy` vs `cty`. Then, using `cyl` as a factor, recreate the above scatterplot coloring by `cyl`. Because there are so many datapoints, the graph is hard to interpret (that is, it is difficult to identify which areas are "denser" than others). Adjust your `alpha` parameter to prevent overplotting and show a more interpretable graph.
+
+c) Make a histogram of `year`, setting bins to 10.
+
+d) Create a violin plot and a box plot of `hwy` for each value of `cyl`.
+
+### 2)
+
+The file IsotopeData.xlsx contains pairs of values (stable isotopes of carbon and nitrogen -- see https://en.wikipedia.org/wiki/Isotope_analysis) for 45 samples of krill, an important marine species and the source of food for many marine organisms The samples are classified according to five different species. Devise a plot that aims to show the differences between the five species. 
+
+### 3) 
+
+Load the data `mtcars` as we did in the R session.
+
+a) What are the dimensions of this dataset? How many of each value are there in the `cyl` column?
+
+b) Graph a violin plot of `wt` vs `cylinders`. Layer the points onto this plot with jitter. Color the points according to a gradient based on the values of `mpg`. What kind of trends do you notice among the 3 attributes?
