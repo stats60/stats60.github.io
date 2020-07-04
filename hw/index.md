@@ -11,7 +11,7 @@ We provide the problem statement in a .pdf file. We also provide the .Rmd source
 
 |Homework|Files|Due Date|
 | ---|---|---|
-|HW 1 |[.pdf](hw1/hw1.pdf) - [.Rmd source](hw1/hw1.Rmd)|Friday July 3rd, 5pm PDT
+|HW 1 |[.pdf](hw1/hw1.pdf) - [.Rmd source](hw1/hw1.Rmd) - [solutions.pdf](hw1/hw1sol.pdf) - [solutions.Rmd](hw1/hw1sol.Rmd)|Friday July 3rd, 5pm PDT
 |HW 2 |[.pdf](hw2/hw2.pdf) - [.Rmd source](hw2/hw2.Rmd) - [Isotope data file](hw2/IsotopeData.xlsx)|Friday July 17th, 5pm PDT
 
 
