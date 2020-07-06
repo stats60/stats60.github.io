@@ -24,6 +24,7 @@ The project proposal should be submitted as a pdf file on Gradescope.
 
 In implementing your final project, you should try to stick as closely to your proposal as possible. If you are unable to do so, please provide a paragraph in your final project to explain the deviations from the proposal.
 
+Here are some examples of good student project proposals from previous runs of this class: [[Example 1]](proposal1.pdf) - [[Example 2]](proposal2.pdf)
 
 ## Final Project (80%)
 
