@@ -21,7 +21,7 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 |07/03 |**Independence Day celebrated - no class**| |
 
 |07/06 |**Probability**|Chapter 6|
-|07/08 |**Problem Session: Probability**||
+|07/08 |**R Lab**||
 |07/10 |**Probability, cont.**|Chapter 6|
 
 |07/13 |**Working with data**||
