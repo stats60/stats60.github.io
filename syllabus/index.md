@@ -17,11 +17,11 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 |06/26 |**Visualizing Data** [Slides](../slides/02.pdf)|Chapter 4 - [An Economist’s Guide to Visualizing Data](../slides/economist.pdf) - [Excerpts from Tufte's book](../slides/minitufte.pdf)|
 
 |06/29 |**Summarizing data** [Slides](../slides/03.pdf)|Chapter 3|
-|07/01 |**R Lab: Data visualization** [Slides](../Rlab/lab2.html)| R Companion, Sections 3.1 to 3.5
+|07/01 |**R Lab:** Data visualization with *ggplot2* [Slides](../Rlab/lab2.html)| R Companion, Sections 3.1 to 3.5
 |07/03 |**Independence Day celebrated - no class**| |
 
 |07/06 |**Probability** [Slides](../slides/04.pdf)|Chapter 6|
-|07/08 |**R Lab**||
+|07/08 |**R Lab:** Data transformation with *dplyr* [Slides](../Rlab/lab3.html)|[dplyr vignette](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)|
 |07/10 |**Probability, cont.**|Chapter 6|
 
 |07/13 |**Working with data**||
