@@ -20,9 +20,9 @@ If OH times don't work for you, or you need one-one help, please use [Piazza](ht
 **Teaching Assistants**: Yu Wang (yw1@stanford.edu) - Yuchen Wu (wuyc14@stanford.edu) - Qian Zhao (qzhao1@stanford.edu)
 
 |**TA**|**email**|**Office Hours**|
-|Yu Wang|yw1@stanford.edu|in [calendar](../calendar)|
-|Yuchen Wu (for help with R)|wuyc14@stanford.edu|in [calendar](../calendar)|
-|Qian Zhao|qzhao1@stanford.edu|in [calendar](../calendar)|
+|Yu Wang (for help with HW1 and HW2)|yw1@stanford.edu|in [calendar](../calendar)|
+|Yuchen Wu (for help with R and the project proposal)|wuyc14@stanford.edu|in [calendar](../calendar)|
+|Qian Zhao (for help with HW3 and HW4)|qzhao1@stanford.edu|in [calendar](../calendar)|
 
 **Contact**: Questions about the class material or logistics go to **[Piazza](https://piazza.com/stanford/summer2020/stats60psych10stats160)**. Questions that are either personal or specific to you (others in the class would not need the answer) can be directed by [e-mail](mailto:lemhadri@stanford.edu?subject=[stats60] Private question from a student) to the instructor. He will aim to respond as soon as possible.
 
