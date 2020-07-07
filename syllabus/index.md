@@ -20,7 +20,7 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 |07/01 |**R Lab: Data visualization** [Slides](../Rlab/lab2.html)| R Companion, Sections 3.1 to 3.5
 |07/03 |**Independence Day celebrated - no class**| |
 
-|07/06 |**Probability**|Chapter 6|
+|07/06 |**Probability** [Slides](../slides/04.pdf)|Chapter 6|
 |07/08 |**R Lab**||
 |07/10 |**Probability, cont.**|Chapter 6|
 
