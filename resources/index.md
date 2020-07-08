@@ -20,7 +20,7 @@ There are a ton of people interested in learning R these days, and a lot of reso
 - [Quick-R](http://www.statmethods.net/index.html)
 - [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/): Quick references for many different aspects of R programming
 - [tidverse Style Guide](https://style.tidyverse.org/): Make your code beautiful and reader-friendly!
-- [Datacamp](https://www.datacamp.com/): Offers online courses for many aspects of R programming. Students interested in the paid R course can contact the instructional team and receive a free license.
+- [Datacamp](https://www.datacamp.com/): Offers online courses for many aspects of R programming. Students interested in the paid R course can receive a free license by registering using [this link](https://datacamp.com/groups/shared_links/c4d7dec1d3c46a8b06ac748551d1d3136528d012173b3e2659206e89bc1dbabf).
 - [R for Data Science](http://r4ds.had.co.nz/index.html): This free online book focuses on working with data in R.
 - [Advanced R](http://adv-r.had.co.nz/): This free online book by Hadley Wickham will help you get to the next level once your R skills start to develop.
 - [R intro for Python users](http://ramnathv.github.io/pycon2014-r/): Used Python before? Check this out for a guide on how to transition to R.
