@@ -25,6 +25,7 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 |07/10 |**Probability, cont.**|Chapter 6|
 
 |07/13 |**Working with data**||
+|07/14 |**Extra Session - Probability Review**||
 |07/15 |**R Lab**||
 |07/17 |**Fitting models (central tendency)**||
 
