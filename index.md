@@ -27,3 +27,6 @@ If OH times don't work for you, or you need one-one help, please use [Piazza](ht
 **Contact**: Questions about the class material or logistics go to **[Piazza](https://piazza.com/stanford/summer2020/stats60psych10stats160)**. Questions that are either personal or specific to you (others in the class would not need the answer) can be directed by [e-mail](mailto:lemhadri@stanford.edu?subject=[stats60] Private question from a student) to the instructor. He will aim to respond as soon as possible.
 
 The links at the top of the page give more information about the course.
+
+There is an (unofficial, not monitored by the teaching staff) [Slack workspace](https://join.slack.com/t/stats60-summer/shared_invite/zt-foavfw50-Ha3Cy6tw6J_hy41ooPYBOg) for this class.
+
