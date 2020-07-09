@@ -13,9 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1) Compute the standard deviation of the set $\{3,-1,4\}$. Do not assume that this is a sample and show your work.
 
-2) Suppose large company XYZ is a multinational company with over 100,000 employees. This company reported that the average employee makes \$82,000 a year. Do we expect the number of employees at this company that make over \$82,000 to be greater than, about equal, or less than the total number of employees?
+2) Suppose large company XYZ is a multinational company with over 100,000 employees. This company reported that the average employee makes \$82,000 a year. Do we expect the number of employees at this company that make over \$82,000 to be greater than, about equal, or less than half of the total number of employees?
 
-3) Consider the following histogram of annual family income in a certain city. Suppose the class intervals include the right endpoint but not the left. What percentage of families had an income over \$25,000 but not greater than \$40,000?
+3) Consider the following histogram of annual family income in a certain city. Suppose the class intervals include the right endpoint but not the left. Suppose the data is uniformly distributed in each bar of the histogram. What percentage of families had an income over \$25,000 but not greater than \$40,000?
 
 ```{r, echo = FALSE , fig.width = 3, fig.height = 3}
 dat <- c(10,10,10,10,21,21,21,31,41,61)
