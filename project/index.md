@@ -7,7 +7,7 @@ Click [here](project.pdf) for a PDF version of the final project guidelines.
 
 ## STATS60: Final Project
 
-The project counts for 40% of your total grade, and has two components: a project proposal (worth 80% of the project grade)  and a final project (worth 20% of the project grade).
+The project counts for 40% of your total grade, and has two components: a project proposal (worth 20% of the project grade)  and a final project (worth 80% of the project grade).
 
 ## Project Proposal (20%)
 
