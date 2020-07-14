@@ -29,7 +29,7 @@ Here are some examples of good student project proposals from previous runs of t
 ## Final Project (80%)
 
 To demonstrate your understanding of the material we have covered, you will perform a data analysis project in R. 
-**You may choose to do a project on your own or with up to two other teammates.** (If working with a teammate, only one person has to submit the work. The names and SUNet IDs of both teams should be clearly labeled.)
+**You may choose to do a project on your own or with up to two other teammates.** (If working with a teammate, only one person has to submit the work. The names and SUNet IDs of both teams should be clearly labeled. Your report should have a paragraph outlining the contributions of each member to the project.)
 
 Here are the project minimum requirements:
 
