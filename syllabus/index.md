@@ -26,8 +26,8 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 
 |07/13 |**Working with data** [Slides](../slides/06.pdf)|Chapter 2|
 |07/14 |**Extra Session - Probability Review** [Problems](../slides/problem_session1.pdf)| Practice the problems in advance|
-|07/15 |**R Lab**||
-|07/17 |**Fitting models (central tendency)**||
+|07/15 |**R Lab**|Quiz 1 and Project Proposal due|
+|07/17 |**Fitting models (central tendency)**|HW1 due|
 
 |07/20 |**Sampling**||
 |07/22 |**R Lab**||
@@ -35,7 +35,7 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 
 |07/27 |**Hypothesis testing**||
 |07/29 |**R Lab**||
-|07/31 |**z-scores and Hypothesis testing, cont.**||
+|07/31 |**z-scores and Hypothesis testing, cont.**|HW2 due|
 
 |08/03 |**Modeling categorical relationships**||
 |08/05 | **Problem Session: Chi-squared tests**||
