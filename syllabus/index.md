@@ -10,7 +10,7 @@ We will cover the following topics. The last few lectures of the class will disc
 Wednesday sessions are dedicated to R Labs. R Labs are an important component of the course, and a vital one for the project. The goal is to familiarize students with R's tools for data analysis. Lectures will be interactive with a focus on learning by example, and assignments will be application-driven. No prior programming experience is needed. Topics covered include basic data structures, File I/O, data transformation and visualization, simple statistical tests, etc, and some useful packages in R. The reading material will be drawn from the [R Companion](https://statsthinking21.github.io/statsthinking21-R-site/).
 
 
-|Date|Topic|Reading|
+|Date|Topic|Reading|Notes|
 | ---|---|---|
 |06/22 |**What is statistics? overview of the course** [Slides](../slides/01.pdf)|Chapter 1|
 |06/24 |**Introduction to R** [tutorials](https://drive.google.com/drive/folders/1EPZQOahz-dYfdzajMtk5HpPNGV9rXg-K?usp=sharing) - [Slides](../Rlab/lab1.html)|R Companion, Sections 1.1 to 1.7
@@ -25,9 +25,9 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 |07/10 |**Probability, cont.** [Slides](../slides/05.pdf)|Chapter 6|
 
 |07/13 |**Working with data** [Slides](../slides/06.pdf)|Chapter 2|
-|07/14 |**Extra Session - Probability Review** [Problems](../slides/problem_session1.pdf)| Practice the problems in advance|
-|07/15 |**R Lab**|Quiz 1 and Project Proposal due|
-|07/17 |**Fitting models (central tendency)**|HW1 due|
+|07/14 |**Extra Session - Probability Review** [Problems](../slides/problem_session1.pdf)|[Slides](../slides/problem_session1_slides.pdf) - [Solutions](../slides/problem_session1_solutions.pdf) |Practice the problems in advance|
+|07/15 |**R Lab**|R Companion, Sections 2.1 to 2.7|Quiz 1 and Project Proposal due|
+|07/17 |**Fitting models (central tendency)**||HW1 due|
 
 |07/20 |**Sampling**||
 |07/22 |**R Lab**||
