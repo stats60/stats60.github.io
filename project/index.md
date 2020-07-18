@@ -11,7 +11,7 @@ The project counts for 40% of your total grade, and has two components: a projec
  **You may choose to do a project on your own or with up to two other teammates.** (If working with a teammate, only one person has to submit the work. The names and SUNet IDs of both teams should be clearly labeled. Your final report should have a paragraph outlining the contributions of each member to the project.)
 
 Both the project proposal and the final project must be submitted as a pdf file on Gradescope. If working with one or more teammate, only one person has to submit the work. The names and SUNet IDs of both teams should be clearly labeled. Your proposal should have a paragraph outlining the planned contributions of each member.
-For both submissions, **the person who submits the assignment must make sure that all group members are added to the Gradescope submission**. Here is a tutorial on how to do this: [step 1 screenshot](step2.png) - [step 2 screenshot](step1.png).
+For both submissions, **the person who submits the assignment must make sure that all group members are added to the Gradescope submission**. Here is a tutorial on how to do this: [step 1 screenshot](step1.png) - [step 2 screenshot](step2.png).
 
 ## Project Proposal (20%)
 
