@@ -21,7 +21,7 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 |07/03 |**Independence Day celebrated - no class**| |
 
 |07/06 |**Probability** [Slides](../slides/04.pdf)|Chapter 6|
-|07/08 |**R Lab:** Data transformation with *dplyr* [Slides](../Rlab/lab3.html) - [Code](../code-rlab3.R)|[dplyr vignette](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)|
+|07/08 |**R Lab:** Data transformation with *dplyr* [Slides](../Rlab/lab3.html) - [Code](../Rlab/code-rlab3.R)|[dplyr vignette](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)|
 |07/10 |**Probability, cont.** [Slides](../slides/05.pdf)|Chapter 6|
 
 |07/13 |**Working with data** [Slides](../slides/06.pdf)|Chapter 2|
