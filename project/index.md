@@ -8,6 +8,11 @@ Click [here](project.pdf) for a PDF version of the final project guidelines.
 ## STATS60: Final Project
 
 The project counts for 40% of your total grade, and has two components: a project proposal (worth 20% of the project grade)  and a final project (worth 80% of the project grade).
+ **You may choose to do a project on your own or with up to two other teammates.** (If working with a teammate, only one person has to submit the work. The names and SUNet IDs of both teams should be clearly labeled. Your final report should have a paragraph outlining the contributions of each member to the project.)
+
+Both the project proposal and the final project must be submitted as a pdf file on Gradescope. If working with one or more teammate, only one person has to submit the work. The names and SUNet IDs of both teams should be clearly labeled. Your proposal should have a paragraph outlining the planned contributions of each member.
+For both submissions, **the person who submits the assignment must make sure that all group members are added to the Gradescope submission**. Here is a tutorial on how to do this: [step 1 screenshot](step2.png) - [step 2 screenshot](step1.png).
+
 ## Project Proposal (20%)
 
 For the project proposal, submit a 1-2 paragraph description of your final project. You should provide details on the problem you wish to explore, any datasets that you will use, and potential visualizations. The proposal is a way for me to make sure that you have enough structure and data to complete the project. To get full credit, you should ensure that:
@@ -18,10 +23,6 @@ For the project proposal, submit a 1-2 paragraph description of your final proje
 - The planned cleaning and data wrangling process is clearly explained and it is appropriate
 - There are at least two limitations explained and these limitations are logical.
 
-
-The project proposal should be submitted as a pdf file on Gradescope. If working with a teammate, only one person has to submit the work. The names and SUNet IDs of both teams should be clearly labeled. Your proposal should have a paragraph outlining the planned contributions of each member.
-
-
 In implementing your final project, you should try to stick as closely to your proposal as possible. If you are unable to do so, please provide a paragraph in your final project to explain the deviations from the proposal.
 
 Here are some examples of good student project proposals from previous runs of this class: [[Example 1]](proposal1.pdf) - [[Example 2]](proposal2.pdf)
@@ -29,7 +30,6 @@ Here are some examples of good student project proposals from previous runs of t
 ## Final Project (80%)
 
 To demonstrate your understanding of the material we have covered, you will perform a data analysis project in R. 
-**You may choose to do a project on your own or with up to two other teammates.** (If working with a teammate, only one person has to submit the work. The names and SUNet IDs of both teams should be clearly labeled. Your final report should have a paragraph outlining the contributions of each member to the project.)
 
 Here are the project minimum requirements:
 
