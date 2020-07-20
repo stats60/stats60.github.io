@@ -12,8 +12,6 @@ knitr::opts_chunk$set(echo = TRUE, fig.width = 5, fig.height = 4,
                       fig.align = "center")
 ```
 
-## Due on Gradescope for July 31st, 5PM PDT - No late days allowed
-
 ### Remarks
 
 Please show your work, and briefly explain your answers.
@@ -60,9 +58,9 @@ Suppose a test has sensitivity 99.9\% and specificity 99.8\%. For simplicity, we
 *Extra* How many groups do you expect to test positive?
 
 ## Problem 3 Sampling distribution of the mean
-The Current Population Survey at this [link](https://www.census.gov/programs-surveys/cps/about.html) provides summary data of individual education, work and income. Specifically, we use the household income data from year 2018 at this [link](https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-hinc/hinc-06.html), which contains the number of households in each income bracket. For example, if you download the data table, you can see there are 4,283 households out of 128,579 whose yearly income is less than $5000. 
+The Current Population Survey at this [link](https://www.census.gov/programs-surveys/cps/about.html) provides summary data of individual education, work and income. Specifically, we use the household income data from year 2018 at this [link](https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-hinc/hinc-06.html), which contains the number of households (in thousands) in each income bracket. For example, if you download the data table, you can see there are 4,283 (in thousands) households out of 128,581 whose yearly income is less than $5000. 
 
-From this source, we generate a hypothetical population of size 128, 579 assuming the income of all the households in one bracket is the midpoint of that bracket. Finally, for households in the last bracket "$250,000 and above", we treat their income as 250,000. The following R code creates this population and store it in the vector `all_income`, whose length is 128,579 and contains hypothetical incomes of every household in the survey. We will work with this hypothetical income population `all_income`. 
+From this source, we generate a hypothetical population of size 128,581, i.e. we take one household in every thousand, assuming the income of all the households in one bracket is the midpoint of that bracket. Finally, for households in the last bracket "$250,000 and above", we treat their income as 250,000. The following R code creates this population and store it in the vector `all_income`, whose length is 128,581 and contains hypothetical incomes. We will work with this hypothetical income population `all_income`. 
 
 ```{r}
 income <- c(seq(0, 200000, by = 5000), 250000) # income brackets
@@ -71,8 +69,8 @@ N <- c(4283, 3337, 5510, 5772, 5672, 5469, 5822, 5404, 5195, 4839,
        5300, 4417, 4604, 3999, 3795, 3950, 3349, 3064, 3102, 2581, 
        2866, 2449, 2318, 1971, 2004, 1780, 1678, 1426, 1414, 1316,
        1492, 978, 1161,  970 , 905 , 835 , 772 , 686  ,584 , 565 ,
-       4572, 637) # number of households in each bracket
-all_income <- rep(income, N)
+       4572, 6375) # number of households in each bracket
+all_income <- rep(mid_income, N)
 ```
 
 (a) Make a histogram of this hypothetical income population. Why is there a uptick at 250,000? Is it from a normal distribution? Why? 
