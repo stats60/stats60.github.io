@@ -30,7 +30,7 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 |07/17 |**Fitting models (central tendency)** [Slides](../slides/07.pdf)|Chapter 5|HW1 due|
 
 |07/20 |**Sampling** [Slides](../slides/08.pdf)|Chapter 7|Add all team members to your Gradescope proposal|
-|07/22 |**R Lab** [Slides](../Rlab/lab5.html)|R Companion, Sections 6.1, 6.2, 7.1, 7.2|
+|07/22 |**R Lab** [Slides](../Rlab/lab5.html) - [Code](../Rlab/code-rlab5.R)|R Companion, Sections 6.1, 6.2, 7.1, 7.2|
 |07/24 |**The linear model**||
 
 |07/27 |**Hypothesis testing**||

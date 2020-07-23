@@ -59,9 +59,104 @@ Yuchen Wu
 <div id="recap-of-session-4" class="slide section level1">
 <h1>Recap of Session 4</h1>
 <ul>
-<li><p>tidyr: gather and select</p></li>
+<li><p>tidyr: gather and separate</p></li>
 <li><p>working directory</p></li>
 </ul>
+</div>
+<div id="tidyrgather" class="slide section level1">
+<h1><code>tidyr::gather()</code></h1>
+<p>E.g. dataset of no. of cases for each country</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">df</code></pre></div>
+<pre><code>## # A tibble: 3 x 3
+##   country     `1999` `2000`
+##   &lt;chr&gt;        &lt;dbl&gt;  &lt;dbl&gt;
+## 1 Afghanistan    745   2666
+## 2 Brazil       37737  80488
+## 3 China       212258 213766</code></pre>
+</div>
+<div id="tidyrgather-1" class="slide section level1">
+<h1><code>tidyr::gather()</code></h1>
+<p><strong>How to make a line plot of no. of cases by year for each country?</strong></p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">df</code></pre></div>
+<pre><code>## # A tibble: 3 x 3
+##   country     `1999` `2000`
+##   &lt;chr&gt;        &lt;dbl&gt;  &lt;dbl&gt;
+## 1 Afghanistan    745   2666
+## 2 Brazil       37737  80488
+## 3 China       212258 213766</code></pre>
+<p>Probably want something like</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">ggplot</span>(df) <span class="op">+</span>
+<span class="st">    </span><span class="kw">geom_line</span>(<span class="kw">aes</span>(<span class="dt">x =</span> year, <span class="dt">y =</span> cases, <span class="dt">group =</span> country))</code></pre></div>
+</div>
+<div id="tidyrgather-2" class="slide section level1">
+<h1><code>tidyr::gather()</code></h1>
+<p><strong>How to make a line plot of no. of cases by year for each country?</strong></p>
+<p><strong>Problem:</strong> Column names are values of the variable <code>year</code>.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">df</code></pre></div>
+<pre><code>## # A tibble: 3 x 3
+##   country     `1999` `2000`
+##   &lt;chr&gt;        &lt;dbl&gt;  &lt;dbl&gt;
+## 1 Afghanistan    745   2666
+## 2 Brazil       37737  80488
+## 3 China       212258 213766</code></pre>
+</div>
+<div id="tidyrgather-3" class="slide section level1">
+<h1><code>tidyr::gather()</code></h1>
+<p><strong>How to make a line plot of no. of cases by year for each country?</strong></p>
+<p><strong>Solution:</strong> Reshape dataset:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">df <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">gather</span>(<span class="st">`</span><span class="dt">1999</span><span class="st">`</span>, <span class="st">`</span><span class="dt">2000</span><span class="st">`</span>, <span class="dt">key =</span> <span class="st">&quot;year&quot;</span>, <span class="dt">value =</span> <span class="st">&quot;cases&quot;</span>)</code></pre></div>
+<pre><code>## # A tibble: 6 x 3
+##   country     year   cases
+##   &lt;chr&gt;       &lt;chr&gt;  &lt;dbl&gt;
+## 1 Afghanistan 1999     745
+## 2 Brazil      1999   37737
+## 3 China       1999  212258
+## 4 Afghanistan 2000    2666
+## 5 Brazil      2000   80488
+## 6 China       2000  213766</code></pre>
+</div>
+<div id="tidyrseparate" class="slide section level1">
+<h1><code>tidyr::separate()</code></h1>
+<p>E.g. dataset of rate (cases / population) for each country</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">df</code></pre></div>
+<pre><code>## # A tibble: 6 x 3
+##   country      year rate             
+##   &lt;chr&gt;       &lt;dbl&gt; &lt;chr&gt;            
+## 1 Afghanistan  1999 745/19987071     
+## 2 Afghanistan  2000 2666/20595360    
+## 3 Brazil       1999 37737/172006362  
+## 4 Brazil       2000 80488/174504898  
+## 5 China        1999 212258/1272915272
+## 6 China        2000 213766/1280428583</code></pre>
+</div>
+<div id="tidyrseparate-1" class="slide section level1">
+<h1><code>tidyr::separate()</code></h1>
+<p><strong>How to get cases and population into columns of their own?</strong></p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">df</code></pre></div>
+<pre><code>## # A tibble: 6 x 3
+##   country      year rate             
+##   &lt;chr&gt;       &lt;dbl&gt; &lt;chr&gt;            
+## 1 Afghanistan  1999 745/19987071     
+## 2 Afghanistan  2000 2666/20595360    
+## 3 Brazil       1999 37737/172006362  
+## 4 Brazil       2000 80488/174504898  
+## 5 China        1999 212258/1272915272
+## 6 China        2000 213766/1280428583</code></pre>
+</div>
+<div id="tidyrseparate-2" class="slide section level1">
+<h1><code>tidyr::separate()</code></h1>
+<p><strong>How to get cases and population into columns of their own?</strong></p>
+<p><strong>Solution:</strong> Use <code>tidyr</code>’s <code>separate()</code></p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">df <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">separate</span>(rate, <span class="dt">into =</span> <span class="kw">c</span>(<span class="st">&quot;cases&quot;</span>, <span class="st">&quot;population&quot;</span>), <span class="dt">sep =</span> <span class="st">&quot;/&quot;</span>)</code></pre></div>
+<pre><code>## # A tibble: 6 x 4
+##   country      year cases  population
+##   &lt;chr&gt;       &lt;dbl&gt; &lt;chr&gt;  &lt;chr&gt;     
+## 1 Afghanistan  1999 745    19987071  
+## 2 Afghanistan  2000 2666   20595360  
+## 3 Brazil       1999 37737  172006362 
+## 4 Brazil       2000 80488  174504898 
+## 5 China        1999 212258 1272915272
+## 6 China        2000 213766 1280428583</code></pre>
 </div>
 <div id="agenda-for-today" class="slide section level1">
 <h1>Agenda for today</h1>
@@ -156,7 +251,7 @@ fdata</code></pre></div>
 </div>
 <div id="generating-random-data" class="slide section level1">
 <h1>Generating random data</h1>
-<p>R contains many functions that allow you generate random data ??? either from a vector of data that you specify (like Heads or Tails from a coin), or from an established probability distribution, like the Normal or Uniform distribution.</p>
+<p>R contains many functions that allow you generate random data either from a vector of data that you specify (like Heads or Tails from a coin), or from an established probability distribution, like the Normal or Uniform distribution.</p>
 </div>
 <div id="sample" class="slide section level1">
 <h1>sample()</h1>
@@ -170,22 +265,22 @@ fdata</code></pre></div>
 <h1>sample()</h1>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># From the integers 1:10, draw 5 numbers, without replacement</span>
 <span class="kw">sample</span>(<span class="dt">x =</span> <span class="dv">1</span><span class="op">:</span><span class="dv">10</span>, <span class="dt">size  =</span> <span class="dv">5</span>)</code></pre></div>
-<pre><code>## [1] 6 1 4 2 3</code></pre>
+<pre><code>## [1] 5 6 8 9 3</code></pre>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># From the integers 1:10, draw 5 numbers, with replacement</span>
 <span class="kw">sample</span>(<span class="dt">x =</span> <span class="dv">1</span><span class="op">:</span><span class="dv">10</span>, <span class="dt">size  =</span> <span class="dv">5</span>, <span class="dt">replace =</span> <span class="ot">TRUE</span>)</code></pre></div>
-<pre><code>## [1] 4 7 6 8 2</code></pre>
+<pre><code>## [1] 1 1 2 7 1</code></pre>
 </div>
 <div id="sample-2" class="slide section level1">
 <h1>sample()</h1>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">sample</span>(<span class="dt">x =</span> <span class="kw">c</span>(<span class="st">&quot;H&quot;</span>, <span class="st">&quot;T&quot;</span>), <span class="co"># The possible values of the coin</span>
        <span class="dt">size =</span> <span class="dv">10</span>,  <span class="co"># 10 flips</span>
        <span class="dt">replace =</span> <span class="ot">TRUE</span>) <span class="co"># Sampling with replacement</span></code></pre></div>
-<pre><code>##  [1] &quot;H&quot; &quot;T&quot; &quot;T&quot; &quot;T&quot; &quot;T&quot; &quot;T&quot; &quot;H&quot; &quot;H&quot; &quot;H&quot; &quot;T&quot;</code></pre>
+<pre><code>##  [1] &quot;T&quot; &quot;T&quot; &quot;H&quot; &quot;H&quot; &quot;T&quot; &quot;T&quot; &quot;H&quot; &quot;H&quot; &quot;H&quot; &quot;H&quot;</code></pre>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">sample</span>(<span class="dt">x =</span> <span class="kw">c</span>(<span class="st">&quot;H&quot;</span>, <span class="st">&quot;T&quot;</span>),
        <span class="dt">prob =</span> <span class="kw">c</span>(.<span class="dv">8</span>, .<span class="dv">2</span>), <span class="co"># Make the coin biased for Heads</span>
        <span class="dt">size =</span> <span class="dv">10</span>,
        <span class="dt">replace =</span> <span class="ot">TRUE</span>)</code></pre></div>
-<pre><code>##  [1] &quot;H&quot; &quot;T&quot; &quot;H&quot; &quot;H&quot; &quot;H&quot; &quot;T&quot; &quot;H&quot; &quot;H&quot; &quot;H&quot; &quot;T&quot;</code></pre>
+<pre><code>##  [1] &quot;H&quot; &quot;H&quot; &quot;T&quot; &quot;H&quot; &quot;H&quot; &quot;T&quot; &quot;H&quot; &quot;H&quot; &quot;H&quot; &quot;H&quot;</code></pre>
 </div>
 <div id="generate-random-data-from-specified-probability-distribution" class="slide section level1">
 <h1>Generate random data from specified probability distribution</h1>
@@ -209,11 +304,11 @@ fdata</code></pre></div>
 <h1>Normal distribution</h1>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"> <span class="co"># 5 samples from a Normal dist with mean = 0, sd = 1</span>
 <span class="kw">rnorm</span>(<span class="dt">n =</span> <span class="dv">5</span>, <span class="dt">mean =</span> <span class="dv">0</span>, <span class="dt">sd =</span> <span class="dv">1</span>)</code></pre></div>
-<pre><code>## [1]  1.24942505  0.12325264 -0.01234174 -0.17545577  0.74338637</code></pre>
+<pre><code>## [1]  0.64967554  0.68991786  1.41764235 -0.35829427 -0.06418326</code></pre>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># 3 samples from a Normal dist with mean = -10, sd = 15</span>
 <span class="kw">rnorm</span>(<span class="dt">n =</span> <span class="dv">3</span>, <span class="dt">mean =</span> <span class="op">-</span><span class="dv">10</span>, <span class="dt">sd =</span> <span class="dv">15</span>)</code></pre></div>
-<pre><code>## [1] -16.01781 -24.96575  16.65401</code></pre>
-<p>Because the sampling is done randomly, you???ll get different values each time you run rnorm().</p>
+<pre><code>## [1] -32.119474 -42.201002   0.119997</code></pre>
+<p>Because the sampling is done randomly, you will get different values each time you run rnorm().</p>
 </div>
 <div id="uniform-distribution" class="slide section level1">
 <h1>Uniform Distribution</h1>
@@ -233,21 +328,21 @@ fdata</code></pre></div>
 <h1>Uniform distribution</h1>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># 5 samples from Uniform dist with bounds at 0 and 1</span>
 <span class="kw">runif</span>(<span class="dt">n =</span> <span class="dv">5</span>, <span class="dt">min =</span> <span class="dv">0</span>, <span class="dt">max =</span> <span class="dv">1</span>)</code></pre></div>
-<pre><code>## [1] 0.82717877 0.18028189 0.71203807 0.57362365 0.04835052</code></pre>
+<pre><code>## [1] 0.43948645 0.00909191 0.55663140 0.53614440 0.54634026</code></pre>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># 10 samples from Uniform dist with bounds at -100 and +100</span>
 <span class="kw">runif</span>(<span class="dt">n =</span> <span class="dv">10</span>, <span class="dt">min =</span> <span class="op">-</span><span class="dv">100</span>, <span class="dt">max =</span> <span class="dv">100</span>)</code></pre></div>
-<pre><code>##  [1]  82.99316  79.97665  99.77630 -70.90985  98.74360 -20.57092  42.87795
-##  [8] -72.88590  40.75693 -80.71743</code></pre>
+<pre><code>##  [1]  -9.921079  64.775792  42.996560  42.510502 -83.201566 -59.280297
+##  [7]   7.649564  69.167467  18.237490  98.842050</code></pre>
 </div>
 <div id="random-samples-will-always-change" class="slide section level1">
 <h1>Random samples will always change</h1>
-<p>Every time you draw a sample from a probability distribution, you???ll (likely) get a different result.</p>
+<p>Every time you draw a sample from a probability distribution, you will(likely) get a different result.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Draw a sample of size 5 from a normal distribution with mean 100 and sd 10</span>
 <span class="kw">rnorm</span>(<span class="dt">n =</span> <span class="dv">5</span>, <span class="dt">mean =</span> <span class="dv">100</span>, <span class="dt">sd =</span> <span class="dv">10</span>)</code></pre></div>
-<pre><code>## [1] 101.9299 103.5799 117.4318 114.7973 103.4823</code></pre>
+<pre><code>## [1]  95.81486 104.28819 103.88127  93.95388 102.88365</code></pre>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Do it again!</span>
 <span class="kw">rnorm</span>(<span class="dt">n =</span> <span class="dv">5</span>, <span class="dt">mean =</span> <span class="dv">100</span>, <span class="dt">sd =</span> <span class="dv">10</span>)</code></pre></div>
-<pre><code>## [1] 104.1957 105.4131  70.3625 110.5657 105.7348</code></pre>
+<pre><code>## [1] 106.10249  94.83656  89.86620 105.02997 101.63315</code></pre>
 </div>
 <div id="use-set.seed-to-control-random-samples" class="slide section level1">
 <h1>Use set.seed() to control random samples</h1>
