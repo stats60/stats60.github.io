@@ -12,7 +12,7 @@ We provide the problem statement in a .pdf file. We also provide the .Rmd source
 |Assignment|Files|Due Date|
 | ---|---|---|
 |HW 1 |[.pdf](hw1/hw1.pdf) - [.Rmd source](hw1/hw1.Rmd) - [solutions.pdf](hw1/hw1sol.pdf) - [solutions.Rmd](hw1/hw1sol.Rmd)|Friday July 3rd, 5pm PDT
-|Quiz 1| On Gradescope| Wednesday July 15, 5PM PDT
+|Quiz 1| [Solutions](quiz1_sol.pdf)| Wednesday July 15, 5PM PDT
 |Project Proposal|See the [Project](../project) page| Wednesday July 15th, 5PM PDT
 |HW 2 |[.pdf](hw2/hw2.pdf) - [.Rmd source](hw2/hw2.Rmd) - [Isotope data file](hw2/IsotopeData.xlsx) - [solutions.pdf](hw2/hw2sol.pdf) - [solutions.Rmd](hw2/hw2sol.Rmd)|Friday July 17th, 5pm PDT
 |Mid-quarter Evaluation| [Online form](https://docs.google.com/forms/d/1ZrKm-FBKC6IqheyPTZ8s_FLWArUcJTgy2acq8n9BsxI/) |Friday July 17th, 5PM PDT
