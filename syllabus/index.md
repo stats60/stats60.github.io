@@ -31,19 +31,19 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 
 |07/20 |**Sampling** [Slides](../slides/08.pdf)|Chapter 7|Add all team members to your Gradescope proposal|
 |07/22 |**R Lab** [Slides](../Rlab/lab5.html) - [Code](../Rlab/code-rlab5.R)|R Companion, Sections 6.1, 6.2, 7.1, 7.2|
-|07/24 |**The linear model**||
+|07/24 |**Hypothesis testing** [Slides](../slides/09.pdf)||
 
-|07/27 |**Hypothesis testing**||
+|07/27 |**Hypothesis testing, cont.**||
 |07/29 |**R Lab**||
-|07/31 |**z-scores and Hypothesis testing, cont.**|HW2 due|
+|07/31 |**z-scores and Hypothesis testing wrap-up**|HW2 due|
 
 |08/03 |**Modeling categorical relationships**||
-|08/05 | **Problem Session: Chi-squared tests**||
+|08/05 | **R Lab**||
 |08/07 |**Modeling continuous relationships**||
 
 |08/10 |**Doing reproducible research**<details><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br> * Describe the concept of P-hacking and its effects on scientific practice<br> * Describe the concept of positive predictive value and its relation to statstical power<br><br>Links:<br> * [Fivethirtyeight P-hacking demo](https://projects.fivethirtyeight.com/p-hacking/)<br></details><br>|Chapter 32<br>Simmons et al (available on Canvas)<br>https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.gtAVwLX2GM#.fep9L6pw78|
 |08/12 | **R Lab**||
-|08/14 |**Guest Lecture**||
+|08/14 |**Final Projects Showtime**||
 
 
 **Acknowledgments:** Thanks and acknowledgments to [Kenneth Tay](https://kjytay.github.io/) for providing much of the material used for the R Labs.
