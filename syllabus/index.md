@@ -31,11 +31,11 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 
 |07/20 |**Sampling** [Slides](../slides/08.pdf)|Chapter 7|Add all team members to your Gradescope proposal|
 |07/22 |**R Lab** [Slides](../Rlab/lab5.html) - [Code](../Rlab/code-rlab5.R)|R Companion, Sections 6.1, 6.2, 7.1, 7.2|
-|07/24 |**Hypothesis testing** [Slides](../slides/09.pdf)||
+|07/24 |**Hypothesis testing** [Slides](../slides/09.pdf)|Chapter 9|
 
-|07/27 |**Hypothesis testing, cont.**||
+|07/27 |**Hypothesis testing, cont.**|Chapter 9|
 |07/29 |**R Lab**||
-|07/31 |**z-scores and Hypothesis testing wrap-up**|HW2 due|
+|07/31 |**z-scores and Hypothesis testing wrap-up**|Section 5.9 and Chapter 9|HW2 due|
 
 |08/03 |**Modeling categorical relationships**||
 |08/05 | **R Lab**||
