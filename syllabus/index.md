@@ -33,7 +33,7 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 |07/22 |**R Lab** [Slides](../Rlab/lab5.html) - [Code](../Rlab/code-rlab5.R)|R Companion, Sections 6.1, 6.2, 7.1, 7.2|
 |07/24 |**Hypothesis testing** [Slides](../slides/09.pdf)|Chapter 9|
 
-|07/27 |**Hypothesis testing, cont.**|Chapter 9|
+|07/27 |**Hypothesis testing, cont.** [Slides](../slides/10.pdf)|Chapter 9|
 |07/29 |**R Lab**||
 |07/31 |**z-scores and Hypothesis testing wrap-up**|Section 5.9 and Chapter 9|HW2 due|
 

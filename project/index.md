@@ -25,7 +25,7 @@ For the project proposal, submit a 1-2 paragraph description of your final proje
 
 In implementing your final project, you should try to stick as closely to your proposal as possible. If you are unable to do so, please provide a paragraph in your final project to explain the deviations from the proposal.
 
-Here are some examples of good student project proposals from previous runs of this class: [[Example 1]](proposal1.pdf) - [[Example 2]](proposal2.pdf)
+Here are some examples of student project proposals from previous runs of this class: [[Example 1]](proposal1.pdf) - [[Example 2]](proposal2.pdf). These proposals did not necessarily get a perfect grade! You should always make sure to match the requirements outlined above in order to get full credit.
 
 ## Final Project (80%)
 
@@ -41,6 +41,21 @@ At least 3 data visualizations, each of a different type. (If working with a tea
 - A "Conclusion" section to summarize the results of the analysis, as well as any deviations from the project proposal.
 
 While your analysis should not be too skimpy, it does not have to be comprehensive either. Take a look at the links below for examples of what the final project could look like, as well as ideas for datasets which you might want to work on.
+
+## Project Video Presentation (part of the Final Project grade)
+The last lecture, on Friday August 14, will be dedicated to showcasing your work. You will take turns sharing your screen and presenting a slide deck of your work to the class. Each group will have 10 minutes. Your Final Project grade will be determined by the clarity and relevance of your presentation both written and video presented, as a whole. There is no exact grade breakdown between the written report and the video.
+
+If no representative from your group can make it at the lecture time (due, for example, to time zone differences), your group is required to submit a 10-minute presentation video for their final project. Students can be as creative as they like for their video presentations. The easiest option might be to create a slide deck together as a team and record yourselves presenting the slide deck as a group using Zoom. You can then upload your video and share it with the teaching staff. One option is to upload it as a private (or unlisted) video on Youtube and share the link by [e-mail](mailto:stats60-sum1920-staff@lists.stanford.edu) to the teaching staff. Your video upload should be clearly labeled in the format _student_names_project_title.Each student member should speak during the presentation. 
+
+The following is a suggested structure for the video presentation. You don't necessarily have to organize your presentation using these sections in this order, but that would likely be a good starting point for most projects.
+
+- **Problem Statement:** Briefly describe the problem your group is tackling. Describe the overall motivation, as well as the input / output of the problem.
+- **Related Works [Optional]**: Briefly in what ways previous works have tackled the technical challenges.
+- **Your Approach and Results**: Describe your detailed technical approach and contributions. This is the meat of the presentation! 
+- **Broader Impact**: How do you expect the impact of your work to be? What can others learn from it or how can they apply it to solve their problems? 
+- **Limitations**: What are the limitations of your work? What are areas for future improvements?
+
+**Note**: To preserve your privacy, this meeting will not be recorded or broadcast.
 
 ## Grading and Deadlines
 
