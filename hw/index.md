@@ -7,7 +7,7 @@ title: Psych 10: Assignments
 **Assignments**: You will be given 4 problem sets to complete.  Unless otherwise noted, these will be due at 5PM PDT on Fridays, submitted via [Gradescope](https://www.gradescop
 e.com/). If you do not see "STATS60 / Summer 2020" on your Gradescope account, you can self-enroll using the entry code **9EWEZR**.
 
-We provide the problem statement in a .pdf file. We also provide the .Rmd source file that was used to generate the assignment. Using the .Rmd file may turn out helpful for typesetting your answers, but is completely optional.
+We provide the problem statement in a .pdf file. We also provide the .Rmd source file that was used to generate the assignment. Using the .Rmd file may turn out helpful for typesetting your answers, but is completely optional. Sometimes a data set is also included. To use it, you can right click it and select "Save as" and then save the file to a convenient location on your hard drive.
 
 |Assignment|Files|Due Date|
 | ---|---|---|
@@ -19,4 +19,4 @@ We provide the problem statement in a .pdf file. We also provide the .Rmd source
 |Quiz 2| On Gradescope| Wednesday July 29, 5PM PDT
 |HW 3| [.pdf](hw3/hw3.pdf) - [.Rmd](hw3/hw3.Rmd) - [Drought.csv data file](hw3/drought.csv)|Friday July 31, 5PM PDT
 |Quiz 3| On Gradescope| Wednesday August 5, 5PM PDT
-<!-- |HW 4| [.pdf](hw4/hw4.pdf) - [.Rmd](hw4/hw4.Rmd) - [data file](hw3/)|Friday August 14, 5PM PDT -->
+|HW 4| [.pdf](hw4/hw4.pdf) - [.Rmd](hw4/hw4.Rmd) - [data file](hw4/sf_stopping.csv) - [heart.png image (only needed to knit the .Rmd)](hw4/heart.png)|Friday August 14, 5PM PDT
