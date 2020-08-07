@@ -19,5 +19,5 @@ We provide the problem statement in a .pdf file. We also provide the .Rmd source
 |Quiz 2| [Solutions](quiz2_sol.pdf)| Wednesday July 29, 5PM PDT
 |HW 3| [.pdf](hw3/hw3.pdf) - [.Rmd](hw3/hw3.Rmd) - [Drought.csv data file](hw3/drought.csv) - |Friday July 31, 5PM PDT
 |Quiz 3| On Gradescope| Wednesday August 5, 5PM PDT
-|HW 4| [.pdf](hw4/hw4.pdf) - [.Rmd](hw4/hw4.Rmd) - [data file](hw4/sf_stopping.csv) - [heart.png image (only needed to knit the .Rmd)](hw4/heart.png)|Friday August 14, 5PM PDT
+|HW 4| [.pdf](hw4/hw4.pdf) - [.Rmd](hw4/hw4.Rmd) - [data file](hw4/sf_stopping.csv) - [data file small](hw4/sf_stopping_small.csv) - [heart.png image (only needed to knit the .Rmd)](hw4/heart.png)|Friday August 14, 5PM PDT
 |Quiz 4| On Gradescope| Wednesday August 12, 5PM PDT
