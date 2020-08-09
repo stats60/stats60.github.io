@@ -62,7 +62,7 @@ The following is a suggested structure for the video presentation. You don't nec
 Both the project proposal and final project should be submitted through [Gradescope](https://gradescope.com).
 
 - The project proposal is due by **July 15 (Wed), 5PM Pacific Time** and is worth 20%.
-- The final project is due by **August 11 (Tue), 5PM Pacific Time** and is worth 80%.
+- The final project (and video recording if applicable) is due by **August 14 (Fri), 12PM Pacific Time** and is worth 80%.
 
 For each late day, a multiplicative penalty factor of 0.8 will be applied. **The final project cannot be submitted late**. If you foresee that you may have difficulty meeting these deadlines, please come and speak with me **immediately**.
 
