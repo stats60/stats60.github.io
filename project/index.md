@@ -33,7 +33,7 @@ To demonstrate your understanding of the material we have covered, you will perf
 
 Here are the project minimum requirements:
 
-- .Rmd file, as well as 1 .html file. (Don't worry about what these file formats are and how to create them right now; we'll talk about this later in the course.)
+- .Rmd file, as well as 1 .html or .pdf file. (Don't worry about what these file formats are and how to create them right now; we'll talk about this later in the course.)
 Work with a dataset not used in class. Provide the data file and/or a link to it. My advice is to use a dataset that is in .csv or .txt format, as these will be easier to import into R.
 - An "Introduction" section describing the problem and the datasets to be used. This should include top-level summaries of the data (e.g. how many observations and features, histogram/scatterplots of values, anything unusual).
 - A "Data analysis" section where you have both code and accompanying text describing what the code is doing and interpreting the results.
