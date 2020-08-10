@@ -41,7 +41,7 @@ Wednesday sessions are dedicated to R Labs. R Labs are an important component of
 |08/05 | **R Lab** [Slides](../Rlab/lab7.html) - [Code](../Rlab/code-rlab7.R)||Quiz 3 due|
 |08/07 |**Modeling continuous relationships** [Slides](../slides/13.pdf)|Chapter 13|
 
-|08/10 |**Doing reproducible research**<details><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br> * Describe the concept of P-hacking and its effects on scientific practice<br> * Describe the concept of positive predictive value and its relation to statstical power<br><br>Links:<br> * [Fivethirtyeight P-hacking demo](https://projects.fivethirtyeight.com/p-hacking/)<br></details><br>|Chapter 32<br>Simmons et al (available on Canvas)<br>https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.gtAVwLX2GM#.fep9L6pw78|
+|08/10 |**Doing reproducible research** [Slides](../slides/14.pdf) - [Slides with bonus material](../slides/14full.pdf) - [notebook.html](../slides/reproducible.html) - [notebook.Rmd](../slides/reproducible.Rmd) <details><br>Learning Objectives:<br><br>After this lecture, you should be able to:<br> * Describe the concept of P-hacking and its effects on scientific practice<br> * Describe the concept of positive predictive value and its relation to statstical power<br><br>Links:<br> * [Fivethirtyeight P-hacking demo](https://projects.fivethirtyeight.com/p-hacking/)<br></details><br>|Chapter 32<br>Simmons et al (available on Canvas)<br>https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.gtAVwLX2GM#.fep9L6pw78|
 |08/12 | **R Lab**||
 |08/14 |**Final Projects Showtime**|Last day of class - HW4 due|
 
