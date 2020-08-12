@@ -1,12 +1,10 @@
 ---
 title: "STATS 60 Summer 2020: HW4"
-date: "Due August 14, 2020 - No late days allowed"
+author: "Due August 14, 2020 - No late days allowed"
 output:
   pdf_document: default
   html_document: default
 ---
-
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, fig.width = 5, fig.height = 4, fig.align = "center")
 ```
@@ -41,7 +39,8 @@ The following data table records the day time habits of a species of lizard, *gr
 State the null hypothesis and the alternative hypothsis.
 
 ### (b) 
-What are the expected counts in the table under the null hypothesis?
+What are the expected counts in the table under the null hypothesis? (Hint: sum up each row to get a vector of length 2, i.e. number of lizards in sunny/shady location. Assuming the total number of lizards is fixed, compute the expected counts under the null for this vector) 
+
 
 ### (c) 
 Compute the pearson chi-squared statistics. What is the degree of freedom?
