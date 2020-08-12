@@ -5,6 +5,7 @@ output:
   pdf_document: default
   html_document: default
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, fig.width = 5, fig.height = 4, fig.align = "center")
 ```
@@ -48,10 +49,10 @@ Compute the pearson chi-squared statistics. What is the degree of freedom?
 ### (d) 
 What is the p-value of this test? Can you reject the null hypothesis?
 
-### (d) 
+### (e) 
 What is the odds ratio that *grahami* lizard is in a sunny location compared to a shady location, when it is early in the day? What about mid-day? 
 
-### (e)
+### (f)
 Is there evidence that the *grahami* lizards' prefered site does not depend on time of the day? 
 
 ### Problem 3 Heart health 
@@ -96,7 +97,10 @@ In particular, here are the data from 5 countries. Compute the Pearson correlati
 
 If the answer is yes, briefly explain why. If the answer is no, explain what concerns you have or what other information you need. 
 
+\pagebreak
+
 ## Problem 4 Open Policing data
+
 This problem looks at possible policing bias in traffic stops. The dataset is from the open policing project [link](https://openpolicing.stanford.edu). In this problem we are just scratching the surface, but the website [link](https://openpolicing.stanford.edu/tutorials/) has many cool statistical analysis that are also quite accessible, so feel free to take a look if you are interested. You can access dataset from course website. We are interested in vehicle stopping in San Francisco in the year 2015, and only for MPC, moving violation or non-moving violation. Now let's load the data. 
 
 ```{r}
@@ -106,7 +110,6 @@ sf_stopping <- read.csv(file = "sf_stopping.csv", sep="")
 
 #### (a) 
 For each racial group, count the number of drivers who are stopped.   
-
 
 #### (b) 
 The population of San Francisco in the year 2015 is 860,000. Further, according to 2018 US Census Bureau estimates, San Francisco County's population was 40.0% Non-Hispanic White, 5.4% Hispanic White, 5.2% Black or African American, 34.3% Asian, 8.1% Some Other Race, 0.3% Native American and Alaskan Native, 0.2% Pacific Islander and 6.5% from two or more races [Wiki link](https://en.wikipedia.org/wiki/Demographics_of_San_Francisco). For simplicity, we group hispanics with other racial group, and we assume the demographics is the same in 2018 and 2015, thus the population is 40.8% white, 34.5% Asian, 5.2% black and 19.5% others. 
