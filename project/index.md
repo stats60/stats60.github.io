@@ -3,7 +3,7 @@ layout: default
 title: Psych 10: Final Project
 ---
 
-Click [here](project.pdf) for a PDF version of the final project guidelines.
+[Here is the link](https://docs.google.com/forms/d/19fXiQQUN1dcKmWg9XK6FXoOk6zckRLE7oW6f3h4QUHk/) for the final project registration form. Every group must fill this form to let us know about their project.
 
 ## STATS60: Final Project
 
