@@ -4,6 +4,8 @@ title: Psych 10: Syllabus
 ---
 ## Syllabus
 
+Check out [this video](https://www.youtube.com/watch?v=RRQ_AwFEBwI) from the summer 2020 lectures! Including a guest lecture by Professor Rob Tibshirani.
+
 We will cover the following topics. The last few lectures of the class will discuss some active areas such as reproducibility in the scienes, with some topics still pending to change. This page will be updated throughout the quarter to reflect any updates, including reading material drawn from the [*Statistical Thinking for the 21st Century textbook*](https://statsthinking21.github.io/statsthinking21-core-site/).
 
 
